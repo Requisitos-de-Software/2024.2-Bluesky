@@ -75,9 +75,10 @@ markdown_extensions:
 nav:
   - Home: Home/index.md
   - Atas:
-    - 1º reuniao: Atas/reuniao_1.md
-    - 2º reuniao: Atas/reuniao_2.md
-    - 3º reuniao: Atas/reuniao_3.md
+    - 1º reunião: Atas/reuniao_1.md
+    - 2º reunião: Atas/reuniao_2.md
+    - 3º reunião: Atas/reuniao_3.md
+    - 4º reunião: Atas/reuniao_4.md
   - Apresentações: 
     - Apresentação 1: Home/apresentacao1.md
     - Apresentação 2: Home/apresentacao2.md
