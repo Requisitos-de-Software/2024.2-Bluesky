@@ -119,6 +119,9 @@ nav:
       - Backlog: Modelagem/Agil/Backlog.md
       - NFR Framework: Modelagem/Agil/NFRs.md
 
+  - Rastreabilidade: 
+    - Elos: Rastreabilidade/Elos.md
+
   - Inspeção: 
     - Etapa 1:
       - Planejamento Etapa 1: Revisao/Etapa1/planejamento1.md
