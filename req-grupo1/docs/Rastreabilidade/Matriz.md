@@ -15,9 +15,9 @@ A metodologia adotada será baseada no modelo de matriz de rastreabilidade apres
 
 **Tabela 1:** modelo da matriz de rastreabilidade
 
-| Requisito  | Descrição | Implementado | Versão |     Elicitação      |       Modelagem        | Elos |
-| :--------: | :-------: | :----------: | :----: | :-----------------: | :--------------------: | :--: |
-| RFxx/RNFxx |    --     |   SIM/NÃO    |  x.x   | OBxx/ISxx/QTxx/BTxx | CENxx/UCxx/SE/USxx/NFR | Cxx  |
+| Requisito  | Descrição | Implementado | Versão |     Elicitação      |       Modelagem        | Elos | Autor |
+| :--------: | :-------: | :----------: | :----: | :-----: |:-----------------: | :--------------------: | :--: |
+| RFxx/RNFxx |    --     |   SIM/NÃO    |  x.x   | OBxx/ISxx/QTxx/BTxx | CENxx/UCxx/SE/USxx/NFR | Cxx  | Integrante responsável |
 
 <p align="center"><b>Autor: </b><a href="https://github.com/Joa0V">João Ribeiro</a></p>
 </center>
@@ -49,9 +49,24 @@ A tabela 2 apresenta a matriz de rastreabilidade:
 
 **Tabela 2:** matriz de rastreabilidade
 
-| Requisito  | Descrição | Implementado | Versão |     Elicitação      |       Modelagem        | Elos |
-| :--------: | :-------: | :----------: | :----: | :-----------------: | :--------------------: | :--: |
-|            |           |              |        |                     |                        |      |
+| Requisito  | Descrição | Implementado | Versão |     Elicitação      |       Modelagem        | Elos | Autor |
+| :--------: | :-------: | :----------: | :----: | :-----------------: | :--------------------: | :-------------: | :----: | 
+| RF01 | Deve ser possível realizar o login no Bluesky | SIM | 1.0 | [OB01](../PerfilUsuario/Tecnicas/Observacao.md), [IS01](../PerfilUsuario/Tecnicas/Introspeccao.md), [IS010](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US01](../Modelagem/Agil/historia.md) | [E01](../Rastreabilidade/Elos.md) | [Renata Quadros](https://github.com/Renatinha28) |
+| RF02 | Deve ser possível recuperar a senha | SIM | 1.0 | [OB02](../PerfilUsuario/Tecnicas/Observacao.md) | [US02](../Modelagem/Agil/historia.md) | [E02](../Rastreabilidade/Elos.md) | [Renata Quadros](https://github.com/Renatinha28) |
+| RF03 | O sistema deve permitir que o usuário acesse novos conteúdos na plataforma em até 3 segundos após realizar uma ação de navegação | SIM | 1.0 | [OB03](../PerfilUsuario/Tecnicas/Observacao.md) | [US03](../Modelagem/Agil/historia.md) | [E03](../Rastreabilidade/Elos.md) | [Renata Quadros](https://github.com/Renatinha28) |
+| RF04 | Deve ser possível realizar postagens na plataforma | SIM |1.0 | [OB04](../PerfilUsuario/Tecnicas/Observacao.md) | [US04](../Modelagem/Agil/historia.md) | [E04](../Rastreabilidade/Elos.md) | [Renata Quadros](https://github.com/Renatinha28) |
+| RF05 | Deve ser possível editar uma postagem na plataforma | NÃO |1.0 | [OB05](../PerfilUsuario/Tecnicas/Observacao.md), [IS17](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US05](../Modelagem/Agil/historia.md), [UC05](../Modelagem/Caso_de_uso.md), [CEN05](../Modelagem/Cenario.md) | [E05](../Rastreabilidade/Elos.md) | [Renata Quadros](https://github.com/Renatinha28) |
+| RF06 | O sistema deve permitir que o usuário faça buscas por posts relacionados ao seu interesse, usando palavras-chave, hashtags ou filtros específicos. | SIM |1.0 | [OB06](../PerfilUsuario/Tecnicas/Observacao.md), [IS02](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US06](../Modelagem/Agil/historia.md) | [E06](../Rastreabilidade/Elos.md) |[Renata Quadros](https://github.com/Renatinha28) |
+| RF07 | Deve ser possível favoritar uma comunidade | NÃO |1.0 | [OB07](../PerfilUsuario/Tecnicas/Observacao.md)| [US07](../Modelagem/Agil/historia.md) | [E07](../Rastreabilidade/Elos.md) | [Renata Quadros](https://github.com/Renatinha28) |
+| - | 
+| - |
+| COLOQUEM EM ORDEM | 
+| - | 
+| - |
+| RNF01 | Deve ser possível personalizar o aplicativo (dark mode, idiomas…) | SIM | 1.0 | [OB11](../PerfilUsuario/Tecnicas/Observacao.md) | [SE - RDE01](../Modelagem/Especificacao.md) | [E38](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
+| RNF02 | O sistema deve processar buscas e carregar feeds personalizados rapidamente, mesmo com grandes volumes de dados, garantin do uma experiência fluida para o usuário. | SIM | 1.0 | [BT07](../PerfilUsuario/Tecnicas/Brainstorm.md), [NIS01](../PerfilUsuario/Tecnicas/Introspeccao.md) | [SE - RD01](../Modelagem/Especificacao.md) | [E39](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
+| RNF03 | O sistema deve ser capaz de crescer e suportar um número crescente de usuários e posts sem comprometer o desempenho. | SIM | 1.0 | [BT07](../PerfilUsuario/Tecnicas/Brainstorm.md), [NIS01](../PerfilUsuario/Tecnicas/Introspeccao.md), [NIS13](../PerfilUsuario/Tecnicas/Introspeccao.md) | [SE - RD02](../Modelagem/Especificacao.md) | [E40](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
+| RNF04 | Todos os dados sensíveis, como informações de login e reviews salvas, devem ser protegidos por criptografia. O sistema deve implementar autenticação segura e proteger contra ataques como SQL injection e XSS. | SIM | 1.0 | [NIS03](../PerfilUsuario/Tecnicas/Introspeccao.md) | [SE - RC01](../Modelagem/Especificacao.md) | [E41](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
 
 <font size="3"><b>Autores: </b><a href="https://github.com/Joa0V">João Ribeiro</a>; <a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a>; <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
 </center>
@@ -86,6 +101,14 @@ A tabela 2 apresenta a matriz de rastreabilidade:
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>18/01/2025</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>18/01/2025</td>
+            <td>1.1</td>
+            <td>Add elos 1 ao 7 e 38 ao 41</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td></td>
             <td><a href="https://github.com/"></a></td>
         </tr>
