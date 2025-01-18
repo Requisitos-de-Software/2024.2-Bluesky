@@ -82,8 +82,8 @@ As tabelas 2, 3, 4, 5, 6, 7 e 8 representam os cartões de requisitos funcionais
 | **Categoria** | Desenvolvimento |
 | **Elementos** | [RF01](../PerfilUsuario/Tecnicas/Requisitosel.md), [OB01](../PerfilUsuario/Tecnicas/Observacao.md), [IS01](../PerfilUsuario/Tecnicas/Introspeccao.md), [IS10](../PerfilUsuario/Tecnicas/Introspeccao.md), [US01](../Modelagem/Cenario.md)  |
 | **Elos Backward-from** | **Agregação** - [OB01](../PerfilUsuario/Tecnicas/Observacao.md), [IS01](../PerfilUsuario/Tecnicas/Introspeccao.md), [IS10](../PerfilUsuario/Tecnicas/Introspeccao.md) O requisito originou-se da Observação e da Introspecção |
-| **Elos Forward-from** | **Satisfação** - A história de usuário [US01](../Modelagem/Agil/historia.md) satisfaz o requisito [RF01](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar que o usuário deve conseguir realizar o login no Bluesky <br> **Satisfação** - O requisito recebeu $20 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 1.1 do [Backlog](../Modelagem/Agil/Backlog.md)  | 
-| **Print** | Imagem |
+| **Elos Forward-from** | **Satisfação** - O requisito recebeu uma priorização 0,52 na técnica [First Things First ](../PerfilUsuario/TecnicasPrior/firstthing.md) <br> **Satisfação** - A história de usuário [US01](../Modelagem/Agil/historia.md) satisfaz o requisito [RF01](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar que o usuário deve conseguir realizar o login no Bluesky <br> **Satisfação** - O requisito recebeu $20 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 1.1 do [Backlog](../Modelagem/Agil/Backlog.md)  | 
+| **Print** | [Imagem](../assets/images/elo1.jpeg) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -99,8 +99,8 @@ As tabelas 2, 3, 4, 5, 6, 7 e 8 representam os cartões de requisitos funcionais
 | **Categoria** | Desenvolvimento |
 | **Elementos** | [RF02](../PerfilUsuario/Tecnicas/Requisitosel.md), [OB02](../PerfilUsuario/Tecnicas/Observacao.md),[US02](../Modelagem/Agil/historia.md)  |
 | **Elos Backward-from** | **Agregação** - [OB02](../PerfilUsuario/Tecnicas/Observacao.md) O requisito originou-se da Observação  |
-| **Elos Forward-from** | **Satisfação** - A história de usuário [US03](../Modelagem/Agil/historia.md) satisfaz o requisito [RF02](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar a necessidade de recuperação de senha <br> **Satisfação** - O requisito recebeu $20 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 1.2 do [Backlog](../Modelagem/Agil/Backlog.md)   | 
-| **Print** | Imagem |
+| **Elos Forward-from** | **Satisfação** - O requisito recebeu uma priorização 0,31 na técnica [First Things First ](../PerfilUsuario/TecnicasPrior/firstthing.md) <br> **Satisfação** - A história de usuário [US02](../Modelagem/Agil/historia.md) satisfaz o requisito [RF02](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar a necessidade de recuperação de senha <br> **Satisfação** - O requisito recebeu $20 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 1.2 do [Backlog](../Modelagem/Agil/Backlog.md)   | 
+| **Print** | [Imagem](../assets/images/elo2.jpeg) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -112,11 +112,11 @@ As tabelas 2, 3, 4, 5, 6, 7 e 8 representam os cartões de requisitos funcionais
 
 | **Item** | **Descrição** |
 |:-----:|:--------:|
-| **Descrição do requisito** | - |
-| **Categoria** | -|
-| **Elementos** | - |
-| **Elos Backward-from** | - |
-| **Elos Forward-from** | - | 
+| **Descrição do requisito** | O sistema deve permitir que o usuário acesse novos conteúdos na plataforma em até 3 segundos após realizar uma ação de navegação |
+| **Categoria** | Desenvolvimento |
+| **Elementos** | [RF03](../PerfilUsuario/Tecnicas/Requisitosel.md), [OB03](../PerfilUsuario/Tecnicas/Observacao.md),[US03](../Modelagem/Agil/historia.md) |
+| **Elos Backward-from** |  [OB03](../PerfilUsuario/Tecnicas/Observacao.md) O requisito originou-se da Observação |
+| **Elos Forward-from** | **Satisfação** - A história de usuário [US03](../Modelagem/Agil/historia.md) satisfaz o requisito [RF03](../PerfilUsuario/Tecnicas/Requisitosel.md) <br> **Satisfação** - O requisito recebeu $15 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização média na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 2.1 do [Backlog](../Modelagem/Agil/Backlog.md)  | 
 | **Print** | Imagem |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
@@ -133,8 +133,8 @@ As tabelas 2, 3, 4, 5, 6, 7 e 8 representam os cartões de requisitos funcionais
 | **Categoria** | Desenvolvimento |
 | **Elementos** |  [RF04](../PerfilUsuario/Tecnicas/Requisitosel.md), [OB04](../PerfilUsuario/Tecnicas/Observacao.md),[US04](../Modelagem/Agil/historia.md) |
 | **Elos Backward-from** | **Agregação** - [OB04](../PerfilUsuario/Tecnicas/Observacao.md) O requisito originou-se da Técnica de Observação |
-| **Elos Forward-from** | **Satisfação** - A história de usuário [US04](../Modelagem/Agil/historia.md) satisfaz o requisito [RF04](../PerfilUsuario/Tecnicas/Requisitosel.md) ao representar a necessidade do usuário em realizar postagens  <br> **Satisfação** - O requisito recebeu $20 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização baixa na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 2.2 do [Backlog](../Modelagem/Agil/Backlog.md)    | 
-| **Print** | Imagem |
+| **Elos Forward-from** | **Satisfação** - O requisito recebeu uma priorização 0,58 na técnica [First Things First ](../PerfilUsuario/TecnicasPrior/firstthing.md) <br> **Satisfação** - A história de usuário [US04](../Modelagem/Agil/historia.md) satisfaz o requisito [RF04](../PerfilUsuario/Tecnicas/Requisitosel.md) ao representar a necessidade do usuário em realizar postagens  <br> **Satisfação** - O requisito recebeu $20 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização baixa na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 2.2 do [Backlog](../Modelagem/Agil/Backlog.md)    | 
+| **Print** | [Imagem](../assets/images/elo4.jpeg) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -152,8 +152,8 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 | **Categoria** | Desenvolvimento |
 | **Elementos** |  [RF05](../PerfilUsuario/Tecnicas/Requisitosel.md), [OB05](../PerfilUsuario/Tecnicas/Observacao.md), [IS17](../PerfilUsuario/Tecnicas/Introspeccao.md), [US05](../Modelagem/Agil/historia.md) |
 | **Elos Backward-from** | **Agregação** - [OB05](../PerfilUsuario/Tecnicas/Observacao.md) O requisito originou-se da Técnica de Observação e da técnica de Introspecção  [IS17](../PerfilUsuario/Tecnicas/Introspeccao.md) |
-| **Elos Forward-from** | **Satisfação** - A história de usuário [US05](../Modelagem/Agil/historia.md) satisfaz o requisito [RF05](../PerfilUsuario/Tecnicas/Requisitosel.md) ao representar a necessidade do usuário em editar suas publicações <br> **Satisfação** - O requisito recebeu $4 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização média na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 2.3 do [Backlog](../Modelagem/Agil/Backlog.md) <br> **Satisfação** - o requisito [RF05](../PerfilUsuario/Tecnicas/Requisitosel.md) deu origem ao caso de uso [UC05](../Modelagem/Caso_de_uso.md) <br> **Satisfação** - o requisito deu origem ao cenário [CEN05](../Modelagem/Cenario.md) | 
-| **Print** | Imagem |
+| **Elos Forward-from** | **Satisfação** - O requisito recebeu uma priorização 0,73 na técnica [First Things First ](../PerfilUsuario/TecnicasPrior/firstthing.md) <br> **Satisfação** - A história de usuário [US05](../Modelagem/Agil/historia.md) satisfaz o requisito [RF05](../PerfilUsuario/Tecnicas/Requisitosel.md) ao representar a necessidade do usuário em editar suas publicações <br> **Satisfação** - O requisito recebeu $4 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização média na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 2.3 do [Backlog](../Modelagem/Agil/Backlog.md) <br> **Satisfação** - o requisito [RF05](../PerfilUsuario/Tecnicas/Requisitosel.md) deu origem ao caso de uso [UC05](../Modelagem/Caso_de_uso.md) <br> **Satisfação** - o requisito deu origem ao cenário [CEN05](../Modelagem/Cenario.md) | 
+| **Print** | <iframe width="800" height="450" src="https://www.figma.com/embed?embed_host=markdown&url=https://www.figma.com/proto/gxIX8ULMSe6gf3Ii6dnyVu/Untitled?node-id=1-795&p=f&t=EUO7BdW0OlFonVSV-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A795" allowfullscreen></iframe>|
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -169,8 +169,8 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 | **Categoria** | Desenvolvimento |
 | **Elementos** |  [RF06](../PerfilUsuario/Tecnicas/Requisitosel.md), [OB06](../PerfilUsuario/Tecnicas/Observacao.md), [IS02](../PerfilUsuario/Tecnicas/Introspeccao.md), [US06](../Modelagem/Agil/historia.md) |
 | **Elos Backward-from** | **Agregação** - [OB06](../PerfilUsuario/Tecnicas/Observacao.md) O requisito originou-se da Técnica de Observação e da técnica de Introspecção  [IS02](../PerfilUsuario/Tecnicas/Introspeccao.md) |
-| **Elos Forward-from** | **Satisfação** - A história de usuário [US06](../Modelagem/Agil/historia.md) satisfaz o requisito [RF05](../PerfilUsuario/Tecnicas/Requisitosel.md) ao representar a necessidade do usuário em fazer buscas por posts de seu interesse com palavras-chaves <br> **Satisfação** - O requisito recebeu $15 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 2.4 do [Backlog](../Modelagem/Agil/Backlog.md)    | 
-| **Print** | Imagem |
+| **Elos Forward-from** | **Satisfação** - O requisito recebeu uma priorização 1,06 na técnica [First Things First ](../PerfilUsuario/TecnicasPrior/firstthing.md) <br> **Satisfação** - A história de usuário [US06](../Modelagem/Agil/historia.md) satisfaz o requisito [RF05](../PerfilUsuario/Tecnicas/Requisitosel.md) ao representar a necessidade do usuário em fazer buscas por posts de seu interesse com palavras-chaves <br> **Satisfação** - O requisito recebeu $15 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 2.4 do [Backlog](../Modelagem/Agil/Backlog.md)    | 
+| **Print** | [Imagem](../assets/images/elo5.jpeg) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -186,7 +186,7 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 | **Categoria** | Desenvolvimento |
 | **Elementos** | [OB07](../PerfilUsuario/Tecnicas/Observacao.md), [US07](../Modelagem/Agil/historia.md) |
 | **Elos Backward-from** | **Agregação** - [OB07](../PerfilUsuario/Tecnicas/Observacao.md) O requisito originou-se da Técnica de Observação  |
-| **Elos Forward-from** | **Satisfação** - A história de usuário [US07](../Modelagem/Agil/historia.md) satisfaz o requisito [RF05](../PerfilUsuario/Tecnicas/Requisitosel.md) ao representar a necessidade do usuário em favoritar uma comunidade  <br> **Satisfação** - O requisito recebeu $8 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 2.5 do [Backlog](../Modelagem/Agil/Backlog.md)    | 
+| **Elos Forward-from** | **Satisfação** - O requisito recebeu uma priorização 0,47 na técnica [First Things First ](../PerfilUsuario/TecnicasPrior/firstthing.md) <br>  **Satisfação** - A história de usuário [US07](../Modelagem/Agil/historia.md) satisfaz o requisito [RF05](../PerfilUsuario/Tecnicas/Requisitosel.md) ao representar a necessidade do usuário em favoritar uma comunidade  <br> **Satisfação** - O requisito recebeu $8 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> **Agregação** - O requisito é classificado no Épico 2.5 do [Backlog](../Modelagem/Agil/Backlog.md)    | 
 | **Print** | Imagem |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
@@ -332,7 +332,7 @@ As tabelas 39, 40, 41 e 42 representam os cartões de requisitos não funcionais
 | **Categoria** | Desenvolvimento |
 | **Elementos** | [RNF01](../PerfilUsuario/Tecnicas/Requisitosel.md), [OB11](../PerfilUsuario/Tecnicas/Observacao.md), [NFR04](../Modelagem/Agil/NFRs.md), [RDE01](../Modelagem/Especificacao.md)  |
 | **Elos Backward-from** | **Agregação** - [OB11](../PerfilUsuario/Tecnicas/Observacao.md) O requisito originou-se da Técnica de Observação  |
-| **Elos Forward-from** | **Satisfação** -  A especificação suplementar [RDE01](../Modelagem/Especificacao.md) fornece critérios e detalhes que satisfazem o requisito [RNF01](../PerfilUsuario/Tecnicas/Requisitosel.md) <br> **Satisfação** - O requisito recebeu $10 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização baixa na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md)    | 
+| **Elos Forward-from** | **Satisfação** - O requisito recebeu uma priorização 2,10 na técnica [First Things First ](../PerfilUsuario/TecnicasPrior/firstthing.md) <br> **Satisfação** -  A especificação suplementar [RDE01](../Modelagem/Especificacao.md) fornece critérios e detalhes que satisfazem o requisito [RNF01](../PerfilUsuario/Tecnicas/Requisitosel.md) <br> **Satisfação** - O requisito recebeu $10 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização baixa na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md)    | 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -349,7 +349,7 @@ As tabelas 39, 40, 41 e 42 representam os cartões de requisitos não funcionais
 | **Categoria** | Desenvolvimento |
 | **Elementos** | [RNF02](../PerfilUsuario/Tecnicas/Requisitosel.md), [BT07](../PerfilUsuario/Tecnicas/Brainstorm.md), [NIS01](../PerfilUsuario/Tecnicas/Introspeccao.md), [NFR05](../Modelagem/Agil/NFRs.md), [RD01](../Modelagem/Especificacao.md)  |
 | **Elos Backward-from** | **Agregação** - [BT07](../PerfilUsuario/Tecnicas/Observacao.md), [NIS01](../PerfilUsuario/Tecnicas/Introspeccao.md) O requisito originou-se da Técnica de Brainstorm e da Introspecção  |
-| **Elos Forward-from** | **Satisfação** -  A especificação suplementar [RD01](../Modelagem/Especificacao.md) fornece critérios e detalhes que satisfazem o requisito [RNF02](../PerfilUsuario/Tecnicas/Requisitosel.md) <br> **Satisfação** - O requisito recebeu $15 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) | 
+| **Elos Forward-from** | **Satisfação** - O requisito recebeu uma priorização 0,25 na técnica [First Things First ](../PerfilUsuario/TecnicasPrior/firstthing.md) <br> **Satisfação** -  A especificação suplementar [RD01](../Modelagem/Especificacao.md) fornece critérios e detalhes que satisfazem o requisito [RNF02](../PerfilUsuario/Tecnicas/Requisitosel.md) <br> **Satisfação** - O requisito recebeu $15 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) | 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -381,7 +381,7 @@ As tabelas 39, 40, 41 e 42 representam os cartões de requisitos não funcionais
 | **Categoria** | Ambiental |
 | **Elementos** | [RNF04](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS03](../PerfilUsuario/Tecnicas/Introspeccao.md), [NFR10](../Modelagem/Agil/NFRs.md), [RC01](../Modelagem/Especificacao.md)  |
 | **Elos Backward-from** | **Agregação** -  [NIS03](../PerfilUsuario/Tecnicas/Introspeccao.md) O requisito originou-se da Técnica de Introspecção |
-| **Elos Forward-from** | **Satisfação** -  A especificação suplementar [RC01](../Modelagem/Especificacao.md) fornece critérios e detalhes que satisfazem o requisito [RNF04](../PerfilUsuario/Tecnicas/Requisitosel.md) <br> **Satisfação** - O requisito recebeu $20 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) | 
+| **Elos Forward-from** | **Satisfação** - O requisito recebeu uma priorização 0,30 na técnica [First Things First ](../PerfilUsuario/TecnicasPrior/firstthing.md) <br> **Satisfação** -  A especificação suplementar [RC01](../Modelagem/Especificacao.md) fornece critérios e detalhes que satisfazem o requisito [RNF04](../PerfilUsuario/Tecnicas/Requisitosel.md) <br> **Satisfação** - O requisito recebeu $20 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) | 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
