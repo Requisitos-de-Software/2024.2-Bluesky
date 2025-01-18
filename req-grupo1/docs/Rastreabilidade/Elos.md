@@ -204,7 +204,7 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 | **Elementos** | [OB8](../PerfilUsuario/Tecnicas/Observacao.md) e [IS6](../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | **Elos Backward-from** | Agregação - [IS6](../PerfilUsuario/Tecnicas/Introspeccao.md) Originou E08 pela técnica de Introspecção |
 | **Elos Forward-from** | Satisfação - A história de usuário [IS6](../PerfilUsuario/Tecnicas/Introspeccao.md) satisfaz o requisito RF08 ao representar a necessidade do usuário em postar em um FEED <br> Satisfação - O requisito é tido como médio no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação -O requisito recebeu $3.5 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US08 é classificado no épico 2.6 no [Backlog](../Modelagem/Agil/Backlog.md) | 
-| **Print** | Imagem |
+| **Print** | [Imagem](../assets/images/elo8.jpeg) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -221,7 +221,7 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 | **Elementos** | [OB9](../PerfilUsuario/Tecnicas/Observacao.md) |
 | **Elos Backward-from** | Agregação - [OB9](../PerfilUsuario/Tecnicas/Observacao.md) Originou E09 pela técnica de Observação |
 | **Elos Forward-from** | Satisfação - A história de usuário [OB9](../PerfilUsuario/Tecnicas/Observacao.md) satisfaz o requisito RF09 ao representar a necessidade do usuário em visualizar e enviar mensagens a outros usuários, O requisito é tido como médio no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação - requisito recebeu $19 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US09 é classificado no épico 2.7 no [Backlog](../Modelagem/Agil/Backlog.md) <br> Satisfação - O requisito tem a prioridade 0,07 em [First thing First](../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md)  | 
-| **Print** | Imagem |
+| **Print** | [Imagem](../assets/images/elo09.jpeg) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -238,7 +238,7 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 | **Elementos** | [OB10](../PerfilUsuario/Tecnicas/Observacao.md) e [IS12](../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | **Elos Backward-from** | Agregação - [OB10](../PerfilUsuario/Tecnicas/Observacao.md) Originou E10 pela técnica de Observação também pela técnica de introspecção com [IS12](../PerfilUsuario/Tecnicas/Introspeccao.md)|
 | **Elos Forward-from** | Satisfação - A história de usuário [OB10](../PerfilUsuario/Tecnicas/Observacao.md) e [IS12](../PerfilUsuario/Tecnicas/Introspeccao.md) satisfaz o requisito RF10 ao representar a necessidade do usuário em editar seu perfil. <br> O requisito é tido como alto no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação - requisito recebeu $9 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US10 é classificado no épico 1.3 no [Backlog](../Modelagem/Agil/Backlog.md) <br> Satisfação - O requisito tem a prioridade 1,35 em [First thing First](../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md)  | 
-| **Print** | Imagem |
+| **Print** | [Imagem](../assets/images/E10.jpeg) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -306,7 +306,7 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 | **Elementos** | [IS5](../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | **Elos Backward-from** | Agregação - [IS5](../PerfilUsuario/Tecnicas/Introspeccao.md) origina E13 pela técnica de introspecção|
 | **Elos Forward-from** | Satisfação - A história de usuário [IS5](../PerfilUsuario/Tecnicas/Introspeccao.md) satisfaz o requisito RF14 ao representar a necessidade do usuário de criar ou usar feeds de terceiros. <br> O requisito é tido como Médio no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação - requisito recebeu $11 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US14 é classificado no épico 2.11 no [Backlog](../Modelagem/Agil/Backlog.md) <br> Satisfação - O requisito tem a prioridade 0,34 em [First thing First](../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md) | 
-| **Print** | Imagem |
+| **Print** | [Imagem](../assets/images/elo14.jpeg) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -386,6 +386,55 @@ As tabelas 39, 40, 41 e 42 representam os cartões de requisitos não funcionais
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
+## E42
+
+<center>
+<font size="3"><b>Tabela 43:</b> E42 - Cartão do Requisito Não Funcional 05 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** |A interface do usuário deve ser intuitiva e fácil de usar, com opções bem definidas para buscar, salvar e visualizar postagens. O design deve ser centrado no usuário e acessível a diferentes perfis de idade. |
+| **Categoria** | Ambiental |
+| **Elementos** | [RNF05](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS04](../PerfilUsuario/Tecnicas/Introspeccao.md)  |
+| **Elos Backward-from** | **Agregação** -  [NIS04](../PerfilUsuario/Tecnicas/Introspeccao.md) O requisito originou-se da Técnica de Introspecção |
+| **Elos Forward-from** | **Satisfação** -  A especificação suplementar [RU01](../Modelagem/Especificacao.md) e [RU04](../Modelagem/Especificacao.md) fornece critérios e detalhes que satisfazem o requisito [RNF05](../PerfilUsuario/Tecnicas/Requisitosel.md) <br> **Satisfação** - O requisito recebeu $8.5 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização média no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) | 
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+## E43
+
+<center>
+<font size="3"><b>Tabela 44:</b> E43 - Cartão do Requisito Não Funcional 06 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** |O sistema deve ter alta disponibilidade, operando continuamente com mínimas interrupções e implementando redundância de servidores para garantir estabilidade. |
+| **Categoria** | Desenvolvimento |
+| **Elementos** | [RNF06](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS05](../PerfilUsuario/Tecnicas/Introspeccao.md)  |
+| **Elos Backward-from** | **Agregação** -  [NIS05](../PerfilUsuario/Tecnicas/Introspeccao.md) O requisito originou-se da Técnica de Introspecção |
+| **Elos Forward-from** | **Satisfação** -  A especificação suplementar [RC02](../Modelagem/Especificacao.md) fornece critérios e detalhes que satisfazem o requisito [RNF06](../PerfilUsuario/Tecnicas/Requisitosel.md) <br> **Satisfação** - O requisito recebeu $5 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) | 
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+## E44
+
+<center>
+<font size="3"><b>Tabela 45:</b> E44 - Cartão do Requisito Não Funcional 07 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** |O sistema deve ser compatível com dispositivos móveis modernos, oferecendo uma interface responsiva e acessível em diferentes tamanhos de tela. |
+| **Categoria** | Ambiental |
+| **Elementos** | [RNF07](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS06](../PerfilUsuario/Tecnicas/Introspeccao.md) e [BT09](../PerfilUsuario/Tecnicas/Brainstorm.md) |
+| **Elos Backward-from** | **Agregação** -  [NIS06](../PerfilUsuario/Tecnicas/Introspeccao.md) O requisito originou-se da Técnica de Introspecção |
+| **Elos Forward-from** | **Satisfação** -  A especificação suplementar [RC02](../Modelagem/Especificacao.md) fornece parte significativa de critérios e detalhes que satisfazem o requisito [RNF06](../PerfilUsuario/Tecnicas/Requisitosel.md) <br> **Satisfação** - O requisito recebeu $8 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) | 
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+
 ## Referências Bibliográficas 
 > 1. <a id="ref1"></a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 17 jan. 2025.
 
@@ -415,10 +464,10 @@ As tabelas 39, 40, 41 e 42 representam os cartões de requisitos não funcionais
             <td>18/01/2025</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
-                <tr>
+        <tr>
             <td>17/01/2025</td>
             <td>1.0</td>
-            <td>Criação do documento; elos 8 ao 14 </td>
+            <td>Criação do documento; elos 8 ao 14 e 42 a 44 </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
             <td>18/01/2025</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
