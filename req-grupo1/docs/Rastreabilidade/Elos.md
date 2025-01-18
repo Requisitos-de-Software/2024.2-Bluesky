@@ -41,7 +41,7 @@ O objetivo deste documento é detalhar a estruturação dos requisitos do aplica
 ### Legenda do modelo de cartão 
 
 - Categoria: Classificadas em quatro níveis. 
-    - Ambiental: Refere-se ao contexto externo no qual o sistema será inserido. Considera todos os fatores e restições externos que podem influenciar o sistema, como fatores legais; cultura e sociedade; tecnologia disponível. 
+    - Ambiental: Refere-se ao contexto externo no qual o sistema será inserido. Considera todos os fatores e restrições externas que podem influenciar o sistema, como fatores legais; cultura e sociedade; tecnologia disponível. 
     - Organizacional: Foca na organização que está desenvolvento. Analisa elementos internos, como objetivos; estratégias.
     - Gerencial: Refere-se a informações que auxiliam a gerência do projeto, como planejamento; comunicação.
     - Desenvolvimento: Abrange os aspectos técnicos diretamente relacionados à construção e implementação do sistema, como artefatos de requisitos; códigos.
@@ -193,10 +193,124 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 </center>
 
 ## E08
+
+<center>
+<font size="3"><b>Tabela 9:</b> E08 - Cartão do requisito funcional 08 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | O usuário deve poder criar seus próprios posts ,e compartilhá-los com um feed específico ou a comunidade em geral. |
+| **Categoria** | Ambiental |
+| **Elementos** | [OB8](../PerfilUsuario/Tecnicas/Observacao.md) e [IS6](../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| **Elos Backward-from** | Agregação - [IS6](../PerfilUsuario/Tecnicas/Introspeccao.md) Originou E08 pela técnica de Introspecção |
+| **Elos Forward-from** | Satisfação - A história de usuário [IS6](../PerfilUsuario/Tecnicas/Introspeccao.md) satisfaz o requisito RF08 ao representar a necessidade do usuário em postar em um FEED <br> Satisfação - O requisito é tido como médio no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação -O requisito recebeu $3.5 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US08 é classificado no épico 2.6 no [Backlog](../Modelagem/Agil/Backlog.md) | 
+| **Print** | Imagem |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
 ## E09
+
+<center>
+<font size="3"><b>Tabela 10: </b> E09 - Cartão do requisito funcional 09 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | Deve ser possível ver as mensagens com outros usuários |
+| **Categoria** | Ambiental |
+| **Elementos** | [OB9](../PerfilUsuario/Tecnicas/Observacao.md) |
+| **Elos Backward-from** | Agregação - [OB9](../PerfilUsuario/Tecnicas/Observacao.md) Originou E09 pela técnica de Observação |
+| **Elos Forward-from** | Satisfação - A história de usuário [OB9](../PerfilUsuario/Tecnicas/Observacao.md) satisfaz o requisito RF09 ao representar a necessidade do usuário em visualizar e enviar mensagens a outros usuários, O requisito é tido como médio no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação - requisito recebeu $19 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US09 é classificado no épico 2.7 no [Backlog](../Modelagem/Agil/Backlog.md) <br> Satisfação - O requisito tem a prioridade 0,07 em [First thing First](../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md)  | 
+| **Print** | Imagem |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
 ## E10
+
+<center>
+<font size="3"><b>Tabela 11: </b> E10 - Cartão do requisito funcional 10 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | Deve ser possível editar o conteúdo do perfil |
+| **Categoria** | Ambiental |
+| **Elementos** | [OB10](../PerfilUsuario/Tecnicas/Observacao.md) e [IS12](../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| **Elos Backward-from** | Agregação - [OB10](../PerfilUsuario/Tecnicas/Observacao.md) Originou E10 pela técnica de Observação também pela técnica de introspecção com [IS12](../PerfilUsuario/Tecnicas/Introspeccao.md)|
+| **Elos Forward-from** | Satisfação - A história de usuário [OB10](../PerfilUsuario/Tecnicas/Observacao.md) e [IS12](../PerfilUsuario/Tecnicas/Introspeccao.md) satisfaz o requisito RF10 ao representar a necessidade do usuário em editar seu perfil. <br> O requisito é tido como alto no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação - requisito recebeu $9 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US10 é classificado no épico 1.3 no [Backlog](../Modelagem/Agil/Backlog.md) <br> Satisfação - O requisito tem a prioridade 1,35 em [First thing First](../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md)  | 
+| **Print** | Imagem |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
 ## E11
-.
+
+<center>
+<font size="3"><b>Tabela 12: </b> E11 - Cartão do requisito funcional 11 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | O sistema deve notificar o usuário sobre novos posts com base nos interesses e feeds personalizados configurados. |
+| **Categoria** | Organizacional |
+| **Elementos** | [OB12](../PerfilUsuario/Tecnicas/Observacao.md),[IS7](../PerfilUsuario/Tecnicas/Introspeccao.md) e [BT03](../PerfilUsuario/Tecnicas/Brainstorm.md) |
+| **Elos Backward-from** | Agregação - [BT03](../PerfilUsuario/Tecnicas/Brainstorm.md) Originou E11 pela técnica de Observação também pela técnica de introspecção com [IS07](../PerfilUsuario/Tecnicas/Introspeccao.md)|
+| **Elos Forward-from** | Satisfação - A história de usuário [BT03](../PerfilUsuario/Tecnicas/Brainstorm.md) e [IS07](../PerfilUsuario/Tecnicas/Introspeccao.md) satisfaz o requisito RF11 ao representar a necessidade do aplicativo de notificar devidamento o usuário com base em seus gostos. <br> O requisito é tido como baixo no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação - requisito recebeu $4.5 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US11 é classificado no épico 2.8 no [Backlog](../Modelagem/Agil/Backlog.md) <br> Satisfação - O requisito tem a prioridade 0,07 em [First thing First](../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md) | 
+| **Print** | Imagem |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+## E12
+
+<center>
+<font size="3"><b>Tabela 13: </b> E12 - Cartão do requisito funcional 12 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | O usuário deve poder salvar Posts de interesse em uma seção dedicada para consulta futura. |
+| **Categoria** | Ambiental |
+| **Elementos** | [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| **Elos Backward-from** | Agregação - [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md) originaram E12 pela técnica de introspecção|
+| **Elos Forward-from** | Satisfação - A história de usuário [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md) satisfaz o requisito RF12 ao representar a necessidade do aplicativo de salvar posts desejados em itens salvos. <br> O requisito é tido como Médio no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação - requisito recebeu $8.5 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US12 é classificado no épico 2.9 no [Backlog](../Modelagem/Agil/Backlog.md) <br> Satisfação - O requisito tem a prioridade 0,75 em [First thing First](../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md) | 
+| **Print** | Imagem |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+## E13
+
+<center>
+<font size="3"><b>Tabela 14: </b> E13 - Cartão do requisito funcional 13 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | O sistema deve disponibilizar uma seção onde o usuário possa visualizar e gerenciar todas os posts salvos, com opções de ordenação por data, e/ou hashtag|
+| **Categoria** | Ambiental |
+| **Elementos** | [IS4](../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| **Elos Backward-from** | Agregação - [IS4](../PerfilUsuario/Tecnicas/Introspeccao.md) origina E13 pela técnica de introspecção|
+| **Elos Forward-from** | Satisfação - A história de usuário [IS4](../PerfilUsuario/Tecnicas/Introspeccao.md) satisfaz o requisito RF13 ao representar a necessidade do aplicativo de visualizar os posts com os itens salvos. <br> O requisito é tido como Médio no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação - requisito recebeu $14 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US13 é classificado no épico 2.10 no [Backlog](../Modelagem/Agil/Backlog.md) <br>  Satisfação - O requisito tem a prioridade 0,94 em [First thing First](../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md) | 
+| **Print** | Imagem |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+## E14
+
+<center>
+<font size="3"><b>Tabela 15: </b> E14 - Cartão do requisito funcional 14 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | O sistema deve permitir que o usuário crie ou use feeds (micro fóruns de posts) de terceiros personalizados com base em critérios como tipo de post, usuários ou hashtags relacionadas.|
+| **Categoria** | Ambiental |
+| **Elementos** | [IS5](../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| **Elos Backward-from** | Agregação - [IS5](../PerfilUsuario/Tecnicas/Introspeccao.md) origina E13 pela técnica de introspecção|
+| **Elos Forward-from** | Satisfação - A história de usuário [IS5](../PerfilUsuario/Tecnicas/Introspeccao.md) satisfaz o requisito RF14 ao representar a necessidade do usuário de criar ou usar feeds de terceiros. <br> O requisito é tido como Médio no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação - requisito recebeu $11 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US14 é classificado no épico 2.11 no [Backlog](../Modelagem/Agil/Backlog.md) <br> Satisfação - O requisito tem a prioridade 0,34 em [First thing First](../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md) | 
+| **Print** | Imagem |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
 .
 .
 ## E35
@@ -299,7 +413,15 @@ As tabelas 39, 40, 41 e 42 representam os cartões de requisitos não funcionais
             <td>Criação do documento; elos 1 ao 7 e 38 ao 41 </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>18/01/2025</td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+                <tr>
+            <td>17/01/2025</td>
+            <td>1.0</td>
+            <td>Criação do documento; elos 8 ao 14 </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
+            <td>18/01/2025</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
