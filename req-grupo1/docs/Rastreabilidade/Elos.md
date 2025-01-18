@@ -429,7 +429,7 @@ As tabelas 39, 40, 41 e 42 representam os cartões de requisitos não funcionais
 | **Categoria** | Ambiental |
 | **Elementos** | [RNF07](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS06](../PerfilUsuario/Tecnicas/Introspeccao.md) e [BT09](../PerfilUsuario/Tecnicas/Brainstorm.md) |
 | **Elos Backward-from** | **Agregação** -  [NIS06](../PerfilUsuario/Tecnicas/Introspeccao.md) O requisito originou-se da Técnica de Introspecção |
-| **Elos Forward-from** | **Satisfação** -  A especificação suplementar [RC02](../Modelagem/Especificacao.md) fornece parte significativa de critérios e detalhes que satisfazem o requisito [RNF06](../PerfilUsuario/Tecnicas/Requisitosel.md) <br> **Satisfação** - O requisito recebeu $8 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) | 
+| **Elos Forward-from** | **Satisfação** -  A especificação suplementar [RS01](../Modelagem/Especificacao.md) fornece parte significativa de critérios e detalhes que satisfazem o requisito [RNF06](../PerfilUsuario/Tecnicas/Requisitosel.md) <br> **Satisfação** - O requisito recebeu $8 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> **Satisfação** - O requisito recebeu priorização alta no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) | 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>

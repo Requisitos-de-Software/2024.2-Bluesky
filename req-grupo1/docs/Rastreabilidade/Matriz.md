@@ -58,7 +58,13 @@ A tabela 2 apresenta a matriz de rastreabilidade:
 | RF05 | Deve ser possível editar uma postagem na plataforma | NÃO |1.0 | [OB05](../PerfilUsuario/Tecnicas/Observacao.md), [IS17](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US05](../Modelagem/Agil/historia.md), [UC05](../Modelagem/Caso_de_uso.md), [CEN05](../Modelagem/Cenario.md) | [E05](../Rastreabilidade/Elos.md) | [Renata Quadros](https://github.com/Renatinha28) |
 | RF06 | O sistema deve permitir que o usuário faça buscas por posts relacionados ao seu interesse, usando palavras-chave, hashtags ou filtros específicos. | SIM |1.0 | [OB06](../PerfilUsuario/Tecnicas/Observacao.md), [IS02](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US06](../Modelagem/Agil/historia.md) | [E06](../Rastreabilidade/Elos.md) |[Renata Quadros](https://github.com/Renatinha28) |
 | RF07 | Deve ser possível favoritar uma comunidade | NÃO |1.0 | [OB07](../PerfilUsuario/Tecnicas/Observacao.md)| [US07](../Modelagem/Agil/historia.md) | [E07](../Rastreabilidade/Elos.md) | [Renata Quadros](https://github.com/Renatinha28) |
-| - | 
+| RF08 | O usuário deve poder criar seus próprios posts ,e compartilhá-los com um feed específico ou a comunidade em geral. | SIM |1.0 | [OB8](../PerfilUsuario/Tecnicas/Observacao.md) e [IS6](../PerfilUsuario/Tecnicas/Introspeccao.md)| [US08](../Modelagem/Agil/historia.md) | [E08](../Rastreabilidade/Elos.md) | [Davi Nobre](https://github.com/Jagaima) |
+| RF09 | Deve ser possível ver as mensagens com outros usuários. | SIM |1.0 | [OB9](../PerfilUsuario/Tecnicas/Observacao.md)| [US09](../Modelagem/Agil/historia.md) | [E09](../Rastreabilidade/Elos.md) | [Davi Nobre](https://github.com/Jagaima) |
+| RF10 | Deve ser possível editar o conteúdo do perfil | SIM |1.0 | [OB10](../PerfilUsuario/Tecnicas/Observacao.md) e [IS12](../PerfilUsuario/Tecnicas/Introspeccao.md)| [US10](../Modelagem/Agil/historia.md) | [E10](../Rastreabilidade/Elos.md) | [Davi Nobre](https://github.com/Jagaima) |
+| RF11 | O sistema deve notificar o usuário sobre novos posts com base nos interesses e feeds personalizados configurados. | NÃO |1.0 | [OB12](../PerfilUsuario/Tecnicas/Observacao.md),[IS7](../PerfilUsuario/Tecnicas/Introspeccao.md) e [BT03](../PerfilUsuario/Tecnicas/Brainstorm.md)| [US11](../Modelagem/Agil/historia.md) | [E11](../Rastreabilidade/Elos.md) | [Davi Nobre](https://github.com/Jagaima) |
+| RF12 | O usuário deve poder salvar Posts de interesse em uma seção dedicada para consulta futura. | NÃO |1.0 | [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md)| [US12](../Modelagem/Agil/historia.md), [CEN03](../Modelagem/Cenario.md), [UC03](../Modelagem/Caso_de_uso.md) | [E12](../Rastreabilidade/Elos.md) | [Davi Nobre](https://github.com/Jagaima) |
+| RF13 | O sistema deve disponibilizar uma seção onde o usuário possa visualizar e gerenciar todas os posts salvos, com opções de ordenação por data, e/ou hashtag | NÃO |1.0 | [IS4](../PerfilUsuario/Tecnicas/Introspeccao.md)| [US13](../Modelagem/Agil/historia.md), [CEN03](../Modelagem/Cenario.md)| [E13](../Rastreabilidade/Elos.md) | [Davi Nobre](https://github.com/Jagaima) |
+| RF14 | O sistema deve permitir que o usuário crie ou use feeds (micro fóruns de posts) de terceiros personalizados com base em critérios como tipo de post, usuários ou hashtags relacionadas. | SIM |1.0 | [IS5](../PerfilUsuario/Tecnicas/Introspeccao.md)| [US14](../Modelagem/Agil/historia.md)| [E14](../Rastreabilidade/Elos.md) | [Davi Nobre](https://github.com/Jagaima) |
 | - |
 | COLOQUEM EM ORDEM | 
 | - | 
@@ -67,6 +73,9 @@ A tabela 2 apresenta a matriz de rastreabilidade:
 | RNF02 | O sistema deve processar buscas e carregar feeds personalizados rapidamente, mesmo com grandes volumes de dados, garantin do uma experiência fluida para o usuário. | SIM | 1.0 | [BT07](../PerfilUsuario/Tecnicas/Brainstorm.md), [NIS01](../PerfilUsuario/Tecnicas/Introspeccao.md) | [SE - RD01](../Modelagem/Especificacao.md) | [E39](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
 | RNF03 | O sistema deve ser capaz de crescer e suportar um número crescente de usuários e posts sem comprometer o desempenho. | SIM | 1.0 | [BT07](../PerfilUsuario/Tecnicas/Brainstorm.md), [NIS01](../PerfilUsuario/Tecnicas/Introspeccao.md), [NIS13](../PerfilUsuario/Tecnicas/Introspeccao.md) | [SE - RD02](../Modelagem/Especificacao.md) | [E40](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
 | RNF04 | Todos os dados sensíveis, como informações de login e reviews salvas, devem ser protegidos por criptografia. O sistema deve implementar autenticação segura e proteger contra ataques como SQL injection e XSS. | SIM | 1.0 | [NIS03](../PerfilUsuario/Tecnicas/Introspeccao.md) | [SE - RC01](../Modelagem/Especificacao.md) | [E41](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
+| RNF05 | A interface do usuário deve ser intuitiva e fácil de usar, com opções bem definidas para buscar, salvar e visualizar postagens. O design deve ser centrado no usuário e acessível a diferentes perfis de idade. | SIM | 1.0 | [RNF05](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS04](../PerfilUsuario/Tecnicas/Introspeccao.md) | [SE - RU01](../Modelagem/Especificacao.md) e [SE - RU04](../Modelagem/Especificacao.md) | [E42](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
+| RNF06 | O sistema deve ter alta disponibilidade, operando continuamente com mínimas interrupções e implementando redundância de servidores para garantir estabilidade. | Parcialmente | 1.0 | [RNF06](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS05](../PerfilUsuario/Tecnicas/Introspeccao.md)  | [SE - RC02](../Modelagem/Especificacao.md)| [E43](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
+| RNF07 | O sistema deve ser compatível com dispositivos móveis modernos, oferecendo uma interface responsiva e acessível em diferentes tamanhos de tela. | SIM | 1.0 |[RNF07](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS06](../PerfilUsuario/Tecnicas/Introspeccao.md) e [BT09](../PerfilUsuario/Tecnicas/Brainstorm.md)  | [SE - RS01](../Modelagem/Especificacao.md)| [E44](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
 
 <font size="3"><b>Autores: </b><a href="https://github.com/Joa0V">João Ribeiro</a>; <a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a>; <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
 </center>
@@ -110,7 +119,15 @@ A tabela 2 apresenta a matriz de rastreabilidade:
             <td>Add elos 1 ao 7 e 38 ao 41</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>17/01/2025</td>
+            <td>1.0</td>
+            <td>Adição dos elos 8 ao 14 e 42 a 44 na matriz</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
+            <td>18/01/2025</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
