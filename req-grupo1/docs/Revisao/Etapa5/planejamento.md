@@ -60,6 +60,22 @@ A tabela 3 representa a inspeção da matriz de rastreabilidade.
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
 
+
+## Rastreabilidade dos elos
+
+A tabela 4 representa a inspeção dos elos de rastreabilidade.
+
+    Tabela 4: Elos
+|  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   | Autor |
+| :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |:--------: |
+| 14 | Os elos levam os requisitos até sua fonte | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloJ1.png) | Davi |
+| 15 | O modelo é dividido em ambiental,organizacional, gerencial e desenvolvimento conforme proposto por Toranzo | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloj2) |  Eduarda |
+| 16 | Os elos são divididos em 6, classificados como satisfação, recurso, responsabilidade, representação, alocado e agregação? | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloj3.png) | Renata |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p>  
+
+
+
 ## Bibliografia 
 
 > 1. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 18 jan. 2025.
@@ -81,6 +97,14 @@ A tabela 3 representa a inspeção da matriz de rastreabilidade.
             <td>1.0</td>
             <td>Criação do documento e adicionando inspeção Matriz de Rastreabilidade </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>18/01/2025</td>
+            <td>1.0</td>
+            <td>adicionando elos </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td></td>
             <td></td>
         </tr>
