@@ -415,8 +415,9 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |          Descrição           |                                         Eu, como usuário, desejo interagir com postagens por meio de comentários, curtidas e respostas para me expressar sobre uma publicação.                                         |
 |    Critérios de Aceitação    |       - O aplicativo deve permitir fazer comentários e curtir uma publicação tanto em sua exibição em um feed quanto em sua página própria<br> - As respostas devem ser feitas à comentários ou outras respostas       |
 |      Prioridade Usuário      |                                                                                                          Alta                                                                                                          |
-|            Status            |                                                                                                    Não foi validada                                                                                                    |
+|            Status            |                                                                                                    Validada                                                                                                    |
 |       Rastreabilidade        | [RF15](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS8](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS16](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [QT2](../../PerfilUsuario/Tecnicas/Questionario.md) |
+|          Validação           |                                                             [0:24](https://www.youtube.com/watch?v=qSDCzIOyX10)                                                              |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -431,10 +432,11 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 | USx(número de identificação) |                                                                                                                          US16                                                                                                                          |
 |             Tema             |                                                                                                                Publicações e Interações                                                                                                                |
 |          Descrição           |                                              Eu, como usuário, desejo pesquisar publicações com filtros como autor do post, data de publicação ou popularidade, para melhorar minha experiência de busca.                                              |
-|    Critérios de Aceitação    | - Os filtros podem ser adicionados ou excluídos durante uma pesquisa<br>- Todos os filtros de uma pesquisa devem poder ser excluídos de uma só vez<br>- As mudanças de filtro devem ser refletidas nos resultados das pesquisas em menos de 3 segundos |
+|    Critérios de Aceitação    | - Os filtros podem ser adicionados ou excluídos durante uma pesquisa<br>- Todos os filtros de uma pesquisa devem poder ser excluídos de uma só vez<br>- As mudanças de filtro devem ser refletidas nos resultados das pesquisas em menos de 2 segundos |
 |      Prioridade Usuário      |                                                                                                                          Alta                                                                                                                          |
-|            Status            |                                                                                                                    Não foi validada                                                                                                                    |
+|            Status            |                                                                                                                    Validada                                                                                                                    |
 |       Rastreabilidade        |                                                                       [RF16](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS9](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                        |
+|          Validação           |                                                             [1:05](https://www.youtube.com/watch?v=qSDCzIOyX10)   
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -450,9 +452,10 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |             Tema             |                                                   Autenticação e Configurações de Usuário                                                   |
 |          Descrição           |      Eu, como usuário, desejo fazer log-in automático em minha conta criada agilizar o início do uso do sistema em cada sessão de uso.      |
 |    Critérios de Aceitação    | - O log-in automático deve ser explicitamente autorizado pelo usuário por uma checkbox<br>- O log-in automático deve poder ser desabilitado |
-|      Prioridade Usuário      |                                                             Alta, Média, Baixa                                                              |
-|            Status            |                                                              Não foi validada                                                               |
+|      Prioridade Usuário      |                                                             Alta                                                           |
+|            Status            |                                                              Validada                                                               |
 |       Rastreabilidade        |                 [RF17](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS11](../../PerfilUsuario/Tecnicas/Introspeccao.md)                  |
+|          Validação           |                                                             [2:10](https://www.youtube.com/watch?v=qSDCzIOyX10)    
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -469,8 +472,9 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |          Descrição           |         Eu, como usuário, desejo fixar uma publicação em seu perfil para dar destaque a publicação importante em meu perfil.          |
 |    Critérios de Aceitação    | - A publicação destacada deve ser a primeira a ser exibida no perfil do usuário<br>- A publicação destacada deve poder ser desafixada |
 |      Prioridade Usuário      |                                                                 Média                                                                 |
-|            Status            |                                                           Não foi validada                                                            |
+|            Status            |                                                               Validada                                                                |
 |       Rastreabilidade        |              [RF18](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS13](../../PerfilUsuario/Tecnicas/Introspeccao.md)               |
+|          Validação           |                                                             [2:40](https://www.youtube.com/watch?v=qSDCzIOyX10)                       |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -485,10 +489,11 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 | USx(número de identificação) |                                                                 US19                                                                  |
 |             Tema             |                                                       Publicações e Interações                                                        |
 |          Descrição           |     Eu, como usuário, desejo tornar minha conta privada para permitir que apenas seguidores consigam interagir diretamente comigo     |
-|    Critérios de Aceitação    | - A publicação destacada deve ser a primeira a ser exibida no perfil do usuário<br>- A publicação destacada deve poder ser desafixada |
+|    Critérios de Aceitação    | - A conta deve poder ser privada e desprivada<br>- O usuário com a conta privada deve poder definir aqueles perfis que podem interagir com ele dentre os usuários que sejam seus seguidores |
 |      Prioridade Usuário      |                                                                 Alta                                                                  |
-|            Status            |                                                           Não foi validada                                                            |
+|            Status            |                                                           Validada                                                                    |
 |       Rastreabilidade        |              [RF19](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS14](../../PerfilUsuario/Tecnicas/Introspeccao.md)               |
+|          Validação           |                                                             [3:07](https://www.youtube.com/watch?v=qSDCzIOyX10)                       |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -505,8 +510,9 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |          Descrição           |                                                               Eu, como usuário, desejo fazer publicações contendo texto, imagens e vídeos para melhor me comunicar por meio dos posts.                                                               |
 |    Critérios de Aceitação    | - O conteúdo da publicação deve poder ser adicionado, modificado ou excluído durante a criação da publicação de acordo com a vontade de seu criador.<br>- Uma pré-visualização de imagens e vídeos deve ser exibida antes da postagem da publicação. |
 |      Prioridade Usuário      |                                                                                                                         Alta                                                                                                                         |
-|            Status            |                                                                                                                   Não foi validada                                                                                                                   |
+|            Status            |                                                                                                                           Validada                                                                                                                   |
 |       Rastreabilidade        |                                                                      [RF20](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS15](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                      |
+|          Validação           |                                                             [4:13](https://www.youtube.com/watch?v=qSDCzIOyX10)                       |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -521,10 +527,11 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 | USx(número de identificação) |                                                                                          US21                                                                                           |
 |             Tema             |                                                                                Publicações e Interações                                                                                 |
 |          Descrição           | Eu, como usuário, desejo visualizar publicações de diferentes idiomas traduzidas para meu idioma principal dentro do aplicativo para compreender usuários que falam diferentes línguas. |
-|    Critérios de Aceitação    |                      - A tradução deve ser disponibilizada na mesma página da publicação<br>- Caso haja impossibilidade de tradução, o usuário deve ser sinalizado                      |
+|    Critérios de Aceitação    |                      - A tradução deve ser disponibilizada na mesma página da publicação<br>- Caso haja impossibilidade de tradução, o usuário deve ser sinalizado<br>- O usuário poderá ativar ou desativar a tradução de uma publicação em sua própria página<br>- O usuário poderá alterar suas preferências de tradução nas configurações|
 |      Prioridade Usuário      |                                                                                          Alta                                                                                           |
-|            Status            |                                                                                    Não foi validada                                                                                     |
+|            Status            |                                                                                            Validada                                                                                     |
 |       Rastreabilidade        |                                       [RF21](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS18](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                        |
+|          Validação           |                                                             [4:50](https://www.youtube.com/watch?v=qSDCzIOyX10)                       |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -541,8 +548,10 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |          Descrição           |             Eu, como usuário, desejo mandar mensagens diretas a outro usuário, caso nos sigamos mutualmente para poder me comunicar de forma privada.             |
 |    Critérios de Aceitação    | - As mensagens diretas podem ser acessadas somente por usuários que façam parte do canal de comunicação privado <br>- Deve ser possível sair de conversas diretas |
 |      Prioridade Usuário      |                                                                               Média                                                                               |
-|            Status            |                                                                         Não foi validada                                                                          |
+|            Status            |                                                                            Validada                                                                               |
 |       Rastreabilidade        |                            [RF22](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS19](../../PerfilUsuario/Tecnicas/Introspeccao.md)                             |
+|          Validação           |                                                             [5:48](https://www.youtube.com/watch?v=qSDCzIOyX10)                       |
+
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -559,11 +568,23 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |          Descrição           |                                                               Eu, como usuário, desejo participar de grupos de mensagens privadas para poder me comunicar de forma privada com um grupo restrito de outros usuários.                                                               |
 |    Critérios de Aceitação    | - As mensagens de de grupos de mensagens privadas podem ser acessadas somente por usuários que façam parte do canal de comunicação privado<br>- Deve ser possível convidar usuários para o grupo de mensagens privadas<br>- Deve ser possível sair de grupos de mensagens privadas |
 |      Prioridade Usuário      |                                                                                                                                       Média                                                                                                                                        |
-|            Status            |                                                                                                                                  Não foi validada                                                                                                                                  |
+|            Status            |                                                                                                                                  Validada                                                                                                                                  |
 |       Rastreabilidade        |                                                                                     [RF23](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS20](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                     |
+|          Validação           |                                                             [6:24](https://www.youtube.com/watch?v=qSDCzIOyX10)                       |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
+
+### Validação com Usuário
+
+O vídeo 3 contém a verificação das histórias de usuário e backlog do 15 ao 23. Foi realizado por [João Ribeiro](https://github.com/Joa0V) com a participação voluntária da Melissa como usuário. Esta gravação foi realizada no dia 15/01/2025 às 14:56.
+
+<font size="3"><b>Vídeo 3:</b> Validação histórias de usuário e backlog (15 ao 23)</font>
+
+<center>
+<iframe width="824" height="464" src="https://www.youtube.com/embed/vgCVZUV5Cd0" title="Historias de usuario - GRUPO 1 - João" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 
 ### Histórias de Usuário requisitos elicitados 24 a 30.
 
@@ -714,9 +735,9 @@ As tabelas 27, 28, 29, 30, 31, 32 e 33 se referem as histórias de usuário feit
 
 <a id="24_a_30"></a>
 
-O vídeo 3 contém a verificação das histórias de usuário e backlog do 24 ao 30. Foi realizado pela [Carla Clementino](https://github.com/ccarlaa) com a participação voluntária da Bruna de Araújo atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 21:00.
+O vídeo 4 contém a verificação das histórias de usuário e backlog do 24 ao 30. Foi realizado pela [Carla Clementino](https://github.com/ccarlaa) com a participação voluntária da Bruna de Araújo atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 21:00.
 
-<font size="3"><b>Vídeo 3:</b> Validação histórias de usuário e backlog (24 ao 30)</font>
+<font size="3"><b>vídeo 4:</b> Validação histórias de usuário e backlog (24 ao 30)</font>
 
 <center>
 <iframe width="824" height="464" src="https://www.youtube.com/embed/e_JuoM2vYrk" title="Historias de usuario - GRUPO 1 - CARLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -919,6 +940,14 @@ As tabelas 33 até 39 descrevem as histórias de usuário realizadas pela integr
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>17/12</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+        </tr>
+        <tr>
+            <td>19/01</td>
+            <td>1.6</td>
+            <td>Adição do vídeo de validação e alterações nos critérios de aceitação (16,19 e 21)</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>19/01</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>

@@ -311,6 +311,162 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
 
+## E15
+
+As tabelas 16, 17, 18, 19, 29, 21, 22, 23 e 24 representam os cartões de elos de requisitos funcionais feitos pelo integrante [João Ribeiro](https://github.com/Joa0V).
+
+<center>
+<font size="3"><b>Tabela 16:</b> E15 - Cartão do Requisito Funcional 15 </font>
+
+|            Item            |                                                                                         Descrição                                                                                         |
+| :------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                              Os usuários devem poder interagir com postagens por meio de comentários, curtidas e respostas.                                               |
+|       **Categoria**        |                                                                                      Desenvolvimento                                                                                      |
+|       **Elementos**        | [RF15](../PerfilUsuario/Tecnicas/Requisitosel.md), [IS8](../PerfilUsuario/Tecnicas/Introspeccao.md), [IS16](../PerfilUsuario/Tecnicas/Introspeccao.md), [QT2](../PerfilUsuario/Tecnicas/Questionario.md), [US15](../Modelagem/Agil/historia.md)                 |
+|   **Elos Backward-from**   |                                                 **Agregação** - O requisito originou-se da Introspecção(IS8, IS16) e do Questionário(QT2)                                                 |
+|   **Elos Forward-from**    | **Satisfação**  - A história de usuário US15 satisfaz as necessidades estabelecidas pelo requisito RF15<br>**Alocado** - a história de usuário US15 está alocada no Épico 2.20 do [Backlog](../Modelagem/Agil/Backlog.md) |
+|         **Print**          |                                                              [Print do requisito implementado](../assets/images/printRF15.jpg)                                                            |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
+
+## E16
+
+<center>
+<font size="3"><b>Tabela 17:</b> E16 - Cartão do Requisito Funcional 16 </font>
+
+|            Item            |                                                                                        Descrição                                                                                         |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                 O sistema deve permitir a aplicação de filtros avançados, como autor do post, data de publicação ou popularidade, para melhorar a experiência de busca.                  |
+|       **Categoria**        |                                                                                     Desenvolvimento                                                                                      |
+|       **Elementos**        |              [RF16](../PerfilUsuario/Tecnicas/Requisitosel.md), [IS9](../PerfilUsuario/Tecnicas/Introspeccao.md), [US16](../Modelagem/Agil/historia.md)                                  |
+|   **Elos Backward-from**   |                                                             **Recurso** - O requisito RF16 originou-se da Introspecção(IS9)                                                              |
+|   **Elos Forward-from**    | **Satisfação**  - A história de usuário US16 satisfaz as necessidades estabelecidas pelo requisito RF15<br>**Alocado** - a história de usuário US16 está alocada no Épico 2.4 do [Backlog](../Modelagem/Agil/Backlog.md) |
+|         **Print**          |                                                                               Requisito não implementado                                                                                 |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
+
+## E17
+
+<center>
+<font size="3"><b>Tabela 18:</b> E17 - Cartão do Requisito Funcional 17 </font>
+
+|            Item            |                                                                                        Descrição                                                                                         |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                      O usuário deve ser capaz de fazer log-in/log-in automático em sua conta criada                                                      |
+|       **Categoria**        |                                                                                     Desenvolvimento                                                                                      |
+|       **Elementos**        |            [RF17](../PerfilUsuario/Tecnicas/Requisitosel.md), [IS11](../PerfilUsuario/Tecnicas/Introspeccao.md), [US17](../Modelagem/Agil/historia.md)                                   |
+|   **Elos Backward-from**   |                                                             **Recurso** - O requisito RF16 originou-se da Introspecção(IS11)                                                             |
+|   **Elos Forward-from**    | **Satisfação**  - A história de usuário US17 satisfaz as necessidades estabelecidas pelo requisito RF17<br>**Alocado** - a história de usuário US17 está alocada no Épico 2.1 do [Backlog](../Modelagem/Agil/Backlog.md) |
+|         **Print**          |                                                              [Print do requisito implementado](../assets/images/printRF17.jpg)                                                           |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
+
+## E18
+
+<center>
+<font size="3"><b>Tabela 19:</b> E18 - Cartão do Requisito Funcional 18 </font>
+
+|            Item            |                                                                                         Descrição                                                                                         |
+| :------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                  O usuário deve poder fixar uma publicação em seu perfil dando-a destaque em seu perfil                                                   |
+|       **Categoria**        |                                                                                      Desenvolvimento                                                                                      |
+|       **Elementos**        |                       [RF18](../PerfilUsuario/Tecnicas/Requisitosel.md), [IS13](../PerfilUsuario/Tecnicas/Introspeccao.md), [US18](../Modelagem/Agil/historia.md)                         |
+|   **Elos Backward-from**   |                                                             **Recurso** - O requisito RF16 originou-se da Introspecção(IS13)                                                              |
+|   **Elos Forward-from**    | **Satisfação**  - A história de usuário US18 satisfaz as necessidades estabelecidas pelo requisito RF18<br>**Alocado** - a história de usuário US18 está alocada no Épico 2.21 do [Backlog](../Modelagem/Agil/Backlog.md) |
+|         **Print**          |                                                              [Print do requisito implementado](../assets/images/printRF18.jpg)                                                            |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
+
+## E19
+
+<center>
+<font size="3"><b>Tabela 20:</b> E19 - Cartão do Requisito Funcional 19 </font>
+
+|            Item            |                                                                                         Descrição                                                                                         |
+| :------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |            O usuário deve poder tornar sua conta privada, restringindo a interação de outros usuários ao permitir que apenas seguidores consigam interagir diretamente com ele            |
+|       **Categoria**        |                                                                                      Desenvolvimento                                                                                      |
+|       **Elementos**        |               [RF19](../PerfilUsuario/Tecnicas/Requisitosel.md), [IS14](../PerfilUsuario/Tecnicas/Introspeccao.md), [US19](../Modelagem/Agil/historia.md)                                 |
+|   **Elos Backward-from**   |                                                             **Recurso** - O requisito RF16 originou-se da Introspecção(IS14)                                                              |
+|   **Elos Forward-from**    | **Satisfação**  - A história de usuário US19 satisfaz as necessidades estabelecidas pelo requisito RF19<br>**Alocado** - a história de usuário US19 está alocada no Épico 2.22 do [Backlog](../Modelagem/Agil/Backlog.md) |
+|         **Print**          |                                                                               Requisito não implementado                                                                                  |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
+
+## E20
+
+<center>
+<font size="3"><b>Tabela 21:</b> E20 - Cartão do Requisito Funcional 20 </font>
+
+|            Item            |                                                                                        Descrição                                                                                         |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                     Deve ser possível ao usuário fazer publicações contendo texto, imagens e vídeos                                                      |
+|       **Categoria**        |                                                                                     Desenvolvimento                                                                                      |
+|       **Elementos**        |                        [RF20](../PerfilUsuario/Tecnicas/Requisitosel.md), [IS15](../PerfilUsuario/Tecnicas/Introspeccao.md), [US20](../Modelagem/Agil/historia.md)                       |
+|   **Elos Backward-from**   |                                                             **Recurso** - O requisito RF16 originou-se da Introspecção(IS15)                                                             |
+|   **Elos Forward-from**    | **Satisfação**  - A história de usuário US20 satisfaz as necessidades estabelecidas pelo requisito RF20<br>**Alocado** - a história de usuário US20 está alocada no Épico 2.2 do [Backlog](../Modelagem/Agil/Backlog.md) |
+|         **Print**          |                                                              [Print do requisito implementado](../assets/images/printRF20.jpg)                                                           |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
+
+## E21
+
+<center>
+<font size="3"><b>Tabela 22:</b> E21 - Cartão do Requisito Funcional 21 </font>
+
+|            Item            |                                                                                         Descrição                                                                                         |
+| :------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                 Deve ser possível ao usuário visualizar dentro do aplicativo publicações de diferentes idiomas traduzidas para o idioma principal definido no aplicativo                  |
+|       **Categoria**        |                                                                                      Desenvolvimento                                                                                      |
+|       **Elementos**        |                          [RF21](../PerfilUsuario/Tecnicas/Requisitosel.md), [IS18](../PerfilUsuario/Tecnicas/Introspeccao.md), [US21](../Modelagem/Agil/historia.md)                      |
+|   **Elos Backward-from**   |                                                             **Recurso** - O requisito RF16 originou-se da Introspecção(IS18)                                                              |
+|   **Elos Forward-from**    | **Satisfação**  - A história de usuário US21 satisfaz as necessidades estabelecidas pelo requisito RF21<br>**Alocado** - a história de usuário US21 está alocada no Épico 2.23 do [Backlog](../Modelagem/Agil/Backlog.md) |
+|         **Print**          |                                                                               Requisito não implementado                                                                                  |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
+
+## E22
+
+<center>
+<font size="3"><b>Tabela 23:</b> E22 - Cartão do Requisito Funcional 22 </font>
+
+|            Item            |                                                                                        Descrição                                                                                         |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                 O usuário deve poder mandar mensagens diretas a outro usuário, caso se sigam mutualmente                                                 |
+|       **Categoria**        |                                                                                     Desenvolvimento                                                                                      |
+|       **Elementos**        |                               [RF22](../PerfilUsuario/Tecnicas/Requisitosel.md), [IS19](../PerfilUsuario/Tecnicas/Introspeccao.md), [US22](../Modelagem/Agil/historia.md)                |
+|   **Elos Backward-from**   |                                                            **Recurso** - O requisito RF16 originou-se da Introspecção(IS19)                                                              |
+|   **Elos Forward-from**    | **Satisfação**  - A história de usuário US22 satisfaz as necessidades estabelecidas pelo requisito RF22<br>**Alocado** - a história de usuário US22 está alocada no Épico 2.7 do [Backlog](../Modelagem/Agil/Backlog.md) |
+|         **Print**          |                                                              [Print do requisito implementado](../assets/images/printRF22.jpg)                                                           |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
+
+## E23
+
+<center>
+<font size="3"><b>Tabela 24:</b> E23 - Cartão do Requisito Funcional 23 </font>
+
+|            Item            |                                                                                        Descrição                                                                                         |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                       O usuário deve poder mandar mensagens diretas a outro usuário, caso se sigam mutualmente                                                           |
+|       **Categoria**        |                                                                             Desenvolvimento                                                                                              |
+|       **Elementos**        |   [RF23](../PerfilUsuario/Tecnicas/Requisitosel.md), [IS19](../PerfilUsuario/Tecnicas/Introspeccao.md), [US23](../Modelagem/Agil/historia.md), [CEN04](../Modelagem/Cenario.md), [UC04](../Modelagem/Caso_de_uso.md)  |
+|   **Elos Backward-from**   |                                                   **Recurso** - O requisito RF16 originou-se da Introspecção(IS19)                                                                       |
+|   **Elos Forward-from**    | **Satisfação**  - A história de usuário US23 satisfaz as necessidades estabelecidas pelo requisito RF23<br>**Alocado** - a história de usuário US23 está alocada no Épico 2.24 do [Backlog](../Modelagem/Agil/Backlog.md)<br>**Representação** - o cenário CEN04 representa o requisito RF23<br>**Representação** - o caso de uso UC04 representa o requisito RF23 |
+|         **Print**          |                                                                               Requisito não implementado                                                                                  |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
+
+
 ## E31
 
 As tabelas 32, 33, 34, 35, 36, 37 e 38 representam os cartões de requisitos funcionais feitos pela integrante [Carla Clementino](https://github.com/ccarlaa).
@@ -414,6 +570,9 @@ As tabelas 32, 33, 34, 35, 36, 37 e 38 representam os cartões de requisitos fun
 | **Elos Forward-from**     | **Satisfação** - A história de usuário [US42](../Modelagem/Agil/historia.md) satisfaz o requisito [RF37](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar que o aplicativo deve enviar notificações sobre eventos em tempo real.<br> **Satisfação** - O requisito recebeu $11 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md).<br> **Satisfação** - O requisito recebeu priorização média na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md).<br> **Agregação** - O requisito é classificado no Épico 2.37 do [Backlog](../Modelagem/Agil/Backlog.md). |
 | **Print**                 | Imagem                                                                                                                                                                                                                                        
 **Autor:** [Carla Clementino](https://github.com/ccarlaa)
+
+
+
 
 .
 .
@@ -538,6 +697,39 @@ As tabelas 39, 40, 41 e 42 representam os cartões de requisitos não funcionais
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
 
+As tabelas 46 e 47 representam os cartões de requisitos não funcionais feitos pelo integrante [João Ribeiro](https://github.com/Joa0V).
+
+## E45
+
+<center>
+<font size="3"><b>Tabela 46:</b> E45 - Cartão do Requisito Não Funcional 8 </font>
+
+|            Item            |                                                                      Descrição                                                                      |
+| :------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** | O sistema deve permitir que o usuário personalize seus feeds e notificações facilmente, com opções para ajustar preferências de conteúdo e formato. |
+|       **Categoria**        |                                                                   Desenvolvimento                                                                   |
+|       **Elementos**        |                       [RNF8](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS7](../PerfilUsuario/Tecnicas/Introspeccao.md)                          |
+|   **Elos Backward-from**   |                                   **Recurso** - O requisito não funcional RNF8 originou-se da Introspecção(NIS7)                                    |
+|   **Elos Forward-from**    |                Não foram encontrados elos Forward-from, pois o requisito não está presente em artefatos posteriores a sua elicitação                |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
+
+## E46
+
+<center>
+<font size="3"><b>Tabela 47:</b> E46 - Cartão do Requisito Não Funcional 9 </font>
+
+|            Item            |                                                                                           Descrição                                                                                            |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                         O aplicativo deve ter um tempo de resposta para cada ação menor que 3 segundos                                                         |
+|       **Categoria**        |                                                                                        Desenvolvimento                                                                                         |
+|       **Elementos**        |        [RNF9](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS9](../PerfilUsuario/Tecnicas/Introspeccao.md), [RD03](../Modelagem/Especificacao.md), [NFR05](../Modelagem/Agil/NFRs.md)         |
+|   **Elos Backward-from**   |                                                         **Recurso** - O requisito não funcional RNF9 originou-se da Introspecção(NIS9)                                                         |
+|   **Elos Forward-from**    | **Alocação** - o requisito não funcional RNF9 foi alocado na categoria de desempenho na Especificação Suplementar(RD03)<br>**Satisfação** - o requisito é satisfeito pelo NFR framework(NFR05) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
 
 ## Referências Bibliográficas 
 > 1. <a id="ref1"></a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 17 jan. 2025.
@@ -570,11 +762,19 @@ As tabelas 39, 40, 41 e 42 representam os cartões de requisitos não funcionais
         </tr>
         <tr>
             <td>17/01/2025</td>
-            <td>1.0</td>
+            <td>1.1</td>
             <td>Criação do documento; elos 8 ao 14 e 42 a 44 </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
             <td>18/01/2025</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>19/01/2025</td>
+            <td>1.2</td>
+            <td>Adição dos elos 15 ao 23 e 45 a 46 </td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>19/01/2025</td>
+            <td><a href="https://github.com/"></a></td>
         </tr>
     </table>
 </div>

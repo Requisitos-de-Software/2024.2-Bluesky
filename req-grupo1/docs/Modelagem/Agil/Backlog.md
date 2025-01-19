@@ -226,10 +226,6 @@ A tabela 1 organiza todos os épicos
 <font size="3"><b>Autores: </b><a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a>; <a href="https://github.com/Joa0V">João Ribeiro</a>; <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
 </center>
 
-<font size="3"><b>Autores: </b><a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a>; <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
-
-</center>
-
 ## **Validação com Usuário**
 
 O vídeo 1 contém a verificação dos Épicos do 2.13 ao 2.19. Foi realizado pela [Carla Clementino](https://github.com/ccarlaa) com a participação voluntária da Bruna de Araújo atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 21:00.
@@ -242,7 +238,15 @@ O vídeo 1 contém a verificação dos Épicos do 2.13 ao 2.19. Foi realizado pe
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
 </center>
 
+O vídeo 2 contém a verificação dos itens de backlog referentes às histórias de usuário 15 a 23. Foi realizado pela [João Ribeiro](https://github.com/Joa0V) com a participação voluntária da Melissa como usuário. Esta gravação foi realizada no dia 15/01/2025 às 15:11.
 
+<center>
+<font size="3"><b>Vídeo 2: </b> Validação dos itens de backlog referentes às histórias de usuário 15 a 23</font>
+
+<iframe width="824" height="464" src="https://www.youtube.com/embed/uibYHl9N_Fs" title="backlog - GRUPO 1 - João" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
 
 ## Bibliografia
 
@@ -309,6 +313,14 @@ O vídeo 1 contém a verificação dos Épicos do 2.13 ao 2.19. Foi realizado pe
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td>17/12</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>19/01</td>
+            <td>1.6</td>
+            <td>Adição do vídeo de validação</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>19/01</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>
