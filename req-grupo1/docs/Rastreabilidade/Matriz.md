@@ -74,10 +74,13 @@ A tabela 2 apresenta a matriz de rastreabilidade:
 | RF21 | Deve ser possível ao usuário visualizar dentro do aplicativo publicações de diferentes idiomas traduzidas para o idioma principal definido no aplicativo | NÃO | 1.0 | [IS18](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US21](../Modelagem/Agil/historia.md) | [E21](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
 | RF22 | O usuário deve poder mandar mensagens diretas a outro usuário, caso se sigam mutualmente | SIM | 1.0 | [IS19](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US22](../Modelagem/Agil/historia.md) | [E22](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
 | RF23 | O usuário deve poder criar, ingressar, convidar e sair de grupos de mensagens diretas	| SIM | 1.0 | [IS20](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US23](../Modelagem/Agil/historia.md), , [CEN04](../Modelagem/Cenario.md), [UC04](../Modelagem/Caso_de_uso.md) | [E23](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
-| - | 
-| COLOQUEM EM ORDEM | 
-| - | 
-| - |
+| RF24 | O usuário deve poder mandar mídias como vídeos e áudios nas mensagens privadas. | NÃO | 1.0 | [IS21](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US24](../Modelagem/Agil/historia.md) | [E24](../Rastreabilidade/Elos.md) | [Eduarda Tavares](https://github.com/erteduarda) |
+| RF25 | O usuário deve poder criar, modificar e excluir suas listas de perfis de interesse. | SIM | 1.0 | [IS23](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US25](../Modelagem/Agil/historia.md) | [E25](../Rastreabilidade/Elos.md) | [Eduarda Tavares](https://github.com/erteduarda) |
+| RF26 | Caso não seja o criador da lista, o usuário deve poder inscrever-se/deixar de ser inscrito em listas de perfis de interesse para ter/deixar de ter acesso às publicações desses perfis por uma aba. | SIM | 1.0 | [IS24](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US26](../Modelagem/Agil/historia.md) | [E26](../Rastreabilidade/Elos.md) | [Eduarda Tavares](https://github.com/erteduarda) |
+| RF27 | O usuário deve poder criar, modificar e excluir suas listas de moderação. | NÃO | 1.0 | [IS25](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US27](../Modelagem/Agil/historia.md) | [E27](../Rastreabilidade/Elos.md) | [Eduarda Tavares](https://github.com/erteduarda) |
+| RF28 | Caso não seja o criador da lista, o usuário deve poder inscrever-se/deixar de ser inscrito em listas de moderação para não permitir/permitir a interação com os perfis contidos na lista. | SIM | 1.0 | [IS26](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US28](../Modelagem/Agil/historia.md) | [E28](../Rastreabilidade/Elos.md) | [Eduarda Tavares](https://github.com/erteduarda) |
+| RF29 | O usuário deve poder visualizar a quantidade de vezes em que sua publicação foi visualizada. | NÃO | 1.0 | [IS27](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US29](../Modelagem/Agil/historia.md) | [E29](../Rastreabilidade/Elos.md) | [Eduarda Tavares](https://github.com/erteduarda) |
+| RF30 | O aplicativo deve permitir ao usuário comunicação, entretenimento e informações atualizadas. | SIM | 1.0 | [QT1](../PerfilUsuario/Tecnicas/Questionario.md) | [US30](../Modelagem/Agil/historia.md) | [E30](../Rastreabilidade/Elos.md) | [Eduarda Tavares](https://github.com/erteduarda) |
 | RNF01 | Deve ser possível personalizar o aplicativo (dark mode, idiomas…) | SIM | 1.0 | [OB11](../PerfilUsuario/Tecnicas/Observacao.md) | [SE - RDE01](../Modelagem/Especificacao.md) | [E38](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
 | RNF02 | O sistema deve processar buscas e carregar feeds personalizados rapidamente, mesmo com grandes volumes de dados, garantin do uma experiência fluida para o usuário. | SIM | 1.0 | [BT07](../PerfilUsuario/Tecnicas/Brainstorm.md), [NIS01](../PerfilUsuario/Tecnicas/Introspeccao.md) | [SE - RD01](../Modelagem/Especificacao.md) | [E39](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
 | RNF03 | O sistema deve ser capaz de crescer e suportar um número crescente de usuários e posts sem comprometer o desempenho. | SIM | 1.0 | [BT07](../PerfilUsuario/Tecnicas/Brainstorm.md), [NIS01](../PerfilUsuario/Tecnicas/Introspeccao.md), [NIS13](../PerfilUsuario/Tecnicas/Introspeccao.md) | [SE - RD02](../Modelagem/Especificacao.md) | [E40](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
@@ -87,6 +90,9 @@ A tabela 2 apresenta a matriz de rastreabilidade:
 | RNF07 | O sistema deve ser compatível com dispositivos móveis modernos, oferecendo uma interface responsiva e acessível em diferentes tamanhos de tela. | SIM | 1.0 |[RNF07](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS06](../PerfilUsuario/Tecnicas/Introspeccao.md) e [BT09](../PerfilUsuario/Tecnicas/Brainstorm.md)  | [SE - RS01](../Modelagem/Especificacao.md)| [E44](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
 | RNF08 | O sistema deve permitir que o usuário personalize seus feeds e notificações facilmente, com opções para ajustar preferências de conteúdo e formato. | SIM | 1.0 | [NIS7](../PerfilUsuario/Tecnicas/Introspeccao.md) | - | [E45](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
 | RNF09 | O aplicativo deve ter um tempo de resposta para cada ação menor que 3 segundos | SIM | 1.0 | [NIS9](../PerfilUsuario/Tecnicas/Introspeccao.md) | [RD03](../Modelagem/Especificacao.md), [NFR05](../Modelagem/Agil/NFRs.md) | [E46](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
+| RNF15 | A plataforma deve garantir transparência nos algoritmos de recomendação. | NÃO | 1.0 | [QT6](../PerfilUsuario/Tecnicas/Questionario.md) | [SE - RC03](../Modelagem/Especificacao.md) | [E47](../Rastreabilidade/Elos.md) | [Eduarda Tavares](https://github.com/erteduarda) |
+| RNF16 | O sistema deve proteger os dados dos usuários de acordo com a LGPD. | NÃO | 1.0 | [BT8](../PerfilUsuario/Tecnicas/Brainstorm.md) | [SE - RC04](../Modelagem/Especificacao.md) | [E48](../Rastreabilidade/Elos.md) | [Eduarda Tavares](https://github.com/erteduarda) |
+
 
 <font size="3"><b>Autores: </b><a href="https://github.com/Joa0V">João Ribeiro</a>; <a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a>; <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
 </center>
@@ -98,11 +104,11 @@ A tabela 2 apresenta a matriz de rastreabilidade:
 
 ## Bibliografia
 
-> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
+> 1. WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
 
-> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 18 jan. 2025.
+> 2. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 18 jan. 2025.
 
-> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/rastrear/docs/imagens/referencias/rastreabilidade/Requisitos%20-%20Aula%20026.pdf. Acesso em: 18 jan. 2025
+> 3. SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: https://github.com/Requisitos-de-Software/2024.1-Meu-INSS/blob/rastrear/docs/imagens/referencias/rastreabilidade/Requisitos%20-%20Aula%20026.pdf. Acesso em: 18 jan. 2025
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -129,7 +135,7 @@ A tabela 2 apresenta a matriz de rastreabilidade:
             <td>1.1</td>
             <td>Add elos 1 ao 7 e 38 ao 41</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td></td>
+            <td>18/01/2025</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
@@ -146,7 +152,15 @@ A tabela 2 apresenta a matriz de rastreabilidade:
             <td>Adição dos elos 15 ao 23 e 45 a 46 na matriz</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td>19/01/2025</td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>19/01/2025</td>
+            <td>1.3</td>
+            <td>Adição dos elos 24 ao 30 e 47 a 48 na matriz</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+            <td>19/01/2025</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>
 </div>
