@@ -65,7 +65,16 @@ A tabela 2 apresenta a matriz de rastreabilidade:
 | RF12 | O usuário deve poder salvar Posts de interesse em uma seção dedicada para consulta futura. | NÃO |1.0 | [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md)| [US12](../Modelagem/Agil/historia.md), [CEN03](../Modelagem/Cenario.md), [UC03](../Modelagem/Caso_de_uso.md) | [E12](../Rastreabilidade/Elos.md) | [Davi Nobre](https://github.com/Jagaima) |
 | RF13 | O sistema deve disponibilizar uma seção onde o usuário possa visualizar e gerenciar todas os posts salvos, com opções de ordenação por data, e/ou hashtag | NÃO |1.0 | [IS4](../PerfilUsuario/Tecnicas/Introspeccao.md)| [US13](../Modelagem/Agil/historia.md), [CEN03](../Modelagem/Cenario.md)| [E13](../Rastreabilidade/Elos.md) | [Davi Nobre](https://github.com/Jagaima) |
 | RF14 | O sistema deve permitir que o usuário crie ou use feeds (micro fóruns de posts) de terceiros personalizados com base em critérios como tipo de post, usuários ou hashtags relacionadas. | SIM |1.0 | [IS5](../PerfilUsuario/Tecnicas/Introspeccao.md)| [US14](../Modelagem/Agil/historia.md)| [E14](../Rastreabilidade/Elos.md) | [Davi Nobre](https://github.com/Jagaima) |
-| - |
+| RF15 | Os usuários devem poder interagir com postagens por meio de comentários, curtidas e respostas. | SIM | 1.0 | [IS8 e IS16](../PerfilUsuario/Tecnicas/Introspeccao.md) e [QT2](../PerfilUsuario/Tecnicas/Questionario.md) | [US15](../Modelagem/Agil/historia.md) | [E15](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
+| RF16 | O sistema deve permitir a aplicação de filtros avançados, como autor do post, data de publicação ou popularidade, para melhorar a experiência de busca. | NÃO | 1.0 | [IS9](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US16](../Modelagem/Agil/historia.md) | [E16](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
+| RF17 | O usuário deve ser capaz de fazer log-in/log-in automático em sua conta criada | SIM | 1.0 | [IS11](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US17](../Modelagem/Agil/historia.md) | [E17](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
+| RF18 | O usuário deve poder fixar uma publicação em seu perfil dando-a destaque em seu perfil | SIM | 1.0 | [IS13](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US18](../Modelagem/Agil/historia.md) | [E18](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
+| RF19 | O usuário deve poder tornar sua conta privada, restringindo a interação de outros usuários ao permitir que apenas seguidores consigam interagir diretamente com ele | NÃO | 1.0 | [IS14](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US19](../Modelagem/Agil/historia.md) | [E19](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
+| RF20 | Deve ser possível ao usuário fazer publicações contendo texto, imagens e vídeos | SIM | 1.0 | [IS15](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US20](../Modelagem/Agil/historia.md) | [E20](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
+| RF21 | Deve ser possível ao usuário visualizar dentro do aplicativo publicações de diferentes idiomas traduzidas para o idioma principal definido no aplicativo | NÃO | 1.0 | [IS18](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US21](../Modelagem/Agil/historia.md) | [E21](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
+| RF22 | O usuário deve poder mandar mensagens diretas a outro usuário, caso se sigam mutualmente | SIM | 1.0 | [IS19](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US22](../Modelagem/Agil/historia.md) | [E22](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
+| RF23 | O usuário deve poder criar, ingressar, convidar e sair de grupos de mensagens diretas	| SIM | 1.0 | [IS20](../PerfilUsuario/Tecnicas/Introspeccao.md) | [US23](../Modelagem/Agil/historia.md), , [CEN04](../Modelagem/Cenario.md), [UC04](../Modelagem/Caso_de_uso.md) | [E23](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
+| - | 
 | COLOQUEM EM ORDEM | 
 | - | 
 | - |
@@ -76,6 +85,8 @@ A tabela 2 apresenta a matriz de rastreabilidade:
 | RNF05 | A interface do usuário deve ser intuitiva e fácil de usar, com opções bem definidas para buscar, salvar e visualizar postagens. O design deve ser centrado no usuário e acessível a diferentes perfis de idade. | SIM | 1.0 | [RNF05](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS04](../PerfilUsuario/Tecnicas/Introspeccao.md) | [SE - RU01](../Modelagem/Especificacao.md) e [SE - RU04](../Modelagem/Especificacao.md) | [E42](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
 | RNF06 | O sistema deve ter alta disponibilidade, operando continuamente com mínimas interrupções e implementando redundância de servidores para garantir estabilidade. | Parcialmente | 1.0 | [RNF06](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS05](../PerfilUsuario/Tecnicas/Introspeccao.md)  | [SE - RC02](../Modelagem/Especificacao.md)| [E43](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
 | RNF07 | O sistema deve ser compatível com dispositivos móveis modernos, oferecendo uma interface responsiva e acessível em diferentes tamanhos de tela. | SIM | 1.0 |[RNF07](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS06](../PerfilUsuario/Tecnicas/Introspeccao.md) e [BT09](../PerfilUsuario/Tecnicas/Brainstorm.md)  | [SE - RS01](../Modelagem/Especificacao.md)| [E44](../Rastreabilidade/Elos.md) |  [Renata Quadros](https://github.com/Renatinha28) |
+| RNF08 | O sistema deve permitir que o usuário personalize seus feeds e notificações facilmente, com opções para ajustar preferências de conteúdo e formato. | SIM | 1.0 | [NIS7](../PerfilUsuario/Tecnicas/Introspeccao.md) | - | [E45](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
+| RNF09 | O aplicativo deve ter um tempo de resposta para cada ação menor que 3 segundos | SIM | 1.0 | [NIS9](../PerfilUsuario/Tecnicas/Introspeccao.md) | [RD03](../Modelagem/Especificacao.md), [NFR05](../Modelagem/Agil/NFRs.md) | [E46](../Rastreabilidade/Elos.md) | [João Ribeiro](https://github.com/Joa0V) |
 
 <font size="3"><b>Autores: </b><a href="https://github.com/Joa0V">João Ribeiro</a>; <a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a>; <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
 </center>
@@ -123,11 +134,19 @@ A tabela 2 apresenta a matriz de rastreabilidade:
         </tr>
         <tr>
             <td>17/01/2025</td>
-            <td>1.0</td>
+            <td>1.2</td>
             <td>Adição dos elos 8 ao 14 e 42 a 44 na matriz</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
             <td>18/01/2025</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>19/01/2025</td>
+            <td>1.3</td>
+            <td>Adição dos elos 15 ao 23 e 45 a 46 na matriz</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>19/01/2025</td>
+            <td><a href="https://github.com/"></a></td>
         </tr>
     </table>
 </div>
