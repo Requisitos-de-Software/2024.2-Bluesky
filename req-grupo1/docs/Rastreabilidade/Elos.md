@@ -272,7 +272,7 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 | **Elementos** | [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | **Elos Backward-from** | Agregação - [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md) originaram E12 pela técnica de introspecção|
 | **Elos Forward-from** | Satisfação - A história de usuário [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md) satisfaz o requisito RF12 ao representar a necessidade do aplicativo de salvar posts desejados em itens salvos. <br> O requisito é tido como Médio no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação - requisito recebeu $8.5 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US12 é classificado no épico 2.9 no [Backlog](../Modelagem/Agil/Backlog.md) <br> Satisfação - O requisito tem a prioridade 0,75 em [First thing First](../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md) | 
-| **Print** | Imagem |
+| **Print** | <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/gxIX8ULMSe6gf3Ii6dnyVu/Untitled?node-id=34-4&embed-host=share" allowfullscreen></iframe> |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -444,7 +444,7 @@ As tabelas 16, 17, 18, 19, 29, 21, 22, 23 e 24 representam os cartões de elos d
 |       **Elementos**        |                               [RF22](../PerfilUsuario/Tecnicas/Requisitosel.md), [IS19](../PerfilUsuario/Tecnicas/Introspeccao.md), [US22](../Modelagem/Agil/historia.md)                |
 |   **Elos Backward-from**   |                                                            **Recurso** - O requisito RF16 originou-se da Introspecção(IS19)                                                              |
 |   **Elos Forward-from**    | **Satisfação**  - A história de usuário US22 satisfaz as necessidades estabelecidas pelo requisito RF22<br>**Alocado** - a história de usuário US22 está alocada no Épico 2.7 do [Backlog](../Modelagem/Agil/Backlog.md) |
-|         **Print**          |                                                              [Print do requisito implementado](../assets/images/printRF22.jpg)                                                           |
+|         **Print**          |                                                              <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/gxIX8ULMSe6gf3Ii6dnyVu/Untitled?node-id=50-148&embed-host=share" allowfullscreen></iframe>                                                          |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
 </center>
@@ -842,6 +842,14 @@ As tabelas 46 e 47 representam os cartões de requisitos não funcionais feitos 
             <td>1.2</td>
             <td>Adição dos elos 15 ao 23 e 45 a 46 </td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>19/01/2025</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+        </tr>
+        <tr>
+            <td>19/01/2025</td>
+            <td>1.3</td>
+            <td>Adição dos elos 31 ao 37 e 47 a 50 </td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>19/01/2025</td>
             <td><a href="https://github.com/"></a></td>
         </tr>
