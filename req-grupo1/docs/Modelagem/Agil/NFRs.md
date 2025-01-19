@@ -434,22 +434,22 @@ A figura 5 mostra a decomposição do softgoal Confiabilidade feito pela integra
 A figura a seguir e as próximas duas tabelas referenciam requisitos de interface e foram feitas pelo integrante [João Ribeiro](https://github.com/Joa0V)
 
 <center><p><b>Figura 7:</b>Decomposição do softgoal Requisitos de interface</p></center>
-<center><img src="../../../assets/images/nfrJv2.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<center><img src="../../../assets/images/nfrJv3.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 <center><p><b>Tabela 15: </b>Cartão de especificação - Interface intuitiva</p></center>
 
 |                  Item                   |                                                                                                    Descrição                                                                                                    |
 | :-------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Nr Requisito** (Um número sequencial) |                                                                                   **Classificação**: Requisitos de interface                                                                                    |
-|              **Descrição**              | A interface do usuário deve ser intuitiva e fácil de usar, com opções bem definidas para buscar, salvar e visualizar postagens. O design deve ser centrado no usuário e acessível a diferentes perfis de idade. |
+|         **Nr Requisito** (NFR08)        |                                                                                   **Classificação**: Requisitos de interface                                                                                    |
+|              **Descrição**              | A interface do usuário deve ser intuitiva e fácil de usar, com opções bem definidas para buscar, salvar e visualizar postagens. O design deve ser centrado no usuário e acessível a diferentes perfis de idade e suportar usuários com limitações de uso. |
 |            **Justificativa**            |                                              A interface do sistema deve maximizar a eficiência e satisfação dos usuários ao interagir com a interface do sistema.                                              |
 |               **Origem**                |                                                                                             Stakeholder (Usuários)                                                                                              |
 |        **Critério de Aceitação**        |                                                                        Conformidade com o padrão adotado por redes sociais de microblog                                                                         |
-|            **Dependências**             |                                                                                                        -                                                                                                        |
+|            **Dependências**             |                                                                                            Capacidade de aprendizado                                                                                            |
 |             **Prioridade**              |                                                                                                        6                                                                                                        |
 |              **Conflitos**              |                                                                                                        -                                                                                                        |
-|              **História**               |                                                                             Criado em 17/12/2024. Última modificação em 17/12/2024.                                                                             |
+|              **História**               |                                                                             Criado em 17/12/2024. Última modificação em 19/01/2025.                                                                             |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
@@ -457,17 +457,29 @@ A figura a seguir e as próximas duas tabelas referenciam requisitos de interfac
 
 |                  Item                   |                                                                     Descrição                                                                      |
 | :-------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Nr Requisito** (Um número sequencial) |                                                     **Classificação**: Requisitos de interface                                                     |
+|         **Nr Requisito** (NFR09)        |                                                  **Classificação**: Requisitos de interface                                                        |
 |              **Descrição**              | O aplicativo deve ter interface intuitiva para usuários frequentes de redes sociais, levando até 15min para que se familiarizem com feeds, listas. |
 |            **Justificativa**            |         Alinhar as expectativas dos usuários permite a apropriação do sistema por parte deles, aumentando a adesão, retenção e satisfação.         |
 |               **Origem**                |                                                               Stakeholder (Usuários)                                                               |
 |        **Critério de Aceitação**        |                       Usuários frequentes de redes sociais devem levar até 15min para que se familiarizem com feeds, listas.                       |
-|            **Dependências**             |                                                                         -                                                                          |
+|            **Dependências**             |                                                                Interface intuitiva                                                                 |
 |             **Prioridade**              |                                                                         3                                                                          |
 |              **Conflitos**              |                                                                         -                                                                          |
-|              **História**               |                                              Criado em 17/12/2024. Última modificação em 17/12/2024.                                               |
+|              **História**               |                                              Criado em 17/12/2024. Última modificação em 19/01/2025.                                               |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
+#### **Validação com Usuário**
+
+O vídeo 4 contém a verificação do NFR framework relacionadas a Requisitos de interface . Foi realizado pelo [João Ribeiro](https://github.com/Joa0V) com a participação voluntária da Melissa como usuário. Esta gravação foi realizada no dia 15/01/2025 às 15:20.
+
+<center>
+<font size="3"><b>Vídeo 4: </b> NFR Framework - Requisitos de interface</font>
+
+<iframe width="824" height="464" src="https://www.youtube.com/embed/qSDCzIOyX10" title="NFR - GRUPO 1 - João" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
 
 ### Compilado
 
@@ -557,6 +569,14 @@ requirements right. Addison-wesley: [s.n.], 2012.
             <td>Adicionando Requisitos de interface </td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td>17/12</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>19/01</td>
+            <td>1.5</td>
+            <td>Adicionando validação dos Requisitos de interface </td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>19/01</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
     </table>
