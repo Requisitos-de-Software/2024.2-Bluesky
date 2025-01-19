@@ -589,6 +589,39 @@ As tabelas 39, 40, 41 e 42 representam os cartões de requisitos não funcionais
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
 
+As tabelas 46 e 47 representam os cartões de requisitos não funcionais feitos pelo integrante [João Ribeiro](https://github.com/Joa0V).
+
+## E45
+
+<center>
+<font size="3"><b>Tabela 46:</b> E45 - Cartão do Requisito Não Funcional 8 </font>
+
+|            Item            |                                                                      Descrição                                                                      |
+| :------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** | O sistema deve permitir que o usuário personalize seus feeds e notificações facilmente, com opções para ajustar preferências de conteúdo e formato. |
+|       **Categoria**        |                                                                   Desenvolvimento                                                                   |
+|       **Elementos**        |                       [RNF8](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS7](../PerfilUsuario/Tecnicas/Introspeccao.md)                          |
+|   **Elos Backward-from**   |                                   **Recurso** - O requisito não funcional RNF8 originou-se da Introspecção(NIS7)                                    |
+|   **Elos Forward-from**    |                Não foram encontrados elos Forward-from, pois o requisito não está presente em artefatos posteriores a sua elicitação                |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
+
+## E46
+
+<center>
+<font size="3"><b>Tabela 47:</b> E46 - Cartão do Requisito Não Funcional 9 </font>
+
+|            Item            |                                                                                           Descrição                                                                                            |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                         O aplicativo deve ter um tempo de resposta para cada ação menor que 3 segundos                                                         |
+|       **Categoria**        |                                                                                        Desenvolvimento                                                                                         |
+|       **Elementos**        |        [RNF9](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS9](../PerfilUsuario/Tecnicas/Introspeccao.md), [RD03](../Modelagem/Especificacao.md), [NFR05](../Modelagem/Agil/NFRs.md)         |
+|   **Elos Backward-from**   |                                                         **Recurso** - O requisito não funcional RNF9 originou-se da Introspecção(NIS9)                                                         |
+|   **Elos Forward-from**    | **Alocação** - o requisito não funcional RNF9 foi alocado na categoria de desempenho na Especificação Suplementar(RD03)<br>**Satisfação** - o requisito é satisfeito pelo NFR framework(NFR05) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
 
 ## Referências Bibliográficas 
 > 1. <a id="ref1"></a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 17 jan. 2025.
@@ -630,7 +663,7 @@ As tabelas 39, 40, 41 e 42 representam os cartões de requisitos não funcionais
         <tr>
             <td>19/01/2025</td>
             <td>1.2</td>
-            <td>Adição dos elos 15 ao 23 e xx a xx </td>
+            <td>Adição dos elos 15 ao 23 e 45 a 46 </td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td>19/01/2025</td>
             <td><a href="https://github.com/"></a></td>
