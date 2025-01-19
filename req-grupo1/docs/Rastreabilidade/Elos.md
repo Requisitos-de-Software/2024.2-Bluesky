@@ -731,6 +731,75 @@ As tabelas 46 e 47 representam os cartões de requisitos não funcionais feitos 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
 </center>
 
+## E47
+
+<center>
+<font size="3"><b>Tabela 48:</b> E47 - Cartão do Requisito Não Funcional 10 </font>
+
+|            Item            |                                                                                           Descrição                                                                                            |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                        O aplicativo deve ter interface intuitiva para usuários frequentes de redes sociais, levando até 15min para que se familiarizem com feeds, listas.                                                         |
+|       **Categoria**        |                                                                                        Desenvolvimento                                                                                         |
+|       **Elementos**        |        [RNF10](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS10](../PerfilUsuario/Tecnicas/Introspeccao.md), [BT10](../PerfilUsuario/Tecnicas/Brainstorm.md), [NFR05](../Modelagem/Agil/NFRs.md)         |
+|   **Elos Backward-from**   |                                                         **Recurso** - O requisito não funcional RNF10 originou-se do Brainstorm(BT10) e da Introspecção(NIS10)                                                         |
+|   **Elos Forward-from**    | **Alocação** - o requisito não funcional RNF10 foi alocado na categoria de desempenho na Especificação Suplementar(RU03)<br>**Satisfação** - o requisito é satisfeito pelo NFR framework(NFR05) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+## E48
+
+<center>
+<font size="3"><b>Tabela 49:</b> E48 - Cartão do Requisito Não Funcional 11 </font>
+
+|            Item            |                                                                                           Descrição                                                                                            |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                        O aplicativo deve prover ambientes saudáveis aos seus usuários, os protegendo de conteúdos nocivos                                                        |
+|       **Categoria**        |                                                                                        Desenvolvimento                                                                                         |
+|       **Elementos**        |        [RNF11](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS11](../PerfilUsuario/Tecnicas/Introspeccao.md), [NFR05](../Modelagem/Agil/NFRs.md)         |
+|   **Elos Backward-from**   |                                                         **Recurso** - O requisito não funcional RNF10 originou-se da Introspecção(NIS11)                                                         |
+|   **Elos Forward-from**    | **Alocação** - o requisito não funcional RNF11 foi alocado na categoria de desempenho na Especificação Suplementar(RC03)<br>**Satisfação** - o requisito é satisfeito pelo NFR framework(NFR05) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+## E49
+
+<center>
+<font size="3"><b>Tabela 50:</b> E49 - Cartão do Requisito Não Funcional 12 </font>
+
+|            Item            |                                                                                           Descrição                                                                                            |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                        O aplicativo deve ser transparente quanto ao uso dos dados de seus usuários, independente de onde se encontra, o usuário deve estar a menos de 5 cliques dos Termos de Serviço e Política de Privacidade                                                        |
+|       **Categoria**        |                                                                                        Desenvolvimento                                                                                         |
+|       **Elementos**        |        [RNF12](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS12](../PerfilUsuario/Tecnicas/Introspeccao.md), [NFR05](../Modelagem/Agil/NFRs.md)         |
+|   **Elos Backward-from**   |                                                         **Recurso** - O requisito não funcional RNF10 originou-se da Introspecção(NIS12)                                                         |
+|   **Elos Forward-from**    | **Alocação** - o requisito não funcional RNF12 foi alocado na categoria de desempenho na Especificação Suplementar(RS02)<br>**Satisfação** - o requisito é satisfeito pelo NFR framework(NFR05) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+
+## E50
+
+<center>
+<font size="3"><b>Tabela 51:</b> E50 - Cartão do Requisito Não Funcional 13 </font3>
+
+|            Item            |                                                                                           Descrição                                                                                            |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                        O aplicativo deve indicar ao usuário quando uma ação não pode ser concluída e o motivo para isso                                                        |
+|       **Categoria**        |                                                                                        Desenvolvimento                                                                                         |
+|       **Elementos**        |        [RNF13](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS14](../PerfilUsuario/Tecnicas/Introspeccao.md), [NFR05](../Modelagem/Agil/NFRs.md)         |
+|   **Elos Backward-from**   |                                                         **Recurso** - O requisito não funcional RNF14 originou-se da Introspecção(NIS15)                                                         |
+|   **Elos Forward-from**    | **Alocação** - o requisito não funcional RNF13 foi alocado na categoria de desempenho na Especificação Suplementar(RS02)<br>**Satisfação** - o requisito é satisfeito pelo NFR framework(NFR05) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+
+
+
+
 ## Referências Bibliográficas 
 > 1. <a id="ref1"></a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 17 jan. 2025.
 
