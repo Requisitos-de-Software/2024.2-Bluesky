@@ -272,7 +272,7 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 | **Elementos** | [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | **Elos Backward-from** | Agregação - [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md) originaram E12 pela técnica de introspecção|
 | **Elos Forward-from** | Satisfação - A história de usuário [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md) satisfaz o requisito RF12 ao representar a necessidade do aplicativo de salvar posts desejados em itens salvos. <br> O requisito é tido como Médio no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação - requisito recebeu $8.5 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US12 é classificado no épico 2.9 no [Backlog](../Modelagem/Agil/Backlog.md) <br> Satisfação - O requisito tem a prioridade 0,75 em [First thing First](../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md) | 
-| **Print** | Imagem |
+| **Print** | <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/gxIX8ULMSe6gf3Ii6dnyVu/Untitled?node-id=34-4&embed-host=share" allowfullscreen></iframe> |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -311,9 +311,9 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
 
-As tabelas 16, 17, 18, 19, 29, 21, 22, 23 e 24 representam os cartões de elos de requisitos funcionais feitos pelo integrante [João Ribeiro](https://github.com/Joa0V).
-
 ## E15
+
+As tabelas 16, 17, 18, 19, 29, 21, 22, 23 e 24 representam os cartões de elos de requisitos funcionais feitos pelo integrante [João Ribeiro](https://github.com/Joa0V).
 
 <center>
 <font size="3"><b>Tabela 16:</b> E15 - Cartão do Requisito Funcional 15 </font>
@@ -444,7 +444,7 @@ As tabelas 16, 17, 18, 19, 29, 21, 22, 23 e 24 representam os cartões de elos d
 |       **Elementos**        |                               [RF22](../PerfilUsuario/Tecnicas/Requisitosel.md), [IS19](../PerfilUsuario/Tecnicas/Introspeccao.md), [US22](../Modelagem/Agil/historia.md)                |
 |   **Elos Backward-from**   |                                                            **Recurso** - O requisito RF16 originou-se da Introspecção(IS19)                                                              |
 |   **Elos Forward-from**    | **Satisfação**  - A história de usuário US22 satisfaz as necessidades estabelecidas pelo requisito RF22<br>**Alocado** - a história de usuário US22 está alocada no Épico 2.7 do [Backlog](../Modelagem/Agil/Backlog.md) |
-|         **Print**          |                                                              [Print do requisito implementado](../assets/images/printRF22.jpg)                                                           |
+|         **Print**          |                                                              <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/gxIX8ULMSe6gf3Ii6dnyVu/Untitled?node-id=50-148&embed-host=share" allowfullscreen></iframe>                                                          |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
 </center>
@@ -466,7 +466,7 @@ As tabelas 16, 17, 18, 19, 29, 21, 22, 23 e 24 representam os cartões de elos d
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
 </center>
 
-As tabelas 25, 26, 27, 28, 29, 30, 31, 32 e 33 representam os cartões de elos de requisitos funcionais feitos pelo integrante [Eduarda Tavares](https://github.com/erteduarda).
+As tabelas 25, 26, 27, 28, 29, 30, 31, 32 e 33 representam os cartões de elos de requisitos funcionais feitos pela integrante [Eduarda Tavares](https://github.com/erteduarda).
 
 ## E24
 
@@ -480,11 +480,11 @@ As tabelas 25, 26, 27, 28, 29, 30, 31, 32 e 33 representam os cartões de elos d
 | **Elementos** | [IS21](../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | **Elos Backward-from** | **Recurso** - O requisito originou-se da Introspecção (IS21) |
 | **Elos Forward-from** | **Satisfação** - O requisito RF24 é satisfeito pela história de usuário US24. <br> **Alocação** - A história de usuário US24 está alocada no Épico 3.1 do [Backlog](../Modelagem/Agil/Backlog.md) |
+| **Print** | Imagem |
 
-<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font>
 </center>
 
----
 
 ## E25
 
@@ -498,11 +498,11 @@ As tabelas 25, 26, 27, 28, 29, 30, 31, 32 e 33 representam os cartões de elos d
 | **Elementos** | [IS23](../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | **Elos Backward-from** | **Recurso** - O requisito originou-se da Introspecção (IS23) |
 | **Elos Forward-from** | **Satisfação** - O requisito RF25 é satisfeito pela história de usuário US25. <br> **Alocação** - A história de usuário US25 está alocada no Épico 3.2 do [Backlog](../Modelagem/Agil/Backlog.md) |
+| **Print** | Imagem |
 
-<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font>
 </center>
 
----
 
 ## E26
 
@@ -516,11 +516,11 @@ As tabelas 25, 26, 27, 28, 29, 30, 31, 32 e 33 representam os cartões de elos d
 | **Elementos** | [IS24](../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | **Elos Backward-from** | **Recurso** - O requisito originou-se da Introspecção (IS24) |
 | **Elos Forward-from** | **Satisfação** - O requisito RF26 é satisfeito pela história de usuário US26. <br> **Alocação** - A história de usuário US26 está alocada no Épico 3.3 do [Backlog](../Modelagem/Agil/Backlog.md) |
+| **Print** | Imagem |
 
-<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font>
 </center>
 
----
 
 ## E27
 
@@ -534,11 +534,11 @@ As tabelas 25, 26, 27, 28, 29, 30, 31, 32 e 33 representam os cartões de elos d
 | **Elementos** | [IS25](../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | **Elos Backward-from** | **Recurso** - O requisito originou-se da Introspecção (IS25) |
 | **Elos Forward-from** | **Satisfação** - O requisito RF27 é satisfeito pela história de usuário US27. <br> **Alocação** - A história de usuário US27 está alocada no Épico 3.4 do [Backlog](../Modelagem/Agil/Backlog.md) |
+| **Print** | Imagem |
 
-<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font>
 </center>
 
----
 
 ## E28
 
@@ -552,16 +552,170 @@ As tabelas 25, 26, 27, 28, 29, 30, 31, 32 e 33 representam os cartões de elos d
 | **Elementos** | [IS26](../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | **Elos Backward-from** | **Recurso** - O requisito originou-se da Introspecção (IS26) |
 | **Elos Forward-from** | **Satisfação** - O requisito RF28 é satisfeito pela história de usuário US28. <br> **Alocação** - A história de usuário US28 está alocada no Épico 3.5 do [Backlog](../Modelagem/Agil/Backlog.md) |
+| **Print** | Imagem |
 
-<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font>
 </center>
 
+## E29
+
+<center>
+<font size="3"><b>Tabela 30:</b> E29 - Cartão do Requisito Funcional 27 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | O usuário deve poder criar, modificar e excluir suas listas de moderação |
+| **Categoria** | Desenvolvimento |
+| **Elementos** | [IS25](../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| **Elos Backward-from** | **Recurso** - O requisito originou-se da Introspecção (IS25) |
+| **Elos Forward-from** | **Satisfação** - O requisito RF27 é satisfeito pela história de usuário US27. <br> **Alocação** - A história de usuário US27 está alocada no Épico 3.4 do [Backlog](../Modelagem/Agil/Backlog.md) |
+| **Print** | Imagem |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font>
+</center>
+
+## E30
+
+<center>
+<font size="3"><b>Tabela 31:</b> E30 - Cartão do Requisito Funcional 28 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | Caso não seja o criador da lista, o usuário deve poder inscrever-se/deixar de ser inscrito em listas de moderação para não permitir/permitir a interação com os perfis contidos na lista |
+| **Categoria** | Desenvolvimento |
+| **Elementos** | [IS26](../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| **Elos Backward-from** | **Recurso** - O requisito originou-se da Introspecção (IS26) |
+| **Elos Forward-from** | **Satisfação** - O requisito RF28 é satisfeito pela história de usuário US28. <br> **Alocação** - A história de usuário US28 está alocada no Épico 3.5 do [Backlog](../Modelagem/Agil/Backlog.md) |
+| **Print** | Imagem |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font>
+</center>
+
+
+
+## E31
+
+As tabelas 32, 33, 34, 35, 36, 37 e 38 representam os cartões de requisitos funcionais feitos pela integrante [Carla Clementino](https://github.com/ccarlaa).
+
+<center>
+<font size="3"><b>Tabela 32:</b> E31 - Cartão do Requisito Funcional 31</font>
+
+| **Item**                 | **Descrição**                                                                                                                                                                   |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição do requisito** | O aplicativo deve permitir linkar para outras pessoas sem o sufixo ".bsky.social".                                                                                           |
+| **Categoria**             | Ambiental                                                                                                                                                                     |
+| **Elementos**             | [RF31](../PerfilUsuario/Tecnicas/Requisitosel.md), [QT3](../PerfilUsuario/Tecnicas/Questionario.md), [US36](../Modelagem/Agil/historia.md)                                    |
+| **Elos Backward-from**    | **Agregação** - [QT3](../PerfilUsuario/Tecnicas/Questionario.md). O requisito originou-se do Questionário.                                                                     |
+| **Elos Forward-from**     | **Satisfação** - O requisito recebeu uma priorização de 0,37 na técnica [First Things First](../PerfilUsuario/TecnicasPrior/firstthing.md).<br> **Satisfação** - A história de usuário [US36](../Modelagem/Agil/historia.md) satisfaz o requisito [RF31](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar que o aplicativo deve permitir linkar para outras pessoas sem o sufixo ".bsky.social".<br> **Satisfação** - O requisito recebeu $11 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md).<br> **Satisfação** - O requisito recebeu priorização baixa na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md).<br> **Agregação** - O requisito é classificado no Épico 2.31 do [Backlog](../Modelagem/Agil/Backlog.md). |
+| **Print**                 | [Imagem](../assets/images/elo31.png)                                                                                                                                          |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+## E32
+
+<center>
+<font size="3"><b>Tabela 33:</b> E32 - Cartão do Requisito Funcional 32</font>
+
+| **Item**                 | **Descrição**                                                                                                                                                                   |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição do requisito** | O aplicativo deve permitir Trending Topics.                                                                                                                                  |
+| **Categoria**             | Ambiental                                                                                                                                                                     |
+| **Elementos**             | [RF32](../PerfilUsuario/Tecnicas/Requisitosel.md), [QT5](../PerfilUsuario/Tecnicas/Questionario.md), [US37](../Modelagem/Agil/historia.md)                                    |
+| **Elos Backward-from**    | **Agregação** - [QT5](../PerfilUsuario/Tecnicas/Questionario.md). O requisito originou-se do Questionário.                                                                     |
+| **Elos Forward-from**     | **Satisfação** - O requisito recebeu uma priorização de 0,23 na técnica [First Things First](../PerfilUsuario/TecnicasPrior/firstthing.md).<br> **Satisfação** - A história de usuário [US37](../Modelagem/Agil/historia.md) satisfaz o requisito [RF32](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar que o aplicativo deve permitir Trending Topics.<br> **Satisfação** - O requisito recebeu $18 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md).<br> **Satisfação** - O requisito recebeu priorização média na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md).<br> **Agregação** - O requisito é classificado no Épico 2.32 do [Backlog](../Modelagem/Agil/Backlog.md). |
+| **Print**                 | [Imagem](../assets/images/elo32.png)                                                                                                                                          |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+## E33
+
+<center>
+<font size="3"><b>Tabela 34:</b> E33 - Cartão do Requisito Funcional 33</font>
+
+| **Item**                 | **Descrição**                                                                                                                                                                   |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição do requisito** | O aplicativo deve permitir o sistema de tags fora do post.                                                                                                                   |
+| **Categoria**             | Ambiental                                                                                                                                                                     |
+| **Elementos**             | [RF33](../PerfilUsuario/Tecnicas/Requisitosel.md), [QT4](../PerfilUsuario/Tecnicas/Questionario.md), [US38](../Modelagem/Agil/historia.md)                                    |
+| **Elos Backward-from**    | **Agregação** - [QT4](../PerfilUsuario/Tecnicas/Questionario.md). O requisito originou-se do Questionário.                                                                     |
+| **Elos Forward-from**     | **Satisfação** - O requisito recebeu uma priorização de 0,59 na técnica [First Things First](../PerfilUsuario/TecnicasPrior/firstthing.md).<br> **Satisfação** - A história de usuário [US38](../Modelagem/Agil/historia.md) satisfaz o requisito [RF33](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar que o aplicativo deve permitir o sistema de tags fora do post.<br> **Satisfação** - O requisito recebeu $2 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md).<br> **Satisfação** - O requisito recebeu priorização baixa na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md).<br> **Agregação** - O requisito é classificado no Épico 2.33 do [Backlog](../Modelagem/Agil/Backlog.md). |
+| **Print**                 | [Imagem](../assets/images/elo33.png)                                                                                                                                          |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+## E34
+
+<center>
+<font size="3"><b>Tabela 35:</b> E34 - Cartão do Requisito Funcional 34</font>
+
+| **Item**                 | **Descrição**                                                                                                                                                                   |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição do requisito** | O usuário deve poder criar comunidades ou grupos privados.                                                                                                                   |
+| **Categoria**             | Ambiental                                                                                                                                                                     |
+| **Elementos**             | [RF34](../PerfilUsuario/Tecnicas/Requisitosel.md), [BT1](../PerfilUsuario/Tecnicas/Brainstorm.md), [US39](../Modelagem/Agil/historia.md)                                      |
+| **Elos Backward-from**    | **Agregação** - [BT1](../PerfilUsuario/Tecnicas/Brainstorm.md). O requisito originou-se do Brainstorm.                                                                          |
+| **Elos Forward-from**     | **Satisfação** - A história de usuário [US39](../Modelagem/Agil/historia.md) satisfaz o requisito [RF34](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar que o aplicativo deve permitir a criação de comunidades ou grupos privados.<br> **Satisfação** - O requisito recebeu $3 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md).<br> **Satisfação** - O requisito recebeu priorização baixa na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md).<br> **Agregação** - O requisito é classificado no Épico 2.34 do [Backlog](../Modelagem/Agil/Backlog.md). |
+| **Print**                 | [Imagem](../assets/images/elo34.png)                                                                                                                                          |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+
 ## E35
+
+<center>
+<font size="3"><b>Tabela 36:</b> E35 - Cartão do Requisito Funcional 35</font>
+
+| **Item**                 | **Descrição**                                                                                                                                                                   |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição do requisito** | O usuário deve poder configurar a privacidade das postagens.                                                                                                                 |
+| **Categoria**             | Ambiental                                                                                                                                                                     |
+| **Elementos**             | [RF35](../PerfilUsuario/Tecnicas/Requisitosel.md), [BT2](../PerfilUsuario/Tecnicas/Brainstorm.md), [US40](../Modelagem/Agil/historia.md)                                      |
+| **Elos Backward-from**    | **Agregação** - [BT2](../PerfilUsuario/Tecnicas/Brainstorm.md). O requisito originou-se do Brainstorm.                                                                          |
+| **Elos Forward-from**     | **Satisfação** - A história de usuário [US40](../Modelagem/Agil/historia.md) satisfaz o requisito [RF35](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar que o aplicativo deve permitir a configuração de privacidade das postagens.<br> **Satisfação** - O requisito recebeu $20 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md).<br> **Satisfação** - O requisito recebeu priorização alta na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md).<br> **Agregação** - O requisito é classificado no Épico 2.35 do [Backlog](../Modelagem/Agil/Backlog.md). |
+| **Print**                 | [Imagem](../assets/images/elo35.png)                                                                                                                                          |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+
 ## E36
+
+<center>
+<font size="3"><b>Tabela 37:</b> E36 - Cartão do Requisito Funcional 36</font>
+
+| **Item**                 | **Descrição**                                                                                                                                                                   |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição do requisito** | O sistema deve enviar notificações sobre eventos em tempo real.                                                                                                              |
+| **Categoria**             | Ambiental                                                                                                                                                                     |
+| **Elementos**             | [RF36](../PerfilUsuario/Tecnicas/Requisitosel.md), [BT4](../PerfilUsuario/Tecnicas/Brainstorm.md), [US41](../Modelagem/Agil/historia.md)                                      |
+| **Elos Backward-from**    | **Agregação** - [BT4](../PerfilUsuario/Tecnicas/Brainstorm.md). O requisito originou-se do Brainstorm.                                                                          |
+| **Elos Forward-from**     | **Satisfação** - A história de usuário [US41](../Modelagem/Agil/historia.md) satisfaz o requisito [RF36](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar que o aplicativo deve enviar notificações sobre eventos em tempo real.<br> **Satisfação** - O requisito recebeu $10 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md).<br> **Satisfação** - O requisito recebeu priorização baixa na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md).<br> **Agregação** - O requisito é classificado no Épico 2.36 do [Backlog](../Modelagem/Agil/Backlog.md). |
+| **Print**                 | [Imagem](../assets/images/elo36.png)                                                                                                                                          |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
 ## E37
->>>>>>>>>>>>>
->>>>>>>> começa os não funcionais (obs: n tem a linha de print)
->>>>>>>>>>>>>>>
+
+<center>
+<font size="3"><b>Tabela 38:</b> E37 - Cartão do Requisito Funcional 37</font>
+
+| **Item**                 | **Descrição**                                                                                                                                                                   |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição do requisito** | O sistema deve permitir ao usuário acessar métricas sobre o alcance de suas postagens.                                                                                       |
+| **Categoria**             | Ambiental                                                                                                                                                                     |
+| **Elementos**             | [RF37](../PerfilUsuario/Tecnicas/Requisitosel.md), [BT5](../PerfilUsuario/Tecnicas/Brainstorm.md), [US42](../Modelagem/Agil/historia.md)                                      |
+| **Elos Backward-from**    | **Agregação** - [BT5](../PerfilUsuario/Tecnicas/Brainstorm.md). O requisito originou-se do Brainstorm.                                                                          |
+| **Elos Forward-from**     | **Satisfação** - A história de usuário [US42](../Modelagem/Agil/historia.md) satisfaz o requisito [RF37](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar que o aplicativo deve permitir ao usuário acessar métricas sobre o alcance de suas postagens.<br> **Satisfação** - O requisito recebeu $11 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md).<br> **Satisfação** - O requisito recebeu priorização média na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md).<br> **Agregação** - O requisito é classificado no Épico 2.37 do [Backlog](../Modelagem/Agil/Backlog.md). |
+| **Print**                 | [Imagem](../assets/images/elo37.png)                                                                                                                                          |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
 ## E38
 
 As tabelas 39, 40, 41 e 42 representam os cartões de requisitos não funcionais feitos pela integrante [Renata Quadros](https://github.com/Renatinha28).
@@ -711,12 +865,77 @@ As tabelas 46 e 47 representam os cartões de requisitos não funcionais feitos 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
 </center>
 
-As tabelas 48 e 49 representam os cartões de requisitos não funcionais feitos pela integrante [Eduarda Tavares](https://github.com/erteduarda).
-
-## RNF15
+## E47
 
 <center>
-<font size="3"><b>Tabela 48:</b> E47 - Cartão do Requisito Não Funcional 15 </font>
+<font size="3"><b>Tabela 48:</b> E47 - Cartão do Requisito Não Funcional 10 </font>
+
+|            Item            |                                                                                           Descrição                                                                                            |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                        O aplicativo deve ter interface intuitiva para usuários frequentes de redes sociais, levando até 15min para que se familiarizem com feeds, listas.                                                         |
+|       **Categoria**        |                                                                                        Desenvolvimento                                                                                         |
+|       **Elementos**        |        [RNF10](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS10](../PerfilUsuario/Tecnicas/Introspeccao.md), [BT10](../PerfilUsuario/Tecnicas/Brainstorm.md), [NFR05](../Modelagem/Agil/NFRs.md)         |
+|   **Elos Backward-from**   |                                                         **Recurso** - O requisito não funcional RNF10 originou-se do Brainstorm(BT10) e da Introspecção(NIS10)                                                         |
+|   **Elos Forward-from**    | **Alocação** - o requisito não funcional RNF10 foi alocado na categoria de desempenho na Especificação Suplementar(RU03)<br>**Satisfação** - o requisito é satisfeito pelo NFR framework(NFR05) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+## E48
+
+<center>
+<font size="3"><b>Tabela 49:</b> E48 - Cartão do Requisito Não Funcional 11 </font>
+
+|            Item            |                                                                                           Descrição                                                                                            |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                        O aplicativo deve prover ambientes saudáveis aos seus usuários, os protegendo de conteúdos nocivos                                                        |
+|       **Categoria**        |                                                                                        Desenvolvimento                                                                                         |
+|       **Elementos**        |        [RNF11](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS11](../PerfilUsuario/Tecnicas/Introspeccao.md), [NFR05](../Modelagem/Agil/NFRs.md)         |
+|   **Elos Backward-from**   |                                                         **Recurso** - O requisito não funcional RNF10 originou-se da Introspecção(NIS11)                                                         |
+|   **Elos Forward-from**    | **Alocação** - o requisito não funcional RNF11 foi alocado na categoria de desempenho na Especificação Suplementar(RC03)<br>**Satisfação** - o requisito é satisfeito pelo NFR framework(NFR05) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+## E49
+
+<center>
+<font size="3"><b>Tabela 50:</b> E49 - Cartão do Requisito Não Funcional 12 </font>
+
+|            Item            |                                                                                           Descrição                                                                                            |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                        O aplicativo deve ser transparente quanto ao uso dos dados de seus usuários, independente de onde se encontra, o usuário deve estar a menos de 5 cliques dos Termos de Serviço e Política de Privacidade                                                        |
+|       **Categoria**        |                                                                                        Desenvolvimento                                                                                         |
+|       **Elementos**        |        [RNF12](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS12](../PerfilUsuario/Tecnicas/Introspeccao.md), [NFR05](../Modelagem/Agil/NFRs.md)         |
+|   **Elos Backward-from**   |                                                         **Recurso** - O requisito não funcional RNF10 originou-se da Introspecção(NIS12)                                                         |
+|   **Elos Forward-from**    | **Alocação** - o requisito não funcional RNF12 foi alocado na categoria de desempenho na Especificação Suplementar(RS02)<br>**Satisfação** - o requisito é satisfeito pelo NFR framework(NFR05) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+
+## E50
+
+<center>
+<font size="3"><b>Tabela 51:</b> E50 - Cartão do Requisito Não Funcional 13 </font3>
+
+|            Item            |                                                                                           Descrição                                                                                            |
+| :------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Descrição do requisito** |                                                        O aplicativo deve indicar ao usuário quando uma ação não pode ser concluída e o motivo para isso                                                        |
+|       **Categoria**        |                                                                                        Desenvolvimento                                                                                         |
+|       **Elementos**        |        [RNF13](../PerfilUsuario/Tecnicas/Requisitosel.md), [NIS14](../PerfilUsuario/Tecnicas/Introspeccao.md), [NFR05](../Modelagem/Agil/NFRs.md)         |
+|   **Elos Backward-from**   |                                                         **Recurso** - O requisito não funcional RNF14 originou-se da Introspecção(NIS15)                                                         |
+|   **Elos Forward-from**    | **Alocação** - o requisito não funcional RNF13 foi alocado na categoria de desempenho na Especificação Suplementar(RS02)<br>**Satisfação** - o requisito é satisfeito pelo NFR framework(NFR05) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
+</center>
+
+As tabelas 52 e 53 representam os cartões de requisitos não funcionais feitos pela integrante [Eduarda Tavares](https://github.com/erteduarda).
+
+## E51
+
+<center>
+<font size="3"><b>Tabela 48:</b> E51 - Cartão do Requisito Não Funcional 15 </font>
 
 | **Item** | **Descrição** |
 |:-----:|:--------:|
@@ -726,15 +945,14 @@ As tabelas 48 e 49 representam os cartões de requisitos não funcionais feitos 
 | **Elos Backward-from** | **Recurso** - O requisito RNF15 originou-se do Questionário (QT6) |
 | **Elos Forward-from** | **Satisfação** - O requisito RNF15 é satisfeito pela especificação suplementar RS02 |
 
-<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font>
 </center>
 
----
 
-## RNF16
+## E52
 
 <center>
-<font size="3"><b>Tabela 49:</b> E48 - Cartão do Requisito Não Funcional 16 </font>
+<font size="3"><b>Tabela 49:</b> E52 - Cartão do Requisito Não Funcional 16 </font>
 
 | **Item** | **Descrição** |
 |:-----:|:--------:|
@@ -744,8 +962,10 @@ As tabelas 48 e 49 representam os cartões de requisitos não funcionais feitos 
 | **Elos Backward-from** | **Recurso** - O requisito RNF16 originou-se do Brainstorming (BT8) |
 | **Elos Forward-from** | **Satisfação** - O requisito RNF16 é satisfeito pela especificação suplementar RS03 |
 
-<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font>
 </center>
+
+
 
 ## Referências Bibliográficas 
 > 1. <a id="ref1"></a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. disponível em: https://aprender3.unb.br/pluginfile.php/2972560/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 17 jan. 2025.
@@ -789,6 +1009,22 @@ As tabelas 48 e 49 representam os cartões de requisitos não funcionais feitos 
             <td>1.2</td>
             <td>Adição dos elos 15 ao 23 e 45 a 46 </td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>19/01/2025</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+        </tr>
+        <tr>
+            <td>19/01/2025</td>
+            <td>1.3</td>
+            <td>Adição dos elos 31 ao 37 e 47 a 50 </td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td>19/01/2025</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>19/01/2025</td>
+            <td>1.3</td>
+            <td>Adição dos elos 24 ao 30 e 51 e 52 </td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>19/01/2025</td>
             <td><a href="https://github.com/"></a></td>
         </tr>
