@@ -466,8 +466,96 @@ As tabelas 16, 17, 18, 19, 29, 21, 22, 23 e 24 representam os cartões de elos d
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
 </center>
 
-.
-.
+As tabelas 25, 26, 27, 28, 29, 30, 31, 32 e 33 representam os cartões de elos de requisitos funcionais feitos pelo integrante [Eduarda Tavares](https://github.com/erteduarda).
+
+## E24
+
+<center>
+<font size="3"><b>Tabela 25:</b> E24 - Cartão do Requisito Funcional 24 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | O usuário deve poder mandar mídias como vídeos e áudios nas mensagens privadas |
+| **Categoria** | Desenvolvimento |
+| **Elementos** | [IS21](../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| **Elos Backward-from** | **Recurso** - O requisito originou-se da Introspecção (IS21) |
+| **Elos Forward-from** | **Satisfação** - O requisito RF24 é satisfeito pela história de usuário US24. <br> **Alocação** - A história de usuário US24 está alocada no Épico 3.1 do [Backlog](../Modelagem/Agil/Backlog.md) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+</center>
+
+---
+
+## E25
+
+<center>
+<font size="3"><b>Tabela 26:</b> E25 - Cartão do Requisito Funcional 25 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | O usuário deve poder criar, modificar e excluir suas listas de perfis de interesse |
+| **Categoria** | Desenvolvimento |
+| **Elementos** | [IS23](../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| **Elos Backward-from** | **Recurso** - O requisito originou-se da Introspecção (IS23) |
+| **Elos Forward-from** | **Satisfação** - O requisito RF25 é satisfeito pela história de usuário US25. <br> **Alocação** - A história de usuário US25 está alocada no Épico 3.2 do [Backlog](../Modelagem/Agil/Backlog.md) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+</center>
+
+---
+
+## E26
+
+<center>
+<font size="3"><b>Tabela 27:</b> E26 - Cartão do Requisito Funcional 26 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | Caso não seja o criador da lista, o usuário deve poder inscrever-se/deixar de ser inscrito em listas de perfis de interesse para ter/deixar de ter acesso às publicações desses perfis por uma aba |
+| **Categoria** | Desenvolvimento |
+| **Elementos** | [IS24](../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| **Elos Backward-from** | **Recurso** - O requisito originou-se da Introspecção (IS24) |
+| **Elos Forward-from** | **Satisfação** - O requisito RF26 é satisfeito pela história de usuário US26. <br> **Alocação** - A história de usuário US26 está alocada no Épico 3.3 do [Backlog](../Modelagem/Agil/Backlog.md) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+</center>
+
+---
+
+## E27
+
+<center>
+<font size="3"><b>Tabela 28:</b> E27 - Cartão do Requisito Funcional 27 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | O usuário deve poder criar, modificar e excluir suas listas de moderação |
+| **Categoria** | Desenvolvimento |
+| **Elementos** | [IS25](../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| **Elos Backward-from** | **Recurso** - O requisito originou-se da Introspecção (IS25) |
+| **Elos Forward-from** | **Satisfação** - O requisito RF27 é satisfeito pela história de usuário US27. <br> **Alocação** - A história de usuário US27 está alocada no Épico 3.4 do [Backlog](../Modelagem/Agil/Backlog.md) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+</center>
+
+---
+
+## E28
+
+<center>
+<font size="3"><b>Tabela 29:</b> E28 - Cartão do Requisito Funcional 28 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | Caso não seja o criador da lista, o usuário deve poder inscrever-se/deixar de ser inscrito em listas de moderação para não permitir/permitir a interação com os perfis contidos na lista |
+| **Categoria** | Desenvolvimento |
+| **Elementos** | [IS26](../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| **Elos Backward-from** | **Recurso** - O requisito originou-se da Introspecção (IS26) |
+| **Elos Forward-from** | **Satisfação** - O requisito RF28 é satisfeito pela história de usuário US28. <br> **Alocação** - A história de usuário US28 está alocada no Épico 3.5 do [Backlog](../Modelagem/Agil/Backlog.md) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+</center>
+
 ## E35
 ## E36
 ## E37
@@ -621,6 +709,42 @@ As tabelas 46 e 47 representam os cartões de requisitos não funcionais feitos 
 |   **Elos Forward-from**    | **Alocação** - o requisito não funcional RNF9 foi alocado na categoria de desempenho na Especificação Suplementar(RD03)<br>**Satisfação** - o requisito é satisfeito pelo NFR framework(NFR05) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
+</center>
+
+As tabelas 48 e 49 representam os cartões de requisitos não funcionais feitos pela integrante [Eduarda Tavares](https://github.com/erteduarda).
+
+## RNF15
+
+<center>
+<font size="3"><b>Tabela 48:</b> E47 - Cartão do Requisito Não Funcional 15 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | A plataforma deve garantir transparência nos algoritmos de recomendação |
+| **Categoria** | Desenvolvimento |
+| **Elementos** | [QT6](../PerfilUsuario/Tecnicas/Questionario.md) |
+| **Elos Backward-from** | **Recurso** - O requisito RNF15 originou-se do Questionário (QT6) |
+| **Elos Forward-from** | **Satisfação** - O requisito RNF15 é satisfeito pela especificação suplementar RS02 |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
+</center>
+
+---
+
+## RNF16
+
+<center>
+<font size="3"><b>Tabela 49:</b> E48 - Cartão do Requisito Não Funcional 16 </font>
+
+| **Item** | **Descrição** |
+|:-----:|:--------:|
+| **Descrição do requisito** | O sistema deve proteger os dados dos usuários de acordo com a LGPD. |
+| **Categoria** | Desenvolvimento |
+| **Elementos** | [BT8](../PerfilUsuario/Tecnicas/Brainstorm.md) |
+| **Elos Backward-from** | **Recurso** - O requisito RNF16 originou-se do Brainstorming (BT8) |
+| **Elos Forward-from** | **Satisfação** - O requisito RNF16 é satisfeito pela especificação suplementar RS03 |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></font>
 </center>
 
 ## Referências Bibliográficas 
