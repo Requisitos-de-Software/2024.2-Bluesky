@@ -69,9 +69,21 @@ O objetivo deste documento é detalhar a estruturação dos requisitos do aplica
 
 - Print: Imagem/protótipo da implementação
 
+## Protótipo de Alta Fidelidade
+
+O protótipo de alta fidelidade foi desenvolvido por todos os integrantes do grupo, cada um responsável pelo seu respectivo requisito.
+
+<center>
+
+<iframe width="800" height="450" src="https://www.figma.com/embed?embed_host=markdown&url=https://www.figma.com/proto/gxIX8ULMSe6gf3Ii6dnyVu/Untitled?node-id=1-795&p=f&t=EUO7BdW0OlFonVSV-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A795" allowfullscreen></iframe>
+
+<font size="3"><b>Autores:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a>, <a><a href="https://github.com/Jagaima">Davi Nobre</a>, <a href="https://github.com/Joa0V">João Ribeiro</a>, <a href="https://github.com/Renatinha28">Renata Quadros</a>, <a href="https://github.com/erteduarda">Eduarda Tavares.</a> </font> 
+
+</center>
+
 
 ## E01
-As tabelas 2, 3, 4, 5, 6, 7 e 8 representam os cartões de requisitos funcionais feitos pela integrante [Renata Quadros](https://github.com/Renatinha28).
+As tabelas 2, 3, 4, 5, 6, 7 e 8 representam os cartões de requisitos funcionais feitos pela integrante [Carla Carvalho](https://github.com/ccarlaa).
 
 <center>
 <font size="3"><b>Tabela 2:</b> E01 - Cartão do Requisito Funcional 01 </font>
@@ -272,7 +284,7 @@ A tabela 6 representa a funcionalidade não implementada escolhida pela integran
 | **Elementos** | [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | **Elos Backward-from** | Agregação - [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md) originaram E12 pela técnica de introspecção|
 | **Elos Forward-from** | Satisfação - A história de usuário [IS3](../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../PerfilUsuario/Tecnicas/Introspeccao.md) satisfaz o requisito RF12 ao representar a necessidade do aplicativo de salvar posts desejados em itens salvos. <br> O requisito é tido como Médio no [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md) <br> Satisfação - requisito recebeu $8.5 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md) <br> Agregação - O requisito US12 é classificado no épico 2.9 no [Backlog](../Modelagem/Agil/Backlog.md) <br> Satisfação - O requisito tem a prioridade 0,75 em [First thing First](../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md) | 
-| **Print** | <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/gxIX8ULMSe6gf3Ii6dnyVu/Untitled?node-id=34-4&embed-host=share" allowfullscreen></iframe> |
+| **Print** |  <iframe width="800" height="450" src="https://www.figma.com/embed?embed_host=markdown&url=https://www.figma.com/proto/gxIX8ULMSe6gf3Ii6dnyVu/Untitled?node-id=1-795&p=f&t=EUO7BdW0OlFonVSV-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A795" allowfullscreen></iframe> |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -444,7 +456,7 @@ As tabelas 16, 17, 18, 19, 29, 21, 22, 23 e 24 representam os cartões de elos d
 |       **Elementos**        |                               [RF22](../PerfilUsuario/Tecnicas/Requisitosel.md), [IS19](../PerfilUsuario/Tecnicas/Introspeccao.md), [US22](../Modelagem/Agil/historia.md)                |
 |   **Elos Backward-from**   |                                                            **Recurso** - O requisito RF16 originou-se da Introspecção(IS19)                                                              |
 |   **Elos Forward-from**    | **Satisfação**  - A história de usuário US22 satisfaz as necessidades estabelecidas pelo requisito RF22<br>**Alocado** - a história de usuário US22 está alocada no Épico 2.7 do [Backlog](../Modelagem/Agil/Backlog.md) |
-|         **Print**          |                                                              <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/gxIX8ULMSe6gf3Ii6dnyVu/Untitled?node-id=50-148&embed-host=share" allowfullscreen></iframe>                                                          |
+|         **Print**          |                                                               <iframe width="800" height="450" src="https://www.figma.com/embed?embed_host=markdown&url=https://www.figma.com/proto/gxIX8ULMSe6gf3Ii6dnyVu/Untitled?node-id=1-795&p=f&t=EUO7BdW0OlFonVSV-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A795" allowfullscreen></iframe>                                                          |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font>
 </center>
@@ -624,7 +636,7 @@ As tabelas 32, 33, 34, 35, 36, 37 e 38 representam os cartões de requisitos fun
 | **Elementos**             | [RF32](../PerfilUsuario/Tecnicas/Requisitosel.md), [QT5](../PerfilUsuario/Tecnicas/Questionario.md), [US37](../Modelagem/Agil/historia.md)                                    |
 | **Elos Backward-from**    | **Agregação** - [QT5](../PerfilUsuario/Tecnicas/Questionario.md). O requisito originou-se do Questionário.                                                                     |
 | **Elos Forward-from**     | **Satisfação** - O requisito recebeu uma priorização de 0,23 na técnica [First Things First](../PerfilUsuario/TecnicasPrior/firstthing.md).<br> **Satisfação** - A história de usuário [US37](../Modelagem/Agil/historia.md) satisfaz o requisito [RF32](../PerfilUsuario/Tecnicas/Requisitosel.md) ao especificar que o aplicativo deve permitir Trending Topics.<br> **Satisfação** - O requisito recebeu $18 na técnica [$100](../PerfilUsuario/TecnicasPrior/100.md).<br> **Satisfação** - O requisito recebeu priorização média na [Three Level Scale](../PerfilUsuario/TecnicasPrior/Three.md).<br> **Agregação** - O requisito é classificado no Épico 2.32 do [Backlog](../Modelagem/Agil/Backlog.md). |
-| **Print**                 | [Imagem](../assets/images/elo32.png)                                                                                                                                          |
+| **Print**                 |  <iframe width="800" height="450" src="https://www.figma.com/embed?embed_host=markdown&url=https://www.figma.com/proto/gxIX8ULMSe6gf3Ii6dnyVu/Untitled?node-id=1-795&p=f&t=EUO7BdW0OlFonVSV-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A795" allowfullscreen></iframe>                                                                                                                                         |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font>
 </center>
@@ -1024,9 +1036,9 @@ As tabelas 52 e 53 representam os cartões de requisitos não funcionais feitos 
             <td>19/01/2025</td>
             <td>1.3</td>
             <td>Adição dos elos 24 ao 30 e 51 e 52 </td>
-            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td>19/01/2025</td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>
 </div>
