@@ -75,14 +75,16 @@ markdown_extensions:
 nav:
   - Home: Home/index.md
   - Atas:
-    - 1º reuniao: Atas/reuniao_1.md
-    - 2º reuniao: Atas/reuniao_2.md
-    - 3º reuniao: Atas/reuniao_3.md
+    - 1º reunião: Atas/reuniao_1.md
+    - 2º reunião: Atas/reuniao_2.md
+    - 3º reunião: Atas/reuniao_3.md
+    - 4º reunião: Atas/reuniao_4.md
   - Apresentações: 
     - Apresentação 1: Home/apresentacao1.md
     - Apresentação 2: Home/apresentacao2.md
     - Apresentação 3: Home/apresentacao3.md
     - Apresentação 4: Home/apresentacao4.md
+    - Apresentação 5: Home/apresentacao5.md
   - Cronograma Executado: Home/cronogramaex.md
 
   - Desenvolvimento:
@@ -118,6 +120,10 @@ nav:
       - Backlog: Modelagem/Agil/Backlog.md
       - NFR Framework: Modelagem/Agil/NFRs.md
 
+  - Rastreabilidade: 
+    - Elos: Rastreabilidade/Elos.md
+    - Matriz de rastreabilidade: Rastreabilidade/Matriz.md
+
   - Inspeção: 
     - Etapa 1:
       - Planejamento Etapa 1: Revisao/Etapa1/planejamento1.md
@@ -137,4 +143,7 @@ nav:
       - Planejamento etapa 4: Revisao/Etapa4/planejamento.md
       - Inspeção etapa 4: Revisao/Etapa4/inspecao.md
       - Inspeção grupo 02: Revisao/Etapa4/inspecao4Grupo2.md
-
+    - Etapa 5:
+      - Planejamento etapa 5: Revisao/Etapa5/planejamento.md
+      - Inspeção etapa 5: Revisao/Etapa5/insp4.md
+      - Inspeção grupo 02: Revisao/Etapa5/Grupo2.md
