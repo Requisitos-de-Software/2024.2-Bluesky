@@ -56,15 +56,16 @@ A tabela 2 representa a inspeção da matriz de rastreabilidade.
 A tabela 3 representa a inspeção dos elos de rastreabilidade.
 
     Tabela 3: Elos
-|  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   | Autor | Versão - Data - Hora |
-| :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |:--------: | :--------: |
-| 14 | Os elos levam os requisitos até sua fonte | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloJ1.png) | Davi |
-| 15 | O modelo é dividido em ambiental,organizacional, gerencial e desenvolvimento conforme proposto por Toranzo | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloj2) |  Eduarda |
-| 16 | Os elos são divididos em 6, classificados como satisfação, recurso, responsabilidade, representação, alocado e agregação? | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloj3.png) | Renata |
-| 17 | Os elos da classe agregação de fato indicam a ocorrência de composição de elementos? | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/checklistElos.PNG) | João |
+|  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   | Autor 
+| :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |:--------: |
+| 14 | Os elos levam os requisitos até sua fonte | SIM | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloJ1.png) | Davi |
+| 15 | O modelo é dividido em ambiental,organizacional, gerencial e desenvolvimento conforme proposto por Toranzo | SIM | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloj2) |  Eduarda |
+| 16 | Os elos são divididos em 6, classificados como satisfação, recurso, responsabilidade, representação, alocado e agregação? | SIM | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloj3.png) | Renata |
+| 17 | Os elos da classe agregação de fato indicam a ocorrência de composição de elementos? | SIM | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/checklistElos.PNG) | João |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p>  
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/vx1p33ZygWk" title="Inspeção dos elos grupo 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Bibliografia 
