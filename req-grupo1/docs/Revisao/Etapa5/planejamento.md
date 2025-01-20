@@ -17,22 +17,10 @@ Cada pergunta será documentada em uma tabela com os seguintes campos:
 
 Esse processo, dependendo da disponibilidade dos membros, será realizado de forma iterativa para garantir a revisão completa de cada artefato. Assim, esse artefato cumpre tanto uma função de verificação – pois analisa a consistência e correção dos artefatos – quanto de validação, ao confirmar se os artefatos atendem aos objetivos do projeto.
 
-## Artefatos
-A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o integrante responsável pela realização da lista de verificação e o integrante responsável pela avaliação em si.
-
-    Tabela 1: Organização da inspeção
-|Artefato| Versão | Integrante responsável pela lista de verificação | Integrante responsável pela revisão |
-|:-----------------------: | :----: | :----------------------------------------------: | :---------------------------------: |
-|Perguntas gerais| - | Renata | - |
-| Elos | - | - | - |
-| Matriz de rastreabilidade| - | - | - |
-
-<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
-
 ## Perguntas Gerais 
-A tabela 2 se refere a inspeção geral do projeto, todos os artefatos serão verificados a partir desta tabela. 
+A tabela 1 se refere a inspeção geral do projeto, todos os artefatos serão verificados a partir desta tabela. 
 
-    Tabela 2: inspeção geral
+    Tabela 1: inspeção geral
 |  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   |
 | :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 |  01   |                          Os artefatos possuem o histórico de versão padronizado ?                           |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
@@ -44,14 +32,14 @@ A tabela 2 se refere a inspeção geral do projeto, todos os artefatos serão ve
 |  07   |                                      Possui as gravações das reuniões?                                      |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 |  08   |                   As apresentações possuem vídeos na categoria "não listado" no youtube ?                   |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Matriz de rastreabilidade
-A tabela 3 representa a inspeção da matriz de rastreabilidade.
+A tabela 2 representa a inspeção da matriz de rastreabilidade.
 
-    Tabela 3: matriz de rastreabilidade
-|  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   | Autor |
-| :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |:--------: |
+    Tabela 2: matriz de rastreabilidade
+|  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   | Autor | Versão - Data - Hora |
+| :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |:--------: | :--------: |
 | 09 | A matriz registra os requisitos expressos em linguagem natural e numerados sequencialmente? | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp1.png) | Davi |
 | 10 | A matriz inclui artefatos gerados durante o processo de desenvolvimento (como documentos, arquitetura, componentes e casos de teste)? | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp2.png) |  Eduarda |
 | 11 | Os registros de rastreabilidade foram realizados manualmente? | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp3.png) | Renata |
@@ -63,11 +51,11 @@ A tabela 3 representa a inspeção da matriz de rastreabilidade.
 
 ## Rastreabilidade dos elos
 
-A tabela 4 representa a inspeção dos elos de rastreabilidade.
+A tabela 3 representa a inspeção dos elos de rastreabilidade.
 
-    Tabela 4: Elos
-|  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   | Autor |
-| :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |:--------: |
+    Tabela 3: Elos
+|  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   | Autor | Versão - Data - Hora |
+| :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |:--------: | :--------: |
 | 14 | Os elos levam os requisitos até sua fonte | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloJ1.png) | Davi |
 | 15 | O modelo é dividido em ambiental,organizacional, gerencial e desenvolvimento conforme proposto por Toranzo | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloj2) |  Eduarda |
 | 16 | Os elos são divididos em 6, classificados como satisfação, recurso, responsabilidade, representação, alocado e agregação? | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloj3.png) | Renata |
@@ -98,16 +86,16 @@ A tabela 4 representa a inspeção dos elos de rastreabilidade.
             <td>1.0</td>
             <td>Criação do documento e adicionando inspeção Matriz de Rastreabilidade </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td></td>
-            <td></td>
+            <td>18/01</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
             <td>18/01/2025</td>
             <td>1.0</td>
             <td>adicionando elos </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-            <td></td>
-            <td></td>
+            <td>18/01</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
