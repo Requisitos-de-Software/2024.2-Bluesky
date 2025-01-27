@@ -16,8 +16,8 @@ theme:
   custom_dir: overrides
   name: material
   language: pt-BR
-  logo: /2024.2-Grupo01/assets/images/Bluesky_app_icon.png
-  favicon: /2024.2-Grupo01/assets/images/icon.svg
+  logo: /2024.2-Bluesky/assets/images/Bluesky_app_icon.png
+  favicon: /2024.2-Bluesky/assets/images/icon.svg
 
   icon:
     repo: fontawesome/brands/github
