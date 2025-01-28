@@ -34,10 +34,10 @@ A tabela 2 representa a inspeção da matriz de rastreabilidade.
     Tabela 2: matriz de rastreabilidade
 |  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   | Autor | Versão - Data - Hora |
 | :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |:--------: | :--------: |
-| 09 | A matriz registra os requisitos expressos em linguagem natural e numerados sequencialmente? | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp1.png) | Davi | 1.1 - 19/01 - 22:40 |
-| 10 | A matriz inclui artefatos gerados durante o processo de desenvolvimento (como documentos, arquitetura, componentes e casos de teste)? | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp2.png) |  Eduarda |  1.1 - 19/01 - 22:41 |
-| 11 | Os registros de rastreabilidade foram realizados manualmente? | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp3.png) | Renata |  1.1 - 19/01 - 22:41 |
-| 12 | Há hiperlinks ou conexões entre os diferentes artefatos na matriz (como léxico e cenários)? | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp4.png) | Jõao |  1.1 - 19/01 - 22:42 |
+| 09 | A matriz registra os requisitos expressos em linguagem natural e numerados sequencialmente? | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp1.png) | Davi | 1.1 - 20/01 - 22:40 |
+| 10 | A matriz inclui artefatos gerados durante o processo de desenvolvimento (como documentos, arquitetura, componentes e casos de teste)? | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp2.png) |  Eduarda |  1.1 - 20/01 - 22:41 |
+| 11 | Os registros de rastreabilidade foram realizados manualmente? | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp3.png) | Renata |  1.1 - 20/01 - 22:41 |
+| 12 | Há hiperlinks ou conexões entre os diferentes artefatos na matriz (como léxico e cenários)? | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp4.png) | Jõao |  1.1 - 20/01 - 22:42 |
 | 13 | A matriz suporta múltiplas versões de requisitos e casos de uso? | Não |[SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp5.png) | Carla |  1.1 - 19/01 - 22:43 |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
@@ -52,10 +52,10 @@ A tabela 3 representa a inspeção dos elos feita pela integrante [Renata](https
     Tabela 3: Elos
 |  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   | Autor | Versão - Data - Hora |
 | :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |:--------: | :--------: |
-| 14 | Os elos levam os requisitos até sua fonte | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloJ1.png) | Davi | 1.0 - 19/01 - 16:24 |
-| 15 | O modelo é dividido em ambiental,organizacional, gerencial e desenvolvimento conforme proposto por Toranzo | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloj2) |  Eduarda | 1.0 - 19/01 - 16:25 |
-| 16 | Os elos são divididos em 6, classificados como satisfação, recurso, responsabilidade, representação, alocado e agregação? | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloj3.png) | Renata | 1.0 - 19/01 - 16:25 |
-| 17 | Os elos da classe agregação de fato indicam a ocorrência de composição de elementos? | Não consta | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/checklistElos.PNG) | João | 1.0 - 19/01 - 16:28 |
+| 14 | Os elos levam os requisitos até sua fonte | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloJ1.png) | Davi | 1.0 - 20/01 - 16:24 |
+| 15 | O modelo é dividido em ambiental,organizacional, gerencial e desenvolvimento conforme proposto por Toranzo | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloj2) |  Eduarda | 1.0 - 20/01 - 16:25 |
+| 16 | Os elos são divididos em 6, classificados como satisfação, recurso, responsabilidade, representação, alocado e agregação? | Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/eloj3.png) | Renata | 1.0 - 20/01 - 16:25 |
+| 17 | Os elos da classe agregação de fato indicam a ocorrência de composição de elementos? | Não consta | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/checklistElos.PNG) | João | 1.0 - 20/01 - 16:28 |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a>; Gravação diponível neste <a href="https://youtu.be/3S6wUw6on7c">Link</a></p>  
 
@@ -79,7 +79,7 @@ Como visto na tabela 3, o artefato com os elos está ótimo. O ID17 não consta,
             <th>Revisor</th>
         </tr>
         <tr>
-            <td>19/01/2025</td>
+            <td>20/01/2025</td>
             <td>1.0</td>
             <td>Criação do documento e inspeção Elos, Matriz</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
