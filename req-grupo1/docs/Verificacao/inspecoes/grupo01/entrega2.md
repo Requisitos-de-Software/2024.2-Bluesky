@@ -118,12 +118,12 @@ A tabela 2 mostra o checklist da Técnica de Priorização $100
 ## Checklist da Verificação Observação
 A tabela 2 mostra o checklist da Técnica de Priorização Observação
 
-|  ID   |                              Descrição                               |                                                                 Referência                                                                  |  Autor  | Resposta |
+|  ID   |                              Descrição                               |                                                                 Referência                                                                  |  Autor  | Avaliação |
 | :---: | :------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-----: | :------: |
-|   1   |               A observação tem objetivo bem definido?                | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB1.png) | Eduarda |          |
-|   2   |        O usuário observado se enquadra no perfil de pesquisa?        | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB2.png) |  Davi   |          |
-|   3   |   O método de observação escolhido está apresentado no documento?    | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB3.png) |  João   |          |
-|   4   | Existem notas de detalhes na observação além da lista de requisitos? | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB4.png) | Renata  |          |
+|   1   |               A observação tem objetivo bem definido?                | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB1.png) | Eduarda |    SIM      |
+|   2   |        O usuário observado se enquadra no perfil de pesquisa?        | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB2.png) |  Davi   |    SIM      |
+|   3   |   O método de observação escolhido está apresentado no documento?    | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB3.png) |  João   |    SIM      |
+|   4   | Existem notas de detalhes na observação além da lista de requisitos? | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB4.png) | Renata  |    SIM      |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a> e <a href="https://github.com/ccarlaa">Carla Clementino</a></p>
 
@@ -141,12 +141,13 @@ Todas as verificações foram realizadas corretamente.
 ## Checklist da Verificação Three Level Scale
 A tabela 2 mostra o checklist da Técnica de Priorização Three Level Scale
 
-|  ID   |                                  Descrição                                   |                                                                                         Referência                                                                                          | Autor  |
-| :---: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: |
-|   1   |      A técnica avalia os requisitos com base na importância e urgência?      | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png) | Renata |
-|   2   |         Os requisitos de alta prioridade são definidos com clareza?          | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png) |  Davi  |
-|   3   |         Há distinção entre requisitos médios e de baixa prioridade?          | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png) | Carla  |
-|   4   | A técnica permite identificar prioridades de forma iterativa, se necessário? | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T2.png) |  Davi  |
+|  ID   |                                  Descrição                                   |                                                                                         Referência                                                                                          | Autor  | Avaliação |
+| :---: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :------: |
+|   1   |      A técnica avalia os requisitos com base na importância e urgência?      | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png) | Renata |   SIM       |
+|   2   |         Os requisitos de alta prioridade são definidos com clareza?          | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png) |  Davi  |   SIM       |
+|   3   |         Há distinção entre requisitos médios e de baixa prioridade?          | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png) | Carla  |   SIM       |
+|   4   | A técnica permite identificar prioridades de forma iterativa, se necessário? | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T2.png) |  Davi  |    SIM      |
+
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a> e <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
 </center>
