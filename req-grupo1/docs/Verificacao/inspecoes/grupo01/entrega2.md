@@ -100,7 +100,7 @@ A tabela 2 mostra o checklist dos [Introspecção](../../../PerfilUsuario/Tecnic
 A tabela 2 mostra o checklist da Técnica de Priorização $100
 
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - $100 </font>
+<font size="3"><b>Tabela 4:</b> Verificação - $100 </font>
 
 | Descrição | Referência | Autor(a) | Resposta |
 |:---------:|:---------:|:-----------:|:--------:|
@@ -164,6 +164,14 @@ Resultado extremamente favorável com saldo positivo.
             <td><a href="https://github.com/Renatinha28">Renata</a></td>
             <td>03/02/2025</td>
             <td><a href="https://github.com/ccarlaa">Carla</a></td>
+        </tr>
+        <tr>
+            <td>03/02/2025</td>
+            <td>1.0</td>
+            <td>Inspeção davi $100</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>03/02/2025</td>
+            <td><a href="https://github.com/Renatinha28">Renata</a></td>
         </tr>
     </table>
 </div>

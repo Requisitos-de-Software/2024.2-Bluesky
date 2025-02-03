@@ -46,6 +46,35 @@ A tabela 2 mostra o checklist da [Especificação Suplementar](../../../PerfilUs
 ### Comentários - Especificação Suplementar
 De acordo com a inspeção feita, a Especificação Suĺementar foi realizado corretamente
 
+## Checklist dos léxicos
+
+<center>
+<font size="3"><b>Tabela 3:</b> Verificação - léxicos </font>
+
+| Descrição | Referência | Autor(a) | Resposta |
+|:---------:|:---------:|:-----------:|:--------:|
+| Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | Renata | SIM |
+| Cada símbolo é descrito por ao menos uma noção e um impacto? | [Leite (2012)](../../assets/images/inspecao3/inspLex1.PNG)<sup>[1](#ref1) | João / Eduarda |  SIM|
+| Os símbolos descritos têm sinônimo(s)? | [Leite (2012)](../../assets/images/inspecao3/inspLex2.PNG)<sup>[1](#ref1) | Davi |SIM  |
+| São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural? (Princípio do Vocabulário Mínimo) | [Leite (2012)](../../assets/images/inspecao3/inspLex3.PNG)<sup>[1](#ref1) | João | SIM |
+| São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade) | [Leite (2012)](../../assets/images/inspecao3/inspLex3.PNG)<sup>[1](#ref1) | João | SIM |
+| Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | Renata / João | SIM |
+| Nos símbolos do tipo verbo, seus impactos são os reflexos da ação no ambiente e os estados decorrentes? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | Carla | SIM |
+| Nos símbolos do tipo objeto, suas noções os definem e identificam outros objetos com os quais este se relaciona? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | João | Inconclusivo |
+| Nos símbolos do tipo objeto, seus impactos são as ações passíveis de serem aplicadas ao objeto? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | João | SIM  |
+| Nos símbolos do tipo estado, suas noções são seus significados e quais ações levaram a eles? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | João / Renata | NÃO |
+| Nos símbolos do tipo estado, seus impactos abrangem outros estados e ações originárias do estado descrito? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | João | NÃO |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+</center>
+
+## Vídeo dos léxicos:
+
+
+## Comentários dos léxicos: 
+
+Precisamos de estado. 
+
 ## Referências Bibliográficas
 > 1. <a id="ref1"></a> Gerência de Requisitos. Monografia: Sayão, M.; Leite, J. C. S. P. Rastreabilidade de Requisitos. 2005. Monografia – Ciência da Computação – Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2005.
 
@@ -68,6 +97,14 @@ De acordo com a inspeção feita, a Especificação Suĺementar foi realizado co
             <td><a href="https://github.com/Renatinha28">Renata</a></td>
             <td>03/02/2025</td>
             <td><a href="https://github.com/ccarlaa">Carla</a></td>
+        </tr>
+        <tr>
+            <td>03/02/2025</td>
+            <td>1.1</td>
+            <td>Inspeção Davi</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>03/02/2025</td>
+            <td><a href="https://github.com/Renatinha28">Renata</a></td>
         </tr>
     </table>
 </div>

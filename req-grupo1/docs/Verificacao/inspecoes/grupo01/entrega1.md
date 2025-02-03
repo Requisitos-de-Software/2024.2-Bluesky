@@ -49,7 +49,7 @@ Pela inspeção realizada, todas as Rich Pictures foram feitas corretamente.
 ## Checklist de verificação Perfil do usuário: 
 
 <center>
-<font size="3"><b>Tabela 2:</b> Verificação - Perfil de usuário </font>
+<font size="3"><b>Tabela 3:</b> Verificação - Perfil de usuário </font>
 
 | Descrição | Referência | Autor(a) | Resposta |
 |:---------:|:---------:|:-----------:|:--------:|
@@ -96,7 +96,7 @@ parece ter tido um resultado positivo  no perfil de usuário.
         </tr>
         <tr>
             <td>03/02/2025</td>
-            <td>1.0</td>
+            <td>1.1</td>
             <td>Inspeção Perfil de usuário</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>03/02/2025</td>
