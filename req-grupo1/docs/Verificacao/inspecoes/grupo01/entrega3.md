@@ -70,6 +70,7 @@ De acordo com a inspeção feita, a Especificação Suĺementar foi realizado co
 
 ## Vídeo dos léxicos:
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/d5UgvEL5Iao" title="lexicos grupo 01 requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Comentários dos léxicos: 
 

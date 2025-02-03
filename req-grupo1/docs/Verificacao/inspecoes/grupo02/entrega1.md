@@ -62,7 +62,7 @@ Pela inspeção realizada, todas as Rich Pictures foram feitas corretamente.
 
 ## Vídeo da inspeção - Perfil de usuário
 
-
+<iframe width="853" height="480" src="https://www.youtube.com/embed/T_Copd3w5pA" title="perfil de usuário grupo 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Comentários
 

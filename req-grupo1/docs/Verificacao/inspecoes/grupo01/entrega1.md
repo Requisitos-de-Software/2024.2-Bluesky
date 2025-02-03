@@ -64,6 +64,11 @@ Pela inspeção realizada, todas as Rich Pictures foram feitas corretamente.
 </center>
 
 
+
+## Vídeo do Perfil de usuário
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/VoF2G8om7dQ" title="perfil de usuário grupo 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Comentários
 
 parece ter tido um resultado positivo  no perfil de usuário. 

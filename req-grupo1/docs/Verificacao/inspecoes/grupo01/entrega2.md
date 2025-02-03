@@ -118,6 +118,7 @@ A tabela 2 mostra o checklist da Técnica de Priorização $100
 
 ### Vídeo da inspeção - $100
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/nXTyTXcU0gg" title="$100 grupo 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Comentários - $100
 

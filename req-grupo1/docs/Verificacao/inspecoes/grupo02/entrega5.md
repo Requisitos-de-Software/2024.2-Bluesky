@@ -45,10 +45,12 @@ A tabela 2 mostra o checklist dos Elos
 </center>
 
 ## Vídeo Elos
+<iframe width="853" height="480" src="https://www.youtube.com/embed/MZ183Uoj1HA" title="elos grupo 02 requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Comentários
 
 Satisfátorio
+
 
 
 ## :round_pushpin: Histórico de Versão 
