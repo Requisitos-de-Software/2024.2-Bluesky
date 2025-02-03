@@ -96,6 +96,34 @@ A tabela 2 mostra o checklist dos [Introspecção](../../../PerfilUsuario/Tecnic
 
 
 
+## Checklist da Verificação $100
+A tabela 2 mostra o checklist da Técnica de Priorização $100
+
+<center>
+<font size="3"><b>Tabela 2:</b> Verificação - $100 </font>
+
+| Descrição | Referência | Autor(a) | Resposta |
+|:---------:|:---------:|:-----------:|:--------:|
+| Foi alocado 100 dólares para "comprar" os itens que gostariam de ter implementados? | [Wiegers e Beatty (2013)](../../assets/images/100.png)<sup>[1](#ref1) | Renata | SIM |
+| Foi alocado maiores quantidades de dólares aos requisitos de maior prioridade? | [Wiegers e Beatty (2013)](../../assets/images/100.png)<sup>[1](#ref1)  | Davi | SIM |
+| Foi utilizado exclusivamente 100 dólares? nada a mais? | [Wiegers e Beatty (2013)](../../assets/images/100.png)<sup>[1](#ref1)  | Carla | SIM |
+| Foi realizado a soma do número total de dólares atribuídos a cada requisito para ver qual tem maior prioridade? | [Wiegers e Beatty (2013)](../../assets/images/100.png)<sup>[1](#ref1)  | Eduarda | Não (em partes)  |
+| A priorização de requisitos foi feita após um grupo de pessoas aplicar a técnica $100? | [Wiegers e Beatty (2013)](../../assets/images/100.png)<sup>[1](#ref1) | João | SIM |
+| Quem participou da técnica foram gerentes de produtos, membros de equipe e/ou proprietários de produto? | [website](../../assets/images/$1001.png)<sup>[2](#ref2) | Renata | SIM |
+| A entrada foi uma lista de coisas a serem priorizadas e a saída uma lista reordenada? | [website](../../assets/images/$1001.png)<sup>[2](#ref2) | Renata | SIM |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+</center>
+
+
+### Vídeo da inspeção - $100
+
+
+## Comentários - $100
+
+Resultado extremamente favorável com saldo positivo.
+
+
 ## Referências Bibliográficas
 > 1. <a id="ref1"></a> Gerência de Requisitos. Monografia: Sayão, M.; Leite, J. C. S. P. Rastreabilidade de Requisitos. 2005. Monografia – Ciência da Computação – Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2005.
 

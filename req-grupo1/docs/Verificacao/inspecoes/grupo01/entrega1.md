@@ -16,7 +16,9 @@ Como metodologia teremos uma tabela modelo para realização do checklist, como 
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 </center>
-## Checklist da Verificação
+
+## Checklist da Verificação RIchpicture
+
 A tabela 2 mostra a inspeção dos RichPictures
 
 <center>
@@ -44,6 +46,30 @@ A tabela 2 mostra a inspeção dos RichPictures
 
 Pela inspeção realizada, todas as Rich Pictures foram feitas corretamente. 
 
+## Checklist de verificação Perfil do usuário: 
+
+<center>
+<font size="3"><b>Tabela 2:</b> Verificação - Perfil de usuário </font>
+
+| Descrição | Referência | Autor(a) | Resposta |
+|:---------:|:---------:|:-----------:|:--------:|
+| O perfil de usuário detalha as características do usuário? | [Barbosa et al. (2021)](../../assets/images/PU1.png)<sup>[1](#ref1) | Renata | SIM |
+| O perfil de usuário detalha as características de interesse (função, cargo, experiência, nível de instrução, atividades principais, faixa etária, etc)? | [Barbosa et al. (2021)](../../assets/images/PU2.png)<sup>[1](#ref1) | Davi | SIM |
+| O perfil de usuário foi definido através de um estudo para coletar os dados? | [Barbosa et al. (2021)](../../assets/images/PU3.png)<sup>[1](#ref1) | Eduarda | SIM |
+| O perfil de usuário foi construído com dados sobre o próprio usuário, sua relação com tecnologia, seu domínio do produto e tarefas que utilizará com o produto? | [Barbosa et al. (2021)](../../assets/images/PU4.png)<sup>[1](#ref1) | Carla | SIM |
+| Os usuários são caracterizados em grupos, com base em suas semelhanças? | [Barbosa et al. (2021)](../../assets/images/PU5.png)<sup>[1](#ref1) | João | SIM |
+| Os grupos são definidos corretamente (idade, experiência, atitudes e tarefas primárias)? | [Barbosa et al. (2021)](../../assets/images/PU6.png)<sup>[1](#ref1) | Renata | SIM |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+</center>
+
+
+## Comentários
+
+parece ter tido um resultado positivo  no perfil de usuário. 
+
+
+
 ## Referências Bibliográficas
 > 1. <a id="ref1"></a> Gerência de Requisitos. Monografia: Sayão, M.; Leite, J. C. S. P. Rastreabilidade de Requisitos. 2005. Monografia – Ciência da Computação – Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2005.
 
@@ -67,6 +93,14 @@ Pela inspeção realizada, todas as Rich Pictures foram feitas corretamente.
             <td><a href="https://github.com/Renatinha28">Renata</a></td>
             <td>03/02/2025</td>
             <td><a href="https://github.com/ccarlaa">Carla</a></td>
+        </tr>
+        <tr>
+            <td>03/02/2025</td>
+            <td>1.0</td>
+            <td>Inspeção Perfil de usuário</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>03/02/2025</td>
+            <td><a href="https://github.com/Renatinha28">Renata</a></td>
         </tr>
     </table>
 </div>
