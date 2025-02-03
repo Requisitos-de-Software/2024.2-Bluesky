@@ -44,7 +44,7 @@ A tabela 2 mostra o checklist dos [questionário](../../../PerfilUsuario/Tecnica
 </div>
 
 
-### Comentários - Questionário 
+#### Comentários - Questionário 
 De acordo com a inspeção feita, o questionário foi realizado corretamente
 
 
@@ -66,7 +66,7 @@ A tabela 2 mostra o checklist dos [Personas](../../../PerfilUsuario/Personas.md)
 ### Vídeo da inspeção - Personas
 
 
-## Comentários - Personas
+### Comentários - Personas
 
 
 ## Checklist da Verificação - Introspeccão
@@ -92,7 +92,7 @@ A tabela 2 mostra o checklist dos [Introspecção](../../../PerfilUsuario/Tecnic
 ### Vídeo da inspeção - Instrospecção
 
 
-## Comentários - Instrospecção
+### Comentários - Instrospecção
 
 
 
@@ -115,14 +115,52 @@ A tabela 2 mostra o checklist da Técnica de Priorização $100
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 </center>
 
+## Checklist da Verificação Observação
+A tabela 2 mostra o checklist da Técnica de Priorização Observação
 
-### Vídeo da inspeção - $100
+|  ID   |                              Descrição                               |                                                                 Referência                                                                  |  Autor  | Avaliação |
+| :---: | :------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-----: | :------: |
+|   1   |               A observação tem objetivo bem definido?                | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB1.png) | Eduarda |    SIM      |
+|   2   |        O usuário observado se enquadra no perfil de pesquisa?        | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB2.png) |  Davi   |    SIM      |
+|   3   |   O método de observação escolhido está apresentado no documento?    | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB3.png) |  João   |    SIM      |
+|   4   | Existem notas de detalhes na observação além da lista de requisitos? | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB4.png) | Renata  |    SIM      |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a> e <a href="https://github.com/ccarlaa">Carla Clementino</a></p>
+
+</center>
+
+### Vídeo da inspeção - Observação
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/AUZkheOZ0jQ" title="IHC - Verificação final -  Carla" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Comentários - Observação
+
+Todas as verificações foram realizadas corretamente.
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/nXTyTXcU0gg" title="$100 grupo 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Comentários - $100
+## Checklist da Verificação Three Level Scale
+A tabela 2 mostra o checklist da Técnica de Priorização Three Level Scale
 
-Resultado extremamente favorável com saldo positivo.
+|  ID   |                                  Descrição                                   |                                                                                         Referência                                                                                          | Autor  | Avaliação |
+| :---: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :------: |
+|   1   |      A técnica avalia os requisitos com base na importância e urgência?      | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png) | Renata |   SIM       |
+|   2   |         Os requisitos de alta prioridade são definidos com clareza?          | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png) |  Davi  |   SIM       |
+|   3   |         Há distinção entre requisitos médios e de baixa prioridade?          | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png) | Carla  |   SIM       |
+|   4   | A técnica permite identificar prioridades de forma iterativa, se necessário? | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T2.png) |  Davi  |    SIM      |
+
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a> e <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
+</center>
+
+### Vídeo da inspeção - Three Level Scale
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/AUZkheOZ0jQ" title="IHC - Verificação final -  Carla" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### Comentários - Three Level Scale
+
+Todas as verificações foram realizadas corretamente.
 
 
 ## Referências Bibliográficas

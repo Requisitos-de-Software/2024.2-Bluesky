@@ -76,6 +76,34 @@ De acordo com a inspeção feita, a Especificação Suĺementar foi realizado co
 
 Precisamos de estado. 
 
+## Checklist dos Cenários
+
+<center>
+|  ID   |                                     Descrição                                      |                      Referência                      |                      Autor                       | Avaliação |
+| :---: | :--------------------------------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------: | :------: |
+|   1   |        Os textos estão redigidos de acordo com as normas da língua padrão?         |      COCKBURN, Alistair; LARMAN, Craig [⁴](#4)       |     [Eduarda](https://github.com/erteduarda)     |     SIM     |
+|   2   |                   O título do cenário é claro e autoexplicativo?                   |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |      SIM    |
+|   3   |       O objetivo do cenário está claro e corresponde ao título apresentado?        |   SOMMERVILLE [¹](#1), Ian; LARMAN, Craig [⁴](#4)    |     [Eduarda](https://github.com/erteduarda)     |    SIM      |
+|   4   | O contexto do cenário está bem descrito, incluindo local e pré-condições iniciais? |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |     SIM     |
+|   5   | Os episódios do cenário estão organizados de forma lógica e conduzem ao objetivo?  | COCKBURN, Alistair [³](#3); SOMMERVILLE, Ian [¹](#1) | [Renata Quadros](https://github.com/Renatinha28) |   SIM       |
+|   6   | O cenário apresenta situações plausíveis e relevantes de interação com o sistema?  |   JACOBSON, Ivar[²](#2); SOMMERVILLE, Ian  [¹](#1)   |                      Carla                       |   SIM       |
+|   7   |     Os atores descritos no cenário estão alinhados com o contexto apresentado?     |  COCKBURN, Alistair [³](#3); LARMAN, Craig [⁴](#4)   |     [Davi Nobre](https://github.com/Jagaima)     |     SIM     |
+|   8   |              Existe uma conexão clara entre os cenários e os léxicos?        SIM      |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |    SIM      |
+
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a> e <a href="https://github.com/ccarlaa">Carla Clementino</a></p>
+</center>
+
+## Vídeo dos Cenários:
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/AUZkheOZ0jQ" title="IHC - Verificação final -  Carla" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Comentários dos Cenários: 
+
+Todas as verificações foram realizadas corretamente.
+
+
 ## Referências Bibliográficas
 > 1. <a id="ref1"></a> Gerência de Requisitos. Monografia: Sayão, M.; Leite, J. C. S. P. Rastreabilidade de Requisitos. 2005. Monografia – Ciência da Computação – Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2005.
 
