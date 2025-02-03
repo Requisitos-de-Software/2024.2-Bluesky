@@ -2,7 +2,7 @@
 A verificação de artefatos tem como finalidade garantir a conformidade, a qualidade e a eficiência de processos e atividades em diferentes áreas. Tais ferramentas são essenciais para organizar as etapas de execução e assegurar que todas as ações necessárias sejam realizadas de maneira adequada. 
 
 ## Objetivo
-Este artefato tem como objetivo documentar a inspeção dos artefatos de [RichPicture](../../Desenvolvimento/apps_avaliados.md) com o intuito de facilitar a gestão, da entrega 01. A integrante [Renata Quadros](https://github.com/Renatinha28) foi responsável pela inspeção.
+Este artefato tem como objetivo documentar a inspeção dos artefatos da entrega 02 com o intuito de facilitar a gestão. 
 
 ## Metodologia
 Como metodologia teremos uma tabela modelo para realização do checklist, como mostra a tabela 1. 
@@ -16,7 +16,6 @@ Como metodologia teremos uma tabela modelo para realização do checklist, como 
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 </center>
-
 ## Checklist da Verificação
 A tabela 2 mostra a inspeção dos RichPictures
 
