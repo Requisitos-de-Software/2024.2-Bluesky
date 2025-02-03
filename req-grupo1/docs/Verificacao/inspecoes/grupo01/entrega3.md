@@ -78,18 +78,17 @@ Precisamos de estado.
 ## Checklist dos Cenários
 
 <center>
-<font size="3"><b>Tabela 3:</b> Verificação - Cenários </font>
+|  ID   |                                     Descrição                                      |                      Referência                      |                      Autor                       | Avaliação |
+| :---: | :--------------------------------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------: | :------: |
+|   1   |        Os textos estão redigidos de acordo com as normas da língua padrão?         |      COCKBURN, Alistair; LARMAN, Craig [⁴](#4)       |     [Eduarda](https://github.com/erteduarda)     |     SIM     |
+|   2   |                   O título do cenário é claro e autoexplicativo?                   |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |      SIM    |
+|   3   |       O objetivo do cenário está claro e corresponde ao título apresentado?        |   SOMMERVILLE [¹](#1), Ian; LARMAN, Craig [⁴](#4)    |     [Eduarda](https://github.com/erteduarda)     |    SIM      |
+|   4   | O contexto do cenário está bem descrito, incluindo local e pré-condições iniciais? |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |     SIM     |
+|   5   | Os episódios do cenário estão organizados de forma lógica e conduzem ao objetivo?  | COCKBURN, Alistair [³](#3); SOMMERVILLE, Ian [¹](#1) | [Renata Quadros](https://github.com/Renatinha28) |   SIM       |
+|   6   | O cenário apresenta situações plausíveis e relevantes de interação com o sistema?  |   JACOBSON, Ivar[²](#2); SOMMERVILLE, Ian  [¹](#1)   |                      Carla                       |   SIM       |
+|   7   |     Os atores descritos no cenário estão alinhados com o contexto apresentado?     |  COCKBURN, Alistair [³](#3); LARMAN, Craig [⁴](#4)   |     [Davi Nobre](https://github.com/Jagaima)     |     SIM     |
+|   8   |              Existe uma conexão clara entre os cenários e os léxicos?        SIM      |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |    SIM      |
 
-|  ID   |                                     Descrição                                      |                      Referência                      |                      Autor                       |
-| :---: | :--------------------------------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------: |
-|   1   |        Os textos estão redigidos de acordo com as normas da língua padrão?         |      COCKBURN, Alistair; LARMAN, Craig [⁴](#4)       |     [Eduarda](https://github.com/erteduarda)     |
-|   2   |                   O título do cenário é claro e autoexplicativo?                   |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |
-|   3   |       O objetivo do cenário está claro e corresponde ao título apresentado?        |   SOMMERVILLE [¹](#1), Ian; LARMAN, Craig [⁴](#4)    |     [Eduarda](https://github.com/erteduarda)     |
-|   4   | O contexto do cenário está bem descrito, incluindo local e pré-condições iniciais? |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |
-|   5   | Os episódios do cenário estão organizados de forma lógica e conduzem ao objetivo?  | COCKBURN, Alistair [³](#3); SOMMERVILLE, Ian [¹](#1) | [Renata Quadros](https://github.com/Renatinha28) |
-|   6   | O cenário apresenta situações plausíveis e relevantes de interação com o sistema?  |   JACOBSON, Ivar[²](#2); SOMMERVILLE, Ian  [¹](#1)   |                      Carla                       |
-|   7   |     Os atores descritos no cenário estão alinhados com o contexto apresentado?     |  COCKBURN, Alistair [³](#3); LARMAN, Craig [⁴](#4)   |     [Davi Nobre](https://github.com/Jagaima)     |
-|   8   |              Existe uma conexão clara entre os cenários e os léxicos?              |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a> e <a href="https://github.com/ccarlaa">Carla Clementino</a></p>
 </center>
