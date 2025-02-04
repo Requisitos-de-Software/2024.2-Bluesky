@@ -25,24 +25,15 @@ A tabela 2 mostra o checklist da **Matriz**.
 
 
     Tabela 2: matriz de rastreabilidade
-|  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   | Autor | Versão - Data - Hora |
-| :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |:--------: | :--------: |
-| 09 | A matriz registra os requisitos expressos em linguagem natural e numerados sequencialmente? | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp1.png) | Davi |
-| 10 | A matriz inclui artefatos gerados durante o processo de desenvolvimento (como documentos, arquitetura, componentes e casos de teste)? | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp2.png) |  Eduarda |
-| 11 | Os registros de rastreabilidade foram realizados manualmente? | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp3.png) | Renata |
-| 12 | Há hiperlinks ou conexões entre os diferentes artefatos na matriz (como léxico e cenários)? | - | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp4.png) | Jõao |
-| 13 | A matriz suporta múltiplas versões de requisitos e casos de uso? | - |[SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp5.png) | Carla | 
+|  ID   |                                                               Descrição                                                               | Avaliação |                                          Referência                                          |  Autor  | Versão - Data - Hora |
+| :---: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------------------------------------------------------------------------------------------: | :-----: | :------------------: |
+|  09   |                      A matriz registra os requisitos expressos em linguagem natural e numerados sequencialmente?                      |     -     | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp1.png) |  Davi   |
+|  10   | A matriz inclui artefatos gerados durante o processo de desenvolvimento (como documentos, arquitetura, componentes e casos de teste)? |     -     | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp2.png) | Eduarda |
+|  11   |                                     Os registros de rastreabilidade foram realizados manualmente?                                     |     -     | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp3.png) | Renata  |
+|  12   |                      Há hiperlinks ou conexões entre os diferentes artefatos na matriz (como léxico e cenários)?                      |     -     | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp4.png) |  Jõao   |
+|  13   |                                   A matriz suporta múltiplas versões de requisitos e casos de uso?                                    |     -     | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp5.png) |  Carla  |
 
 <b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a>
-
-
-### Vídeo da inspeção - Matrix
-
-
-## Comentários - Matrix
-
-
-
 
 </center>
 

@@ -85,6 +85,7 @@ nav:
     - Apresentação 3: Home/apresentacao3.md
     - Apresentação 4: Home/apresentacao4.md
     - Apresentação 5: Home/apresentacao5.md
+    - Apresentação 6: Home/apresentacao6.md
   - Cronograma Executado: Home/cronogramaex.md
 
   - Desenvolvimento:
@@ -178,10 +179,10 @@ nav:
         - Entrega 5: Verificacao/inspecoes/grupo01/entrega5.md
       - Grupo 02: 
         - Entrega 1: Verificacao/inspecoes/grupo02/entrega1.md
-        - Entrega 2: Verificacao/inspecoes/grupo02/entrega2.md
+        # - Entrega 2: Verificacao/inspecoes/grupo02/entrega2.md
         - Entrega 3: Verificacao/inspecoes/grupo02/entrega3.md
-        - Entrega 4: Verificacao/inspecoes/grupo02/entrega4.md
+        # - Entrega 4: Verificacao/inspecoes/grupo02/entrega4.md
         - Entrega 5: Verificacao/inspecoes/grupo02/entrega5.md
     - Validação: 
-      - Prototipação: Verificacao/validacao/prototipacao.md
+      # - Prototipação: Verificacao/validacao/prototipacao.md
       - Comprovação Informal: Verificacao/validacao/comprovacao.md

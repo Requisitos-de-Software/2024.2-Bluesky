@@ -7,14 +7,14 @@ O objetivo deste documento é consolidar as apresentações do Grupo 01, permiti
 ## Metodologia
 A metodologia adotada para este documento consiste na gravação de todas as apresentações realizadas pelo Grupo 01 ao longo do semestre. Cada apresentação foi registrada em vídeo para garantir a preservação do conteúdo e facilitar o acesso a ele a qualquer momento. Além disso, todas as apresentações vão ser alocadas no YouTube na categoria "não listado".[¹](#1)
 
-## Apresentação 5
-Nesta etapa foram entregues: Elos, Matriz de rastreabilidade e verificação da etapa 5. O link para o vídeo da apresentação é apresentado logo a seguir. A data da gravação foi dia 19/01/2025 e todos os integrantes estavam presentes.
+## Apresentação 6
+Nesta etapa foram entregues: Verificação e validação. O link para o vídeo da apresentação é apresentado logo a seguir. A data da gravação foi dia 03/02/2025 e todos os integrantes estavam presentes.
 
 ### Vídeo da apresentação
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Vídeo 1:</b> Apresentação 5</p></font>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WSIw6R3OglI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<font size="3"><p style="text-align: center"><b>Vídeo 1:</b> Apresentação 6</p></font>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Kr3_QsGopdM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <font size="3"><p style="text-align: center"><b>Autor:</b> Eduarda Tavares</p></font>
 </div>
 
@@ -34,11 +34,11 @@ Nesta etapa foram entregues: Elos, Matriz de rastreabilidade e verificação da 
             <th>Revisor</th>
         </tr>
         <tr>
-            <td>19/01/2025</td>
+            <td>03/02/2025</td>
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
-            <td>19/01/2025</td>
+            <td>03/02/2025</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>

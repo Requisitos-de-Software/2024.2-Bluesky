@@ -10,9 +10,9 @@ Como metodologia teremos uma tabela modelo para realização do checklist, como 
 <center>
 <font size="3"><b>Tabela 1:</b> Tabela modelo </font>
 
-| Descrição | Referência | Autor(a) | Avaliação |
-|:---------:|:---------:|:-----------:|:-------:|
-| Pergunta para verificação | Referência | Integrante do grupo responsável pela pergunta | Resposta |
+|         Descrição         | Referência |                   Autor(a)                    | Avaliação |
+| :-----------------------: | :--------: | :-------------------------------------------: | :-------: |
+| Pergunta para verificação | Referência | Integrante do grupo responsável pela pergunta | Resposta  |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 </center>
@@ -23,12 +23,12 @@ A tabela 2 mostra o checklist da [Especificação Suplementar](../../../PerfilUs
 <center>
 <font size="3"><b>Tabela 2:</b> Verificação - Especificação suplementar</font>
 
-| Descrição | Referência | Autor(a) | Avaliação |
-|:---------:|:---------:|:-----------:|:-----:| 
-| Descreve os requisitos não funcionais? | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](../../assets/images/s1.png)<sup>[1](#ref1) | Davi| Sim |
-| O documento usa o FURPS+? | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](../../assets/images/s2.png)<sup>[1](#ref1)  | João| Sim |
-| Possui os 4 tópicos padrão do furps+? (Usabilidade, suporte, perfomance etc..) |  [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](../../assets/images/s3.png)<sup>[1](#ref1)  | Eduarda/Carla | Sim |
-| O documento fala sobre tempo de resposta em desempenho?   | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](../../assets/images/s3.png)<sup>[1](#ref1)  | Renata | Sim |
+|                                   Descrição                                    |                                              Referência                                              |   Autor(a)    | Avaliação |
+| :----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------: | :-------: |
+|                     Descreve os requisitos não funcionais?                     | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](../../assets/images/s1.png)<sup>[1](#ref1) |     Davi      |    Sim    |
+|                           O documento usa o FURPS+?                            | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](../../assets/images/s2.png)<sup>[1](#ref1) |     João      |    Sim    |
+| Possui os 4 tópicos padrão do furps+? (Usabilidade, suporte, perfomance etc..) | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](../../assets/images/s3.png)<sup>[1](#ref1) | Eduarda/Carla |    Sim    |
+|            O documento fala sobre tempo de resposta em desempenho?             | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](../../assets/images/s3.png)<sup>[1](#ref1) |    Renata     |    Sim    |
 
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Davi Nobre</a></p> 
@@ -51,19 +51,19 @@ De acordo com a inspeção feita, a Especificação Suĺementar foi realizado co
 <center>
 <font size="3"><b>Tabela 3:</b> Verificação - léxicos </font>
 
-| Descrição | Referência | Autor(a) | Resposta |
-|:---------:|:---------:|:-----------:|:--------:|
-| Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | Renata | SIM |
-| Cada símbolo é descrito por ao menos uma noção e um impacto? | [Leite (2012)](../../assets/images/inspecao3/inspLex1.PNG)<sup>[1](#ref1) | João / Eduarda |  SIM|
-| Os símbolos descritos têm sinônimo(s)? | [Leite (2012)](../../assets/images/inspecao3/inspLex2.PNG)<sup>[1](#ref1) | Davi |SIM  |
-| São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural? (Princípio do Vocabulário Mínimo) | [Leite (2012)](../../assets/images/inspecao3/inspLex3.PNG)<sup>[1](#ref1) | João | SIM |
-| São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade) | [Leite (2012)](../../assets/images/inspecao3/inspLex3.PNG)<sup>[1](#ref1) | João | SIM |
-| Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | Renata / João | SIM |
-| Nos símbolos do tipo verbo, seus impactos são os reflexos da ação no ambiente e os estados decorrentes? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | Carla | SIM |
-| Nos símbolos do tipo objeto, suas noções os definem e identificam outros objetos com os quais este se relaciona? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | João | Inconclusivo |
-| Nos símbolos do tipo objeto, seus impactos são as ações passíveis de serem aplicadas ao objeto? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | João | SIM  |
-| Nos símbolos do tipo estado, suas noções são seus significados e quais ações levaram a eles? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | João / Renata | NÃO |
-| Nos símbolos do tipo estado, seus impactos abrangem outros estados e ações originárias do estado descrito? | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | João | NÃO |
+|                                                                         Descrição                                                                         |                                Referência                                 |    Autor(a)    |   Resposta   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :------------: | :----------: |
+|                                   Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?                                    | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) |     Renata     |     SIM      |
+|                                               Cada símbolo é descrito por ao menos uma noção e um impacto?                                                | [Leite (2012)](../../assets/images/inspecao3/inspLex1.PNG)<sup>[1](#ref1) | João / Eduarda |     SIM      |
+|                                                          Os símbolos descritos têm sinônimo(s)?                                                           | [Leite (2012)](../../assets/images/inspecao3/inspLex2.PNG)<sup>[1](#ref1) |      Davi      |     SIM      |
+| São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural? (Princípio do Vocabulário Mínimo) | [Leite (2012)](../../assets/images/inspecao3/inspLex3.PNG)<sup>[1](#ref1) |      João      |     SIM      |
+|                       São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)                        | [Leite (2012)](../../assets/images/inspecao3/inspLex3.PNG)<sup>[1](#ref1) |      João      |     SIM      |
+|                   Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?                    | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | Renata / João  |     SIM      |
+|                          Nos símbolos do tipo verbo, seus impactos são os reflexos da ação no ambiente e os estados decorrentes?                          | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) |     Carla      |     SIM      |
+|                     Nos símbolos do tipo objeto, suas noções os definem e identificam outros objetos com os quais este se relaciona?                      | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) |      João      | Inconclusivo |
+|                              Nos símbolos do tipo objeto, seus impactos são as ações passíveis de serem aplicadas ao objeto?                              | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) |      João      |     SIM      |
+|                               Nos símbolos do tipo estado, suas noções são seus significados e quais ações levaram a eles?                                | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) | João / Renata  |     NÃO      |
+|                        Nos símbolos do tipo estado, seus impactos abrangem outros estados e ações originárias do estado descrito?                         | [Leite (2012)](../../assets/images/inspecao3/inspLex4.PNG)<sup>[1](#ref1) |      João      |     NÃO      |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 </center>
@@ -79,16 +79,17 @@ Precisamos de estado.
 ## Checklist dos Cenários
 
 <center>
+
 |  ID   |                                     Descrição                                      |                      Referência                      |                      Autor                       | Avaliação |
-| :---: | :--------------------------------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------: | :------: |
-|   1   |        Os textos estão redigidos de acordo com as normas da língua padrão?         |      COCKBURN, Alistair; LARMAN, Craig [⁴](#4)       |     [Eduarda](https://github.com/erteduarda)     |     SIM     |
-|   2   |                   O título do cenário é claro e autoexplicativo?                   |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |      SIM    |
-|   3   |       O objetivo do cenário está claro e corresponde ao título apresentado?        |   SOMMERVILLE [¹](#1), Ian; LARMAN, Craig [⁴](#4)    |     [Eduarda](https://github.com/erteduarda)     |    SIM      |
-|   4   | O contexto do cenário está bem descrito, incluindo local e pré-condições iniciais? |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |     SIM     |
-|   5   | Os episódios do cenário estão organizados de forma lógica e conduzem ao objetivo?  | COCKBURN, Alistair [³](#3); SOMMERVILLE, Ian [¹](#1) | [Renata Quadros](https://github.com/Renatinha28) |   SIM       |
-|   6   | O cenário apresenta situações plausíveis e relevantes de interação com o sistema?  |   JACOBSON, Ivar[²](#2); SOMMERVILLE, Ian  [¹](#1)   |                      Carla                       |   SIM       |
-|   7   |     Os atores descritos no cenário estão alinhados com o contexto apresentado?     |  COCKBURN, Alistair [³](#3); LARMAN, Craig [⁴](#4)   |     [Davi Nobre](https://github.com/Jagaima)     |     SIM     |
-|   8   |              Existe uma conexão clara entre os cenários e os léxicos?        SIM      |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |    SIM      |
+| :---: | :--------------------------------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------: | :-------: |
+|   1   |        Os textos estão redigidos de acordo com as normas da língua padrão?         |      COCKBURN, Alistair; LARMAN, Craig [⁴](#4)       |     [Eduarda](https://github.com/erteduarda)     |    SIM    |
+|   2   |                   O título do cenário é claro e autoexplicativo?                   |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |    SIM    |
+|   3   |       O objetivo do cenário está claro e corresponde ao título apresentado?        |   SOMMERVILLE [¹](#1), Ian; LARMAN, Craig [⁴](#4)    |     [Eduarda](https://github.com/erteduarda)     |    SIM    |
+|   4   | O contexto do cenário está bem descrito, incluindo local e pré-condições iniciais? |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |    SIM    |
+|   5   | Os episódios do cenário estão organizados de forma lógica e conduzem ao objetivo?  | COCKBURN, Alistair [³](#3); SOMMERVILLE, Ian [¹](#1) | [Renata Quadros](https://github.com/Renatinha28) |    SIM    |
+|   6   | O cenário apresenta situações plausíveis e relevantes de interação com o sistema?  |   JACOBSON, Ivar[²](#2); SOMMERVILLE, Ian  [¹](#1)   |                      Carla                       |    SIM    |
+|   7   |     Os atores descritos no cenário estão alinhados com o contexto apresentado?     |  COCKBURN, Alistair [³](#3); LARMAN, Craig [⁴](#4)   |     [Davi Nobre](https://github.com/Jagaima)     |    SIM    |
+|   8   |        Existe uma conexão clara entre os cenários e os léxicos?        SIM         |  JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   |     [Eduarda](https://github.com/erteduarda)     |    SIM    |
 
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a> e <a href="https://github.com/ccarlaa">Carla Clementino</a></p>
