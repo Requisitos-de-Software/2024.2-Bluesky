@@ -12,7 +12,7 @@ Um e-mail foi enviado à equipe do Bluesky, como mostra a imagem 1, contendo as 
 <div align="center">
     <p style="font-size: 18px; text-align: center;"><b>Figura 1:</b> E-mail para o Bluesky</p>
     <figure>
-        <img src="../../assets/images/email.png" style="width: 115%; height: auto; object-fit: cover;">
+        <img src="../../../assets/images/email.png" style="width: 115%; height: auto; object-fit: cover;">
     </figure>
     <p style="font-size: 18px; text-align: center;"><b>Autor:</b> Renata Quadros</p>
 </div>
