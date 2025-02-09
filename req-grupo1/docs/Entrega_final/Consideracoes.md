@@ -54,17 +54,17 @@ O grupo sofreu com grave perca de desemepnho devido a execução de duas tarefas
 </center>
 
 
-## Tabela de Feedback - Membro x
+## Tabela de Feedback - Membro 2 Renata Quadros
 
 <center>
 
 | Item                       | Resposta do Membro          |
 |----------------------------|------------------------------|
-| **Nome do Membro**          | [Preencher aqui]             |
-| **Feedback Positivo**       | [Ex: "A equipe foi colaborativa e as ferramentas facilitaram o trabalho"] |
-| **Feedback Negativo**       | [Ex: "Prazos muito apertados para tarefas complexas"] |
-| **Dificuldade Esperada**    | [Ex: 7 (em uma escala de 1 a 10)] |
-| **Dificuldade Real**        | [Ex: 9 (em uma escala de 1 a 10)] |
+| **Nome do Membro**          | Renata Quadros           |
+| **Feedback Positivo**       | A equipe foi colaborativa, sempre dividimos os artefatos de todas as entregas de maneira igual, além de quando alguém não podia fazer algum item, nós nos dividiamos para entregar tudo completo |
+| **Feedback Negativo**       | Como os membros faziam IHC, que tem a mesma metodoloia orientada a projetos, ficou complicado entregar tudo nos prazos |
+| **Dificuldade Esperada**    | 9 |
+| **Dificuldade Real**        | 7 |
 
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
@@ -148,5 +148,13 @@ O grupo sofreu com grave perca de desemepnho devido a execução de duas tarefas
             <td>08/02/2025</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
          </tr>    
+         <tr>
+            <td>09/02/2025</td>
+            <td>1.1</td>
+            <td>adição do meu feedback</td>
+            <td><a href="https://github.com/Renatinha28">Renata</a></td>
+            <td>09/02/2025</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+         </tr>   
         </table>
     </div>

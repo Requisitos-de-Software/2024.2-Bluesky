@@ -51,9 +51,32 @@ A tabela 2 mostra o checklist dos Elos
 
 Satisfátorio
 
+## Checklist da Verificação - Matriz
+A tabela 3 mostra o checklist da **Matriz**.
 
+<center>
+<font size="3"><b>Tabela 3:</b> Verificação - Matriz </font>
+
+|  ID   |                                                               Descrição                                                               | Avaliação |                                          Referência                                          |  Autor  | Versão - Data - Hora |
+| :---: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------------------------------------------------------------------------------------------: | :-----: | :------------------: |
+|  09   |                      A matriz registra os requisitos expressos em linguagem natural e numerados sequencialmente?                      |     Sim   | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp1.png) |  Davi   | v1.1 - 09/02 - 17:00 |
+|  10   | A matriz inclui artefatos gerados durante o processo de desenvolvimento (como documentos, arquitetura, componentes e casos de teste)? |     Sim  | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp2.png) | Eduarda | v1.1 - 09/02 - 17:00 |
+|  11   |                                     Os registros de rastreabilidade foram realizados manualmente?                                     |     Sim    | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp3.png) | Renata  | v1.1 - 09/02 - 17:00 |
+|  12   |                      Há hiperlinks ou conexões entre os diferentes artefatos na matriz (como léxico e cenários)?                      |     Sim    | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp4.png) |  Jõao   | v1.1 - 09/02 - 17:00 |
+|  13   |                                   A matriz suporta múltiplas versões de requisitos e casos de uso?                                    |     Não    | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../assets/images/insp5.png) |  Carla  |v1.1 - 09/02 - 17:00 |
+
+<b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a>
+
+</center>
+
+## Vídeo Matriz
+<iframe width="853" height="480" src="https://www.youtube.com/embed/1VDn-CtJc-I" title="Matriz grupo 02 requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Comentários
+Único ponto a se observar é em questão das versões dos requisitos.
 
 ## :round_pushpin: Histórico de Versão 
+> 1. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 18 jan. 2025.
 
 <div align="center">
     <table>
@@ -72,6 +95,14 @@ Satisfátorio
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>03/02/2025</td>
             <td><a href="https://github.com/Renatinha28">Renata</a></td>
+        </tr>
+        <tr>
+            <td>09/02/2025</td>
+            <td>1.1</td>
+            <td>Inspeção Matriz</td>
+            <td><a href="https://github.com/Renatinha28">Renata</a></td>
+            <td>09/02/2025</td>
+            <td><a href="https://github.com/Jagaima">Davi</a></td>
         </tr>
     </table>
 </div>

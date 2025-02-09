@@ -36,6 +36,7 @@ A tabela 2 mostra a inspeção dos RichPictures
 
 ## Vídeo da inspeção - Rich Picture
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/O5-iNF2aQZ8" title="Rich picture grupo 02 requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Comentários
