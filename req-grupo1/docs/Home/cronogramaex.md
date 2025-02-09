@@ -81,7 +81,7 @@ A metodologia adotada para o desenvolvimento deste cronograma executado baseia-s
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Etapa 6
-    Tabela 6: Cronograma planejado - Etapa 6 - Pós-Rastreabilidade - Gerência II
+    Tabela 6: Cronograma executado - Etapa 6 - Pós-Rastreabilidade - Gerência II
 | Atividade   | Período de desenvolvimento 	| Responsáveis   | Revisão                  	| Revisores       	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
 |   Pós-rastreabilidade: Elos: Backward-from e Forward-from | Início: 17/01<br>Fim: 19/01 |  Eduarda, João Vitor, Renata, Carla, Davi	| Início: 18/01<br>Fim: 19/01 	|  Eduarda, João, Renata, Carla, Davi	|
@@ -93,7 +93,7 @@ A metodologia adotada para o desenvolvimento deste cronograma executado baseia-s
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Etapa 5.1
-    Tabela 5: Cronograma planejado - Etapa 5.1 - Análise de Requisitos: Verificação e Validação
+    Tabela 5: Cronograma executado - Etapa 5.1 - Análise de Requisitos: Verificação e Validação
 | Atividade   | Período de desenvolvimento 	| Responsáveis   | Revisão                  	| Revisores       	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
 |   Verificação - Preparação  | Início: 28/01<br>Fim: 01/02    	|  Carla, Davi, João Vitor, Renata, Eduarda  | Início: 30/01 Fim: 03/02 |   Carla, Davi, João Vitor, Renata, Eduarda 	|
@@ -104,7 +104,7 @@ A metodologia adotada para o desenvolvimento deste cronograma executado baseia-s
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Etapa 5.2
-    Tabela 7: Cronograma planejado - Etapa 5.1 - Análise de Requisitos: Verificação e Validação
+    Tabela 7: Cronograma executado - Etapa 5.2 - Análise de Requisitos: Verificação e Validação
 | Atividade   | Período de desenvolvimento 	| Responsáveis   | Revisão                  	| Revisores       	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
 |   Verificação grupo 01  | Início: 03/02<br>Fim: 03/02    	|  Renata, Davi, Carla, Eduarda, João  | Início: 03/02 Fim: 03/02 	|    Renata, Davi, Carla	|
@@ -117,7 +117,7 @@ A metodologia adotada para o desenvolvimento deste cronograma executado baseia-s
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Etapa Final
-    Tabela 8: Cronograma planejado - Etapa Final
+    Tabela 8: Cronograma executado - Etapa Final
 | Atividade   | Período de desenvolvimento 	| Responsáveis   | Revisão                  	| Revisores       	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
 |   Desenvolvimento do projeto final (correção e complemento) 	| Início: 07/02<br>Fim: 09/02    	| Carla, Eduarda, Davi, João Vitor, Renata 	| Início: 09/02 Fim: 09/02 	| Carla, Eduarda, Davi, João Vitor, Renata 	|

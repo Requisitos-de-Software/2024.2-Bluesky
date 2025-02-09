@@ -101,7 +101,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Etapa 5.2
-    Tabela 7: Cronograma planejado - Etapa 5.1 - Análise de Requisitos: Verificação e Validação
+    Tabela 7: Cronograma planejado - Etapa 5.2 - Análise de Requisitos: Verificação e Validação
 | Atividade   | Período de desenvolvimento 	| Responsáveis   | Revisão                  	| Revisores       	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
 |   Verificação 2  | Início: 24/01<br>Fim: 26/01    	|  Carla, João Vitor, Eduarda  | Início: 27/01 Fim: 27/01 	|    Renata, Davi	|
