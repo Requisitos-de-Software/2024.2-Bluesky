@@ -38,7 +38,7 @@ A tabela 2 mostra o resultado da inspeção feita pelo integrante [João Ribeiro
 | 10     | As histórias de usuário possuem uma ação?                                                   | [Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w) | [Carla](https://github.com/ccarlaa)      | sim |
 | 11     | As histórias de usuário possuem um dado?                                                    | [Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w) | [Eduarda](https://github.com/erteduarda) | sim |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda</a></p> 
 </center>
 
 ## Vídeo das Histórias de usuário
