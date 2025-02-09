@@ -207,6 +207,42 @@ A inspeção foi realizada pela integrante Renata Quadros.
 ## Comentário - Brainstorm
 Foram encontrados alguns erros, porém, tendo em vista que, os resultados das técnicas já foram utilizadas, não tem necessidade de ajustes/correções.
 
+## Checklist da Verificação - Firsts Things First
+
+A tabela 10 mostra o resultado da inspeção feita pelo integrante [João Ribeiro](https://github.com/Joa0V) do [Firsts Things First](../../../PerfilUsuario/TecnicasPrior/FirstThingsFirst.md).
+
+<center>
+<font size="3"><b>Tabela 10:</b> Verificação - Firsts Things First </font>
+
+|                                                                                  **Descrição**                                                                                  |                                                 **Referência**                                                 |  **Autor**    | **Avaliação** |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------: | :-------: |
+|                                             Participaram da técnica representantes dos clientes e representantes da equipe técnica?                                             | [Slides Requisitos - Aula 07. Apresentação de Slides](../../../assets/images/inspecao2/inspFtf1.PNG) [¹](#ref10)   |   Carla       |    Sim    |
+|                                                              Existiu um moderador durante a realização da técnica?                                                              | [Slides Requisitos - Aula 07. Apresentação de Slides](../../../assets/images/inspecao2/inspFtf1.PNG) [¹](#ref10)   |    João       |    Sim    |
+|                                                            Os requisitos elicitados foram listados em uma planilha?                                                             | [Slides Requisitos - Aula 07. Apresentação de Slides](../../../assets/images/inspecao2/inspFtf2.PNG) [¹](#ref10)   |    Davi       |    Sim    |
+|                                                Os valores estimados variam de 1 a 9, sendo 1 o valor mínimo e 9 o valor máximo?                                                 | [Slides Requisitos - Aula 07. Apresentação de Slides](../../../assets/images/inspecao2/inspFtf3.PNG) [¹](#ref10)   |   Eduarda     |    Sim    |
+|                                  O usuário participante estimou a o benefício relativo e a penalidade de não implementação de cada requisito?                                   | [Slides Requisitos - Aula 07. Apresentação de Slides](../../../assets/images/inspecao2/inspFtf3.PNG) [¹](#ref10)   |  Renata       |    Sim    |
+|                                      O desenvolvedor participante estimou a o custo relativo e o grau de risco relativo de cada requisito?                                      | [Slides Requisitos - Aula 07. Apresentação de Slides](../../../assets/images/inspecao2/inspFtf3.PNG) [¹](#ref10)   |   Carla       |    Sim    |
+|                                   Benefício relativo, penalidade relativa, custo relativo e risco relativo tiveram seus pesos estabelecidos?                                    | [Slides Requisitos - Aula 07. Apresentação de Slides](../../../assets/images/inspecao2/inspFtf4.PNG) [¹](#ref10)   |  Renata       |    Sim    |
+| O valor total de cada requisito foi obtido a partir da soma do (``Benefício Relativo * Peso do Benefício Relativo``) e (``Penalidade Relativa * Peso da Penalidade Relativa``)? | [Slides Requisitos - Aula 07. Apresentação de Slides](../../../assets/images/inspecao2/inspFtf5.PNG) [¹](#ref10)   |   Eduarda     |    Sim    |
+|                                 A prioridade de cada requisito foi calculada como sendo `Valor% / (Custo% * Peso Custo + Risco% * Peso Risco)`?                                 | [Slides Requisitos - Aula 07. Apresentação de Slides](../../../assets/images/inspecao2/inspFtf6.PNG) [¹](#ref10)   |   Carla       |    Sim    |
+|                                                   Os requisitos priorizados foram listado em ordem decrescente de prioridade?                                                   | [Slides Requisitos - Aula 07. Apresentação de Slides](../../../assets/images/inspecao2/inspFtf7.PNG) [¹](#ref10)   |    João       |    Sim    |
+|                              Os requisitos priorizados estão no mesmo nível de abstração? (Ex.: features, casos de uso, história de usuário, etc.)                              | [WIEGERS e BEATTY (2013)](../../../assets/images/inspecao2/inspFtf8.PNG) [²](#ref11)                 |    João       |    Sim    |
+
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+</center>
+
+## Vídeo da inspeção - Firsts Things First
+
+<center>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/eORksNi3hfM" title="Ftf grupo 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+## Comentário - Firsts Things First
+
+Não foram encontradas inconsistências na inspeção baseada na lista de verificação.
+
+
 ## Referências Bibliográficas
 > 1. <a id="ref1"></a> Gerência de Requisitos. Monografia: Sayão, M.; Leite, J. C. S. P. Rastreabilidade de Requisitos. 2005. Monografia – Ciência da Computação – Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2005.
 
@@ -226,7 +262,9 @@ Foram encontrados alguns erros, porém, tendo em vista que, os resultados das t�
 
 > 9. COMPUTER SOCIETY. Cenários de Uso - SWEBOK. Disponível em: https://www.computer.org/education/bodies-of-knowledge/software-engineering. Acesso em: 03 fev. 2025.
 
+> 10. <a id="ref10"></a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Apresentação de Slides. Acesso em: 24/11/2024.
 
+> 11. <a id="ref11"></a> WIEGERS, Karl E.; BEATTY, Joy. FIRST things first: Setting requirement priorities. Software Requirements. 3. ed. S. l.: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -271,6 +309,14 @@ Foram encontrados alguns erros, porém, tendo em vista que, os resultados das t�
             <td><a href="https://github.com/Renatinha28">Renata</a></td>
             <td>09/02/2025</td>
             <td><a href="https://github.com/ccarlaa">Carla</a></td>
+        </tr>
+        <tr>
+            <td>09/02/2025</td>
+            <td>1.3</td>
+            <td>Inspeção do Firsts Things First</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>10/02/2025</td>
+            <td><a href="https://github.com/erteduarda">Eduarda</a></td>
         </tr>
     </table>
 </div>
