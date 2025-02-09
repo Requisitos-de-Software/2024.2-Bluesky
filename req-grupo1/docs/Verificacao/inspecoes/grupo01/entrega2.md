@@ -49,7 +49,7 @@ De acordo com a inspeção feita, o questionário foi realizado corretamente
 
 
 ## Checklist da Verificação - Personas
-A tabela 2 mostra o checklist dos [Personas](../../../PerfilUsuario/Personas.md) realizado pela integrante [Carla Clementino](https://github.com/ccaralaa)
+A tabela 3 mostra o checklist dos [Personas](../../../PerfilUsuario/Personas.md) realizado pela integrante [Carla Clementino](https://github.com/ccaralaa)
 
 |  ID   |                                                                 Descrição                                                                  | Avaliação |                                                                                                              Referência                                                                                                               |  Autor  |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----: |
@@ -64,7 +64,7 @@ A tabela 2 mostra o checklist dos [Personas](../../../PerfilUsuario/Personas.md)
 <b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a>
 
 ## Checklist da Verificação - Introspeccão
-A tabela 2 mostra o checklist dos [Introspecção](../../../PerfilUsuario/Tecnicas/Introspeccao.md) realizado pela integrante [Carla Clementino](https://github.com/ccaralaa)
+A tabela 4 mostra o checklist dos [Introspecção](../../../PerfilUsuario/Tecnicas/Introspeccao.md) realizado pela integrante [Carla Clementino](https://github.com/ccaralaa)
 
 
 | ID  | Descrição                                                                                                | Avaliação | Referência                                                                                                         | Autor   |
@@ -83,10 +83,10 @@ A tabela 2 mostra o checklist dos [Introspecção](../../../PerfilUsuario/Tecnic
 
 
 ## Checklist da Verificação $100
-A tabela 2 mostra o checklist da Técnica de Priorização $100
+A tabela 5 mostra o checklist da Técnica de Priorização $100
 
 <center>
-<font size="3"><b>Tabela 4:</b> Verificação - $100 </font>
+<font size="3"><b>Tabela 5:</b> Verificação - $100 </font>
 
 |                                                    Descrição                                                    |                              Referência                               | Autor(a) |    Resposta     |
 | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :------: | :-------------: |
@@ -101,8 +101,11 @@ A tabela 2 mostra o checklist da Técnica de Priorização $100
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 </center>
 
+## Vídeo da inspeção - $100
+<iframe width="853" height="480" src="https://www.youtube.com/embed/nXTyTXcU0gg" title="$100 grupo 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Checklist da Verificação Observação
-A tabela 2 mostra o checklist da Técnica de Priorização Observação
+A tabela 6 mostra o checklist da Técnica de Priorização Observação
 
 |  ID   |                              Descrição                               |                                                                 Referência                                                                  |  Autor  | Avaliação |
 | :---: | :------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-----: | :-------: |
@@ -123,10 +126,9 @@ A tabela 2 mostra o checklist da Técnica de Priorização Observação
 
 Todas as verificações foram realizadas corretamente.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/nXTyTXcU0gg" title="$100 grupo 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Checklist da Verificação Three Level Scale
-A tabela 2 mostra o checklist da Técnica de Priorização Three Level Scale
+A tabela 7 mostra o checklist da Técnica de Priorização Three Level Scale
 
 |  ID   |                                  Descrição                                   |                                                                                         Referência                                                                                          | Autor  | Avaliação |
 | :---: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-------: |
@@ -148,6 +150,62 @@ A tabela 2 mostra o checklist da Técnica de Priorização Three Level Scale
 
 Todas as verificações foram realizadas corretamente.
 
+## Checklist de verificação Perfil do usuário: 
+
+<center>
+<font size="3"><b>Tabela 8:</b> Verificação - Perfil de usuário </font>
+
+| Descrição | Referência | Autor(a) | Resposta |
+|:---------:|:---------:|:-----------:|:--------:|
+| O perfil de usuário detalha as características do usuário? | [Barbosa et al. (2021)](../../assets/images/PU1.png)<sup>[1](#ref1) | Renata | SIM |
+| O perfil de usuário detalha as características de interesse (função, cargo, experiência, nível de instrução, atividades principais, faixa etária, etc)? | [Barbosa et al. (2021)](../../assets/images/PU2.png)<sup>[1](#ref1) | Davi | SIM |
+| O perfil de usuário foi definido através de um estudo para coletar os dados? | [Barbosa et al. (2021)](../../assets/images/PU3.png)<sup>[1](#ref1) | Eduarda | SIM |
+| O perfil de usuário foi construído com dados sobre o próprio usuário, sua relação com tecnologia, seu domínio do produto e tarefas que utilizará com o produto? | [Barbosa et al. (2021)](../../assets/images/PU4.png)<sup>[1](#ref1) | Carla | SIM |
+| Os usuários são caracterizados em grupos, com base em suas semelhanças? | [Barbosa et al. (2021)](../../assets/images/PU5.png)<sup>[1](#ref1) | João | SIM |
+| Os grupos são definidos corretamente (idade, experiência, atitudes e tarefas primárias)? | [Barbosa et al. (2021)](../../assets/images/PU6.png)<sup>[1](#ref1) | Renata | SIM |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+</center>
+
+
+
+## Vídeo do Perfil de usuário
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/VoF2G8om7dQ" title="perfil de usuário grupo 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Comentários
+
+parece ter tido um resultado positivo  no perfil de usuário. 
+
+## Checklist da Verificação - Brainstorm
+A tabela 9 mostra o checklist da Técnica de Elicitação Brainstorm
+
+<center>
+<font size="3"><b>Tabela 9:</b> Verificação - Brainstorm </font>
+
+|                                                                   Descrição                                                                    |                                         Referência                                 | Autor(a) | Avaliação |
+| :--------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------: |:--------:|
+|                                                A sessão de brainstorm durou em torno de 1 hora?                                                | [Barbosa et al(2021)](../../assets/images/inspecao2/inspBrainstorm1.PNG)[¹](#ref1) |  Renata  | Sim (a Eduarda reduziu o vídeo por questões de organização) |
+|                                          A sessão de brainstorm contou com de 8 a 12 usuários finais?                                          | [Barbosa et al(2021)](../../assets/images/inspecao2/inspBrainstorm1.PNG)[¹](#ref1) |  Carla   | Não |
+|                                                       A sessão contou com um moderador?                                                        | [Barbosa et al(2021)](../../assets/images/inspecao2/inspBrainstorm2.PNG)[¹](#ref1) |   João   | Sim | 
+|                                  Os participantes foram informados sobre o objetivo da sessão de brainstorm?                                   | [Barbosa et al(2021)](../../assets/images/inspecao2/inspBrainstorm2.PNG)[¹](#ref1) | Eduarda  | Sim |
+|                                                        Foi realizada uma sessão-piloto?                                                        | [Barbosa et al(2021)](../../assets/images/inspecao2/inspBrainstorm4.PNG)[¹](#ref1) |   João   | Não |
+| A sessão de brainstorm começou com uma pergunta que sumarizou o objetivo de entender os desejos e necessidades dos usuários quanto ao produto? | [Barbosa et al(2021)](../../assets/images/inspecao2/inspBrainstorm1.PNG)[¹](#ref1) |   Davi   | Sim |
+|                     Caso os participantes tenham se desviado do objetivo, as regras e a pergunta inicial foram repetidas?                      | [Barbosa et al(2021)](../../assets/images/inspecao2/inspBrainstorm3.PNG)[¹](#ref1) |   Davi   | Sim |
+|  Foi estabelecido como regra a não censura das ideias dos participantes, as quais todas estariam corretas por se tratar de um sistema ideal?   | [Barbosa et al(2021)](../../assets/images/inspecao2/inspBrainstorm5.PNG)[¹](#ref1) |   João   | Sim | 
+
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+</center>
+
+## Vídeo da inspeção - Brainstorm
+A inspeção foi realizada pela integrante Renata Quadros.
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/u7Gwyp1Cxwk" title="Brainstorm grupo 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Comentário - Brainstorm
+Foram encontrados alguns erros, porém, tendo em vista que, os resultados das técnicas já foram utilizadas, não tem necessidade de ajustes/correções.
 
 ## Referências Bibliográficas
 > 1. <a id="ref1"></a> Gerência de Requisitos. Monografia: Sayão, M.; Leite, J. C. S. P. Rastreabilidade de Requisitos. 2005. Monografia – Ciência da Computação – Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2005.
@@ -192,11 +250,27 @@ Todas as verificações foram realizadas corretamente.
         </tr>
         <tr>
             <td>03/02/2025</td>
-            <td>1.0</td>
+            <td>1.1</td>
             <td>Inspeção davi $100</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>03/02/2025</td>
             <td><a href="https://github.com/Renatinha28">Renata</a></td>
+        </tr>
+        <tr>
+            <td>03/02/2025</td>
+            <td>1.2</td>
+            <td>Inspeção Perfil de usuário</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>03/02/2025</td>
+            <td><a href="https://github.com/Renatinha28">Renata</a></td>
+        </tr>
+        <tr>
+            <td>09/02/2025</td>
+            <td>1.3</td>
+            <td>Inspeção Brainstorm</td>
+            <td><a href="https://github.com/Renatinha28">Renata</a></td>
+            <td>09/02/2025</td>
+            <td><a href="https://github.com/ccarlaa">Carla</a></td>
         </tr>
     </table>
 </div>

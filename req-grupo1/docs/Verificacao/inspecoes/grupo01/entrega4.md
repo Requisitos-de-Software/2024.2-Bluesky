@@ -46,6 +46,36 @@ A tabela 2 mostra o checklist da [NFR](../../../Modelagem/Agil/NFRs.md) realizad
 ### Comentários - NFR
 De acordo com a inspeção feita, o NFR foi realizado corretamente
 
+## Checklist da Verificação
+A tabela 3 mostra o checklist das **Histórias de Usuário**.
+
+<center>
+<font size="3"><b>Tabela 3:</b> Verificação - Histórias de Usuário </font>
+
+| **ID** | **Descrição**                                                                               | **Referência**                                                                           | **Autor**                                | **Avaliação** |
+| ------ | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------- | -------- | 
+| 1      | As Histórias de Usuário estão bem definidas?                                                | [Plano de ensino](../../assets/images/NFR10.png)                                         | [Davi Nobre](https://github.com/Jagaima) | sim |
+| 2      | Os títulos das histórias de usuário são auto-explicativos?                                  | [Plano de ensino](../../assets/images/NFR10.png)                                         | [Eduarda](https://github.com/erteduarda) | sim | 
+| 3      | O “quem”, “o que” e o “por que” estão definidos na história de usuário?                     | [Plano de ensino](../../assets/images/NFR10.png)                                         | [Carla](https://github.com/ccarlaa)      | sim |
+| 4      | Há participação do cliente e/ou persona na validação das histórias de usuário?              | [Plano de ensino](../../assets/images/NFR10.png)                                         | [João](https://github.com/Joa0V)         | incompleto |
+| 5      | A história possui critérios de aceitação?                                                   | [Plano de ensino](../../assets/images/NFR10.png)                                         | [João](https://github.com/Joa0V)         | sim |
+| 6      | Há participação do cliente e/ou persona na elicitação de requisitos?                        | [Plano de ensino](../../assets/images/NFR10.png)                                         | [Eduarda](https://github.com/erteduarda) | sim |
+| 7      | Todas as histórias de usuários podem ser testadas?                                          | [Plano de ensino](../../assets/images/NFR10.png)                                         | [Davi Nobre](https://github.com/Jagaima) | sim |
+| 8      | As histórias de usuário são adequadas para representar a experiência do usuário no Bluesky? | [Plano de ensino](../../assets/images/NFR10.png)                                         | [João](https://github.com/Joa0V)         | sim |
+| 9      | As histórias de usuário possuem um usuário?                                                 | [Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w) | [Carla](https://github.com/ccarlaa)      | sim |
+| 10     | As histórias de usuário possuem uma ação?                                                   | [Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w) | [Carla](https://github.com/ccarlaa)      | sim |
+| 11     | As histórias de usuário possuem um dado?                                                    | [Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w) | [Eduarda](https://github.com/erteduarda) | sim |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+</center>
+
+## Vídeo da inspeção - História de Usuário
+<iframe width="853" height="480" src="https://www.youtube.com/embed/WNV1lpCJ39c" title="História de usuário grupo 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Comentários 
+Como visto, as histórias de usuários foram feitas corretamente.
+
 ## Referências Bibliográficas
 > 1. <a id="ref1"></a> Gerência de Requisitos. Monografia: Sayão, M.; Leite, J. C. S. P. Rastreabilidade de Requisitos. 2005. Monografia – Ciência da Computação – Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2005.
 
@@ -67,6 +97,14 @@ De acordo com a inspeção feita, o NFR foi realizado corretamente
             <td>Inspeção NFR</td>
             <td><a href="https://github.com/Renatinha28">Renata</a></td>
             <td>03/02/2025</td>
+            <td><a href="https://github.com/ccarlaa">Carla</a></td>
+        </tr>
+        <tr>
+            <td>09/02/2025</td>
+            <td>1.1</td>
+            <td>Inspeção história de usuário</td>
+            <td><a href="https://github.com/Renatinha28">Renata</a></td>
+            <td>09/02/2025</td>
             <td><a href="https://github.com/ccarlaa">Carla</a></td>
         </tr>
     </table>
