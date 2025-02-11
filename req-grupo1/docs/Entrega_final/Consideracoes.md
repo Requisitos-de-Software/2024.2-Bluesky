@@ -72,17 +72,17 @@ O grupo sofreu com grave perca de desemepnho devido a execução de duas tarefas
 </center>
 
 
-## Tabela de Feedback - Membro x
+## Tabela de Feedback - Carla Clementino
 
 <center>
 
 | Item                       | Resposta do Membro          |
 |----------------------------|------------------------------|
-| **Nome do Membro**          | [Preencher aqui]             |
-| **Feedback Positivo**       | [Ex: "A equipe foi colaborativa e as ferramentas facilitaram o trabalho"] |
-| **Feedback Negativo**       | [Ex: "Prazos muito apertados para tarefas complexas"] |
-| **Dificuldade Esperada**    | [Ex: 7 (em uma escala de 1 a 10)] |
-| **Dificuldade Real**        | [Ex: 9 (em uma escala de 1 a 10)] |
+| **Nome do Membro**          | Carla Clementino             |
+| **Feedback Positivo**       | A equipe foi colaborativa e os membros souberam se apoiar.|
+| **Feedback Negativo**       | Prazos muito apertados para o volume de tarefas que precisavam ser entregues |
+| **Dificuldade Esperada**    | 7  |
+| **Dificuldade Real**        | 9  |
 
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
