@@ -58,10 +58,21 @@ A tabela 3 mostra o checklist dos [Personas](../../../PerfilUsuario/Personas.md)
 |   3   |                                    O projeto possui um elenco de personas de 3 a 12 personas distintas?                                    |    Sim    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per3.png) |  João   |
 |   4   |                                               O elenco possui ao menos uma persona primária?                                               |    Sim    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per4.png) |  Carla  |
 |   5   |                                              O elenco cobre os principais grupos de usuário?                                               |    Sim    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per5.png) | Eduarda |
-|   6   |                                                  O elenco possui três personas primárias?                                                  |    Sim    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per5.png) | Renata  |
+|   6   |                                                  O elenco possui três personas primárias?                                                  |    Não    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per5.png) | Renata  |
 |   7   |                                      As personas possuem objetivos de experiência, finais e de vida?                                       |    Sim    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per6.png) | Renata  |
 
 <b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a>
+
+### Vídeo da inspeção - Personas 
+
+<center>
+
+<iframe width="874" height="492" src="https://www.youtube.com/embed/B2Xmocofyw4" title="personas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+### Comentários - Personas 
+
+O artefato precisa de alterações.
 
 ## Checklist da Verificação - Introspeccão
 A tabela 4 mostra o checklist dos [Introspecção](../../../PerfilUsuario/Tecnicas/Introspeccao.md) realizado pela integrante [Carla Clementino](https://github.com/ccaralaa)
@@ -69,18 +80,29 @@ A tabela 4 mostra o checklist dos [Introspecção](../../../PerfilUsuario/Tecnic
 
 | ID  | Descrição                                                                                                | Avaliação | Referência                                                                                                         | Autor   |
 | --- | -------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------ | ------- |
-| 1   | O método de introspecção foi aplicado com base em cenários reais de uso da rede social?                  | Sim       | [Guia BABOK - Técnicas de Elicitação](https://www.iiba.org/babok-guide/)                                           | Eduarda |
-| 2   | Os requisitos elicitados refletem as principais funcionalidades esperadas por usuários de redes sociais? | Sim       | [Engenharia de Requisitos - Sommerville](https://www.pearson.com/store/p/software-engineering/P100000309253)       | Eduarda |
-| 3   | Foram identificados problemas ou limitações durante a aplicação da introspecção?                         | Sim       | [IEEE 29148 - Requisitos de Sistema e Software](https://standards.ieee.org/standard/29148-2018.html)               | Eduarda |
-| 4   | O método de introspecção capturou requisitos relacionados à privacidade e segurança de dados?            | Sim       | [Técnicas de Elicitação de Requisitos](https://requirements.com/)                                                  | Eduarda |
-| 5   | Os cenários descritos durante a introspecção são detalhados e incluem interações típicas dos usuários?   | Sim       | [Validação de Requisitos - PMI](https://www.pmi.org/learning/library/requirements-validation-7392)                 | Eduarda |
-| 6   | Os requisitos elicitados foram validados para garantir sua viabilidade técnica?                          | Sim       | [IEEE 830 - Documentação de Requisitos](https://standards.ieee.org/standard/830-1998.html)                         | Eduarda |
-| 7   | Foram identificados exemplos claros de situações em que a rede social seria utilizada?                   | Sim       | [Práticas de Engenharia de Requisitos](https://sciencedirect.com/topics/computer-science/requirements-engineering) | Eduarda |
-| 8   | Há evidências de que os requisitos elicitados estão alinhados com as expectativas dos usuários?          | Sim       | [Cenários de Uso - SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering)            | Eduarda |
+| 1   | O método de introspecção foi aplicado com base em cenários reais de uso da rede social?                  | sim       | [Guia BABOK - Técnicas de Elicitação](https://www.iiba.org/babok-guide/)                                           | Eduarda |
+| 2   | Os requisitos elicitados refletem as principais funcionalidades esperadas por usuários de redes sociais? | sim       | [Engenharia de Requisitos - Sommerville](https://www.pearson.com/store/p/software-engineering/P100000309253)       | Eduarda |
+| 3   | Foram identificados problemas ou limitações durante a aplicação da introspecção?                         | sim       | [IEEE 29148 - Requisitos de Sistema e Software](https://standards.ieee.org/standard/29148-2018.html)               | Eduarda |
+| 4   | O método de introspecção capturou requisitos relacionados à privacidade e segurança de dados?            | sim       | [Técnicas de Elicitação de Requisitos](https://requirements.com/)                                                  | Eduarda |
+| 5   | Os cenários descritos durante a introspecção são detalhados e incluem interações típicas dos usuários?   | sim       | [Validação de Requisitos - PMI](https://www.pmi.org/learning/library/requirements-validation-7392)                 | Eduarda |
+| 6   | Os requisitos elicitados foram validados para garantir sua viabilidade técnica?                          | sim       | [IEEE 830 - Documentação de Requisitos](https://standards.ieee.org/standard/830-1998.html)                         | Eduarda |
+| 7   | Foram identificados exemplos claros de situações em que a rede social seria utilizada?                   | sim       | [Práticas de Engenharia de Requisitos](https://sciencedirect.com/topics/computer-science/requirements-engineering) | Eduarda |
+| 8   | Há evidências de que os requisitos elicitados estão alinhados com as expectativas dos usuários?          | sim       | [Cenários de Uso - SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering)            | Eduarda |
 
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p>    
 
+### Vídeo da inspeção - Introspeccão
+
+<center>
+
+<iframe width="874" height="492" src="https://www.youtube.com/embed/TltbI9NnOUw" title="introspecção" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+### Comentários - Introspeccão
+
+O artefato não precisa de alterações.
 
 ## Checklist da Verificação $100
 A tabela 5 mostra o checklist da Técnica de Priorização $100
