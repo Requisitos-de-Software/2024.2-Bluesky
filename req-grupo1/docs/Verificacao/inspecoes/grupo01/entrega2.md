@@ -58,10 +58,19 @@ A tabela 3 mostra o checklist dos [Personas](../../../PerfilUsuario/Personas.md)
 |   3   |                                    O projeto possui um elenco de personas de 3 a 12 personas distintas?                                    |    Sim    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per3.png) |  João   |
 |   4   |                                               O elenco possui ao menos uma persona primária?                                               |    Sim    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per4.png) |  Carla  |
 |   5   |                                              O elenco cobre os principais grupos de usuário?                                               |    Sim    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per5.png) | Eduarda |
-|   6   |                                                  O elenco possui três personas primárias?                                                  |    Sim    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per5.png) | Renata  |
+|   6   |                                                  O elenco possui três personas primárias?                                                  |    Não    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per5.png) | Renata  |
 |   7   |                                      As personas possuem objetivos de experiência, finais e de vida?                                       |    Sim    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per6.png) | Renata  |
 
 <b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a>
+
+### Vídeo da inspeção - Personas 
+
+<center>
+
+<iframe width="874" height="492" src="https://www.youtube.com/embed/B2Xmocofyw4" title="personas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 
 ## Checklist da Verificação - Introspeccão
 A tabela 4 mostra o checklist dos [Introspecção](../../../PerfilUsuario/Tecnicas/Introspeccao.md) realizado pela integrante [Carla Clementino](https://github.com/ccaralaa)
