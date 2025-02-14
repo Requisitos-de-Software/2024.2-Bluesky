@@ -228,6 +228,8 @@ A tabela 1 organiza todos os épicos
 
 ## **Validação com Usuário**
 
+<a id="13_a_19"></a>
+
 O vídeo 1 contém a verificação dos Épicos do 2.13 ao 2.19. Foi realizado pela [Carla Clementino](https://github.com/ccarlaa) com a participação voluntária da Bruna de Araújo atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 21:00.
 
 <center>
@@ -237,6 +239,8 @@ O vídeo 1 contém a verificação dos Épicos do 2.13 ao 2.19. Foi realizado pe
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
 </center>
+
+<a id="15_a_23"></a>
 
 O vídeo 2 contém a verificação dos itens de backlog referentes às histórias de usuário 15 a 23. Foi realizado pela [João Ribeiro](https://github.com/Joa0V) com a participação voluntária da Melissa como usuário. Esta gravação foi realizada no dia 15/01/2025 às 15:11.
 

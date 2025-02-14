@@ -5,7 +5,7 @@
 <figure>
     <img src="../assets/images/Bluesky_app_icon.png"  style="width: 90%; height: auto; object-fit: cover;">
 </figure>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://play.google.com/store/apps/details?id=xyz.blueskyweb.app&hl=en_US">Google Play</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://play.google.com/store/apps/details?id=xyz.blueskyweb.app&hl=en_US">Google Play</a>, 2024. Versão: 1.85.1</p></font>
 </div>
 
 ## :round_pushpin: Sobre o projeto
@@ -70,11 +70,19 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
             <th>Revisor</th>
         </tr>
         <tr>
-            <td>22/10</td>
+            <td>22/10/2024</td>
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>03/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>10/02/2025</td>
+            <td>1.1</td>
+            <td>Adiciona versão do aplicativo</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+            <td>10/02/2025</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>

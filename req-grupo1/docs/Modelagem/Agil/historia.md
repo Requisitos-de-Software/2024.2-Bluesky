@@ -32,10 +32,10 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 
 | História de Usuario |              Desenvolvedor               | Usuário | Link levando a gravação |
 | :-----------------: | :--------------------------------------: | :-----: | :---------------------: |
-|    US24 até US30    |   [Carla](https://github.com/ccarlaa)    |  Bruna  |        [Link](#)        |
-|    US08 até US14    | [Davi Nobre](https://github.com/Jagaima) |  Inara  |        [Link](#)        |
+|    US24 até US30    |   [Carla](https://github.com/ccarlaa)    |  Bruna  |        [Link](#24_a_30)        |
+|    US08 até US14    | [Davi Nobre](https://github.com/Jagaima) |  Inara  |        [Link](#8_a_14)        |
 |    US31 até US37    | [Eduarda](https://github.com/erteduarda) |   Ana   |        [Link](#)        |
-|    US15 até US23    |     [João](https://github.com/Joa0V)     |    -    |            -            |
+|    US15 até US23    |     [João](https://github.com/Joa0V)     |    Melissa    |           [Link](#15_a_23)            |
 |    US01 até US07    | [Renata](https://github.com/Renatinha28) | Amanda  |     [Link](#1_a_7)      |
 
 
@@ -571,6 +571,8 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 </center>
 
 ### Validação com Usuário
+
+<a id="15_a_23"></a>
 
 O vídeo 3 contém a verificação das histórias de usuário e backlog do 15 ao 23. Foi realizado por [João Ribeiro](https://github.com/Joa0V) com a participação voluntária da Melissa como usuário. Esta gravação foi realizada no dia 15/01/2025 às 14:56.
 

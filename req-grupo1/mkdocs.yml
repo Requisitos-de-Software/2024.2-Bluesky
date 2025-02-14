@@ -79,12 +79,15 @@ nav:
     - 2º reunião: Atas/reuniao_2.md
     - 3º reunião: Atas/reuniao_3.md
     - 4º reunião: Atas/reuniao_4.md
+    - 5º reunião: Atas/reuniao_5.md
   - Apresentações: 
     - Apresentação 1: Home/apresentacao1.md
     - Apresentação 2: Home/apresentacao2.md
     - Apresentação 3: Home/apresentacao3.md
     - Apresentação 4: Home/apresentacao4.md
     - Apresentação 5: Home/apresentacao5.md
+    - Apresentação 6: Home/apresentacao6.md
+    - Apresentação Final: Home/apresentacaofinal.md
   - Cronograma Executado: Home/cronogramaex.md
 
   - Desenvolvimento:
@@ -147,3 +150,55 @@ nav:
       - Planejamento etapa 5: Revisao/Etapa5/planejamento.md
       - Inspeção etapa 5: Revisao/Etapa5/insp5.md
       - Inspeção grupo 02: Revisao/Etapa5/Grupo2.md
+
+  - Verificação e Validação:
+    - Preparação: 
+      - Rich Picture: Verificacao/preparacao/Rich.md
+      - Perfil de Usuário: Verificacao/preparacao/perfil.md
+      - Personas: Verificacao/preparacao/personas.md
+      - Questionário: Verificacao/preparacao/questionario.md
+      - Observação: Verificacao/preparacao/observacao.md
+      - Brainstorm: Verificacao/preparacao/brainstorm.md
+      - Introspecção: Verificacao/preparacao/introspeccao.md
+      - Three Level Scale: Verificacao/preparacao/three.md
+      - First Things First: Verificacao/preparacao/first.md
+      - $100: Verificacao/preparacao/100.md
+      - Léxicos: Verificacao/preparacao/lexicos.md
+      - Cenário: Verificacao/preparacao/cenario.md
+      - Caso de Uso: Verificacao/preparacao/casos.md
+      - Especificação Suplementar: Verificacao/preparacao/especificacao.md
+      - História de Usuário: Verificacao/preparacao/historia.md
+      - Backlog: Verificacao/preparacao/backlog.md
+      - NFR: Verificacao/preparacao/NFR.md
+      - Elos: Verificacao/preparacao/elos.md
+      - Matriz: Verificacao/preparacao/matriz.md
+    - Inspeções: 
+      - Grupo 01: 
+        - Entrega 1: Verificacao/inspecoes/grupo01/entrega1.md
+        - Entrega 2: Verificacao/inspecoes/grupo01/entrega2.md
+        - Entrega 3: Verificacao/inspecoes/grupo01/entrega3.md
+        - Entrega 4: Verificacao/inspecoes/grupo01/entrega4.md
+        - Entrega 5: Verificacao/inspecoes/grupo01/entrega5.md
+      - Grupo 02: 
+        - Entrega 1: Verificacao/inspecoes/grupo02/entrega1.md
+        - Entrega 2: Verificacao/inspecoes/grupo02/entrega2.md
+        - Entrega 3: Verificacao/inspecoes/grupo02/entrega3.md
+        - Entrega 4: Verificacao/inspecoes/grupo02/entrega4.md
+        - Entrega 5: Verificacao/inspecoes/grupo02/entrega5.md
+    - Validação: 
+      - Prototipação: Verificacao/validacao/prototipacao.md
+      - Comprovação Informal: Verificacao/validacao/comprovacao.md
+
+  - Entrega Final:
+    - Aplicativo Selecionado: Entrega_final/Aplicativo_sel.md
+    - Ferramentas Utilizadas: Entrega_final/Ferramentas.md
+    - Artefatos Criados: Entrega_final/Artefatos.md
+    - Execução do Projeto: Entrega_final/Execucao.md
+    - Técnicas Utilizadas: Entrega_final/Tecnicas.md
+    - Tabela de Apresentações: Entrega_final/Apresentacao.md
+    - Planejamento dos Recursos e das Entregas: Entrega_final/Planejamento.md
+    - Resultados Alcançados: Entrega_final/Resultados.md
+    - Verificação: Entrega_final/Verificacao.md
+    - Validação: Entrega_final/Validacao.md
+    - Feedback: Entrega_final/Consideracoes.md
+    - Considerações Finais: Entrega_final/consideracoesfinais.md

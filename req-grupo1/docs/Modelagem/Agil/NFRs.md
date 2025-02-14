@@ -189,7 +189,10 @@ As tabelas 2, 3, 4 e 5 mostram o cartão suplementar de cada softgoal dentro de 
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
+<a id="1"></a>
+
 #### Validação Usuário
+
 
 O vídeo 1 contém a validação do SIG informal da Usabilidade. Foi realizado pela [Renata Quadros](https://github.com/Renatinha28) com a participação voluntária do Heder atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 18:30.
 
@@ -260,8 +263,10 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
 
+<a id="2"></a>
 
 #### Validação Usuário
+
 
 O vídeo 2 contém a validação do SIG informal da Usabilidade. Foi realizado por [Davi Nobre](https://github.com/Jagaima) com a participação voluntária da Inara atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 17:10.
 
@@ -337,6 +342,8 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 <p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
 
 ## **Validação com Usuário**
+
+<a id="3"></a>
 
 O vídeo 2 contém a verificação do NFR framework relacionadas a Suporte . Foi realizado pela [Carla Clementino](https://github.com/ccarlaa) com a participação voluntária da Bruna de Araújo atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 21:00.
 
@@ -470,6 +477,8 @@ A figura a seguir e as próximas duas tabelas referenciam requisitos de interfac
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 #### **Validação com Usuário**
+
+<a id="4"></a>
 
 O vídeo 4 contém a verificação do NFR framework relacionadas a Requisitos de interface . Foi realizado pelo [João Ribeiro](https://github.com/Joa0V) com a participação voluntária da Melissa como usuário. Esta gravação foi realizada no dia 15/01/2025 às 15:20.
 
